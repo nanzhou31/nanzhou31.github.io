@@ -50,6 +50,9 @@ url: http://nanzhou31.github.io
 baseurl: ""
 
 #
+
+future: true
+
 # !! You don't need to change any of the configuration flags below !!
 #
 
