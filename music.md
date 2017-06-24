@@ -3,8 +3,6 @@ layout: page
 permalink: /music/
 comments:true
 ---
-
-
 ###  남주 찬양 리스트
 1 [내 마음을 가득 채운](#track_1) <br/>
 2 [주님의 사랑](#track_2) <br/>
@@ -16,13 +14,11 @@ comments:true
 8 [부르신 곳에서](#track_9) <br/>
 9 [예수 아름다우신](#track_10) <br/>
 10 [How great is our GOD (위대하신주)](#track_11)
-
 ---
-
 
 <div id="track_1">
 
-	<h4>내 마음을 가득채운</h4>
+	<h4>내마음을 가득채운_主,我爱您</h4>
 
 	<audio controls preload="auto" style="width:100%;">
 		<source src="../music/track_1.aac" type="audio/mp4">
