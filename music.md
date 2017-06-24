@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /music/
+permalink:
 comments:true
 
 ---
