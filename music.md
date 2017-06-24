@@ -888,4 +888,135 @@ Yēsū, róng měi de jiù zhǔ.	</div>
 
 ---
 
+<div id="track_11">
+
+	<h4>예수아름다우신_榮美的救主</h4>
+
+	<audio controls preload="auto" style="width:100%;">
+		<source src="../music/track_11.acc" type="audio/mp4">
+		<source src="../music/track_11.mp3" type="audio/mpeg">
+	</audio>
+
+	<ul class="tab_tit" id="t11">
+		<li><a href="#t11_tab_1">한국어</a></li>
+		<li><a href="#t11_tab_2">중국어</a></li>
+		<li><a href="#t11_tab_3">병음</a></li>
+		<li><a href="#t11_tab_4">독음</a></li>
+	</ul>
+
+
+	<div id="t11_tab_1" class="tab_content" style="display:block">
+        빛나는 왕의 왕 영광의 주님 <br />
+        온 땅 기뻐하라 온 땅 기뻐하라  <br /><br />
+        광채의 옷 입고 어두움 물리쳐 <br />
+        저 원수는 떠네 저 원수는 떠네 <br /><br />
+        위대하신 주 찬양해 위대하신 주 <br />
+        모두 알게 되리라 위대하신 주 <br /><br />
+
+        영원한 주의 주 시간의 주관자 <br />
+        알파와 오메가 알파와 오메가  <br /><br />
+
+        삼위의 하나님 아바 성령 예수 <br />
+        사자와 어린 양 사자와 어린 양 <br /> <br />
+
+        위대하신 주 찬양해 위대하신 주 <br />
+        모두 알게 되리라 위대하신 주 <br /><br />
+
+        모든 이름 위에 뛰어나신 이름 <br />
+        다 찬양해 위대하신 주 <br /><br />
+        모든 이름 위에 뛰어나신 이름 <br />
+        다 찬양해 위대하신 주 <br /><br />
+
+        위대하신 주 찬양해 위대하신 주 <br />
+        모두 알게 되리라 위대하신 주 <br />
+    </div>
+
+	<div id="t11_tab_2" class="tab_content" style="display:none">
+1.
+尊貴榮耀君王 在全地之上 <br />
+願萬民都喜樂 全地都喜樂 <br />
+主你滿有榮光 黑暗都躲藏 <br />
+萬民高聲唱 齊來高聲唱 <br /><br />
+
+Chorus: <br />
+我神 真偉大 <br />
+歌頌你聖名 真偉大 <br />
+全地都看見 我神 真偉大 <br /><br />
+
+2.
+昔在永在君王 從今直到永遠 <br />
+你從不曾改變 永存在天地間 <br />
+你是三一真神 父子與聖靈 <br />
+真神的羔羊 全能神羔羊 <br /><br />
+
+Chorus: <br />
+我神 真偉大 <br />
+歌頌你聖名 真偉大 <br />
+全地都看見 我神 真偉大 <br /><br />
+
+Bridge: <br />
+你至聖尊名 配受大讚美 <br />
+全心歌頌 我神 真偉大 <br />
+
+	</div>
+	<div id="t11_tab_3" class="tab_content" style="display:none">
+1 .
+zūn guì róng yào jūn wáng   zài quán dì zhī shàng <br />
+yuàn wàn mín dū xǐ lè   quán dì dū xǐ lè <br />
+zhǔ nǐ mǎn yǒu róng guāng   hēi àn dū duǒ cáng <br />
+wàn mín gāo shēng chàng   qí lái gāo shēng chàng <br /><br />
+
+Chorus : <br />
+wǒ shén   zhēn wěi dà <br />
+gē sòng nǐ shèng míng   zhēn wěi dà <br />
+quán dì dū kàn jiàn   wǒ shén   zhēn wěi dà <br /><br />
+
+2 .
+xī zài yǒng zài jūn wáng   cóng jīn zhí dào yǒng yuǎn <br />
+nǐ cóng bù zēng gǎi biàn   yǒng cún zài tiān dì jiān <br />
+nǐ shì sān yī zhēn shén   fù zǐ yǔ shèng líng <br />
+zhēn shén dí gāo yáng   quán néng shén gāo yáng <br />
+
+Chorus : <br />
+wǒ shén   zhēn wěi dà <br />
+gē sòng nǐ shèng míng   zhēn wěi dà <br />
+quán dì dū kàn jiàn   wǒ shén   zhēn wěi dà <br /><br />
+
+Bridge : <br />
+nǐ zhì shèng zūn míng   pèi shòu dà zàn měi <br />
+quán xīn gē sòng   wǒ shén   zhēn wěi dà
+    </div>
+	<div id="t11_tab_4" class="tab_content" style="display:none">
+1 .
+zun 꿰이 롱 야오 君 왕   짜이 취앤 띠 즈 상 <br />
+위앤 완 민 뚜 시 러   취앤 띠 뚜 시 러 <br /><br />
+주 니 만 요우 롱 꾸앙   헤이 안 뚜 뚜어 창 <br />
+완 민 까오 셩 창   치 라이 까오 셩 창  <br /><br />
+
+Chorus : <br />
+워 션   전 웨이 따 <br />
+꺼 쏭 니 셩 밍   전 웨이 따 <br />
+취앤 띠 뚜 칸 지앤   워 션   전 웨이 따 <br />
+
+2 . <br />
+시 짜이 용 짜이 君 왕   총 진 즈 따오 용 위앤 <br />
+니 총 뿌 쩡 까이 삐앤   용 춘 짜이 티앤 띠 지앤 <br />
+니 스 싼 이 전 션   푸 쯔 위 셩 링 <br />
+전 션 띠 까오 양   취앤 넝 션 까오 양 <br /><br />
+
+Chorus : <br />
+워 션   전 웨이 따 <br />
+꺼 쏭 니 셩 밍   전 웨이 따 <br />
+취앤 띠 뚜 칸 지앤   워 션   전 웨이 따 <br /><br />
+
+Bridge : <br />
+니 즈 셩 zun 밍   페이 셔우 따 짠 메이 <br />
+취앤 신 꺼 쏭   워 션   전 웨이 따 <br />
+    </div>
+
+</div>
+
+---
+
+
 
