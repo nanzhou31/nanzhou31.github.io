@@ -4,6 +4,8 @@ permalink: /music/
 comments:true
 ---
 ###  남주 찬양 리스트
+
+
 1 [내 마음을 가득 채운 主,我爱您](#track_1) <br/>
 2 [주님의 사랑 上帝的恩爱](#track_2) <br/>
 3 [Alive (살아계신주) 使我得生命](#track_3) <br/>
@@ -14,6 +16,7 @@ comments:true
 8 [부르신 곳에서 在祢呼召之地](#track_9) <br/>
 9 [예수 아름다우신 榮美的救主](#track_10) <br/>
 10 [How great is our GOD (위대하신주) 我神真偉大](#track_11)
+
 
 
 ---
