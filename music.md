@@ -1,21 +1,28 @@
 ---
 layout: page
 permalink: /music/
+comments:true
+
 ---
+
 
 
 ###  남주 찬양 리스트
 
-1 [내 마음을 가득 채운](#track_1) <br/>
-2 [주님의 사랑](#track_2) <br/>
-3 [Wake (날세우시네)](#track_3) <br/>
-4 [Alive (살아계신주)](#track_4) <br/>
-5 [하늘 위에 주님 밖에](#track_5) <br/>
-6 [지금은 엘리야 때처럼](#track_6) <br/>
-7 [나같은 죄인 살리신](#track_7)    <br/>
-8 [부르신 곳에서](#track_9) <br/>
-9 [예수 아름다우신](#track_10) <br/>
-10 [How great is our GOD (위대하신주)](#track_11)
+
+
+   1 [내 마음을 가득 채운](#track_1) <br /> 
+   2 [주님의 사랑](#track_2) <br />
+    3 [Wake (날세우시네)](#track_3) <br />
+    4 [Alive (살아계신주)](#track_4) <br />
+    5 [하늘 위에 주님 밖에](#track_5) <br />
+    6 [지금은 엘리야 때처럼](#track_6) <br />
+    7 [나같은 죄인 살리신](#track_7)    <br />
+    8 [부르신 곳에서](#track_9) <br />
+    9 [예수 아름다우신](#track_10) <br />
+    10 [How great is our GOD (위대하신주)  ](#track_11)
+
+---
 
 
 <div id="track_1">
@@ -99,7 +106,7 @@ permalink: /music/
 
 </div>
 
-
+---
 
 <div id="track_2">
 
@@ -173,7 +180,7 @@ permalink: /music/
 
 </div>
 
-
+---
 
 <div id="track_3">
 
@@ -288,7 +295,7 @@ permalink: /music/
 
 </div>
 
-
+---
 
 <div id="track_4">
 
@@ -308,94 +315,94 @@ permalink: /music/
 
 
 	<div id="t4_tab_1" class="tab_content" style="display:block">
-		새 아침에 희망되신 주 부르네 주를 보네 <br/>
-		우리 마음 주께 맞춰 늘 함께 걸으리 <br/>
-		내 눈의 등불 내 삶 비춰 주의 사랑 타 오르네 <br/>
-		거리마다 빛 비추네 주의 영광 나타나 <br/><br/>
+		새 아침에 희망되신 주 부르네 주를 보네 <br />
+		우리 마음 주께 맞춰 늘 함께 걸으리 <br />
+		내 눈의 등불 내 삶 비춰 주의 사랑 타 오르네 <br />
+		거리마다 빛 비추네 주의 영광 나타나 <br /><br />
 
-		당신의 그 사랑은 영원히 머무네 <br/>
-		내 곁에 내 삶에 환하게 날 비추네 <br/>
-		당신의 그 사랑은 영원히 머무네 <br/>
-		내 곁에 내 삶에 환하게 날 비추네 <br/><br/>
+		당신의 그 사랑은 영원히 머무네 <br />
+		내 곁에 내 삶에 환하게 날 비추네 <br />
+		당신의 그 사랑은 영원히 머무네 <br />
+		내 곁에 내 삶에 환하게 날 비추네 <br /><br />
 
-		You wake within me Wake within me <br/>
-		You're in my heart FOREVER <br/>
-		You wake within me Wake within me <br/>
-		You're in my heart FOREVER <br/><br/>
+		You wake within me Wake within me <br />
+		You're in my heart FOREVER <br />
+		You wake within me Wake within me <br />
+		You're in my heart FOREVER <br /><br />
 
-		내 눈의 등불 내 삶 비춰 <br/>
-		주의 사랑 타 오르네 <br/>
-		거리마다 빛 비추네 <br/>
-		주의 영광 나타나 <br/>
+		내 눈의 등불 내 삶 비춰 <br />
+		주의 사랑 타 오르네  <br />
+		거리마다 빛 비추네 <br />
+		주의 영광 나타나 <br />
 	</div>
 
 	<div id="t4_tab_2" class="tab_content" style="display:none">
-		黎明之際 盼望興起 <br/>
-		我仰望你 宣告你名 <br/>
-		讓我與你 心跳合一 <br/>
-		就在這裡 與你同行 <br/><br/>
+		黎明之際 盼望興起 <br />
+		我仰望你 宣告你名 <br />
+		讓我與你 心跳合一 <br />
+		就在這裡 與你同行 <br /><br />
 
-		在我眼中有火 被你點燃 <br/>
-		不羈的愛 燃燒起來 <br/>
-		永恆的光 街頭綻放 <br/>
-		你突破黑夜衝出來 <br/><br/>
+		在我眼中有火 被你點燃 <br />
+		不羈的愛 燃燒起來 <br />
+		永恆的光 街頭綻放 <br />
+		你突破黑夜衝出來 <br /><br />
 
-		你的愛一直都在 <br/>
-		永遠不會離開 <br/>
-		為了我 而存在 <br/>
-		要點燃這個世代 <br/><br/>
+		你的愛一直都在 <br />
+		永遠不會離開 <br />
+		為了我 而存在 <br />
+		要點燃這個世代  <br /><br />
 
-		你讓我甦醒 讓我甦醒 <br/>
-		你的愛充滿我心 <br/>
-		你的愛 你的愛 你的愛 <br/>
-		到永遠 (我知道) <br/>
+		你讓我甦醒 讓我甦醒 <br />
+		你的愛充滿我心 <br />
+		你的愛 你的愛 你的愛 <br />
+		到永遠 (我知道) <br />
 	</div>
 	<div id="t4_tab_3" class="tab_content" style="display:none">
-		lí míng zhī jì pàn wàng xīng qǐ <br/>
-		wǒ yǎng wàng nǐ xuān gào nǐ míng <br/>
-		ràng wǒ yǔ nǐ xīn tiào hé yī <br/>
-		jiù zài zhè lǐ yǔ nǐ tóng xíng <br/><br/>
+		lí míng zhī jì   pàn wàng xīng qǐ  <br />
+		wǒ yǎng wàng nǐ   xuān gào nǐ míng  <br />
+		ràng wǒ yǔ nǐ   xīn tiào hé yī <br />
+		jiù zài zhè lǐ   yǔ nǐ tóng xíng <br /><br />
 
-		zài wǒ yǎn zhōng yǒu huǒ bèi nǐ diǎn rán <br/>
-		bù jī dí ài rán shāo qǐ lái <br/>
-		yǒng héng dí guāng jiē tóu zhàn fàng <br/>
-		nǐ tū pò hēi yè chōng chū lái <br/><br/>
+		zài wǒ yǎn zhōng yǒu huǒ   bèi nǐ diǎn rán <br />
+		bù jī dí ài   rán shāo qǐ lái <br />
+		yǒng héng dí guāng   jiē tóu zhàn fàng <br />
+		nǐ tū pò hēi yè chōng chū lái <br /><br />
 
-		nǐ dí ài yī zhí dū zài <br/>
-		yǒng yuǎn bù huì lí kāi <br/>
-		wéi liǎo wǒ ér cún zài <br/>
-		yào diǎn rán zhè gè shì dài <br/><br/>
+		nǐ dí ài yī zhí dū zài <br />
+		yǒng yuǎn bù huì lí kāi <br />
+		wéi liǎo wǒ   ér cún zài <br />
+		yào diǎn rán zhè gè shì dài <br /><br />
 
-		nǐ ràng wǒ sū xǐng ràng wǒ sū xǐng <br/>
-		nǐ dí ài chōng mǎn wǒ xīn <br/>
-		nǐ dí ài nǐ dí ài nǐ dí ài <br/>
-		dào yǒng yuǎn ( wǒ zhī dào ) <br/>
+		nǐ ràng wǒ sū xǐng   ràng wǒ sū xǐng <br />
+		nǐ dí ài chōng mǎn wǒ xīn <br />
+		nǐ dí ài   nǐ dí ài   nǐ dí ài <br />
+		dào yǒng yuǎn   ( wǒ zhī dào ) <br />
 	</div>
 	<div id="t4_tab_4" class="tab_content" style="display:none">
-		리 밍 즈 지 판 왕 싱 치 <br/>
-		워 양 왕 니 쉬앤 까오 니 밍 <br/>
-		랑 워 위 니 신 탸오 허 이 <br/>
-		지우 짜이 저 리 위 니 통 싱 <br/><br/>
+		리 밍 즈 지   판 왕 싱 치 <br />
+		워 양 왕 니   쉬앤 까오 니 밍 <br />
+		랑 워 위 니   신 탸오 허 이 <br />
+		지우 짜이 저 리   위 니 통 싱 <br /><br />
 
-		짜이 워 얜 종 요우 후어 뻬이 니 띠앤 란 <br/>
-		뿌 지 띠 아이 란 사오 치 라이 <br/>
-		용 헝 띠 꾸앙 지에 터우 잔 팡 <br/>
-		니 투 포 헤이 예 총 추 라이 <br/><br/>
+		짜이 워 얜 종 요우 후어   뻬이 니 띠앤 란 <br />
+		뿌 지 띠 아이   란 사오 치 라이 <br />
+		용 헝 띠 꾸앙   지에 터우 잔 팡 <br />
+		니 투 포 헤이 예 총 추 라이 <br /><br />
 
-		니 띠 아이 이 즈 뚜 짜이 <br/>
-		용 위앤 뿌 훼이 리 카이 <br/>
-		웨이 랴오 워 얼 춘 짜이 <br/>
-		야오 띠앤 란 저 꺼 스 따이 <br/><br/>
+		니 띠 아이 이 즈 뚜 짜이 <br />
+		용 위앤 뿌 훼이 리 카이 <br />
+		웨이 랴오 워   얼 춘 짜이 <br />
+		야오 띠앤 란 저 꺼 스 따이 <br /><br />
 
-		니 랑 워 쑤 싱 랑 워 쑤 싱 <br/>
-		니 띠 아이 총 만 워 신 <br/>
-		니 띠 아이 니 띠 아이 니 띠 아이 <br/>
-		따오 용 위앤 ( 워 즈 따오 ) <br/>
+		니 랑 워 쑤 싱   랑 워 쑤 싱 <br />
+		니 띠 아이 총 만 워 신 <br />
+		니 띠 아이   니 띠 아이   니 띠 아이 <br />
+		따오 용 위앤   ( 워 즈 따오 ) <br />
 	</div>
 
 </div>
 
-
+---
 
 <div id="track_5">
 
@@ -415,49 +422,49 @@ permalink: /music/
 
 
 	<div id="t5_tab_1" class="tab_content" style="display:block">
-		하늘 위에 주님 밖에 <br/>
-		내가 사모할 자 이 세상에 없네 <br/>
-		내 맘과 힘은 믿을 수 없네 <br/>
-		오직 한가지 그 진리를 믿네 <br/><br/>
+		하늘 위에 주님 밖에  <br />
+		내가 사모할 자 이 세상에 없네 <br />
+		내 맘과 힘은 믿을 수 없네 <br />
+		오직 한가지 그 진리를 믿네 <br /><br />
 
-		주는 나의 힘이요 <br/>
-		주는 나의 힘이요 <br/>
-		주는 나의 힘이요 <br/>
-		영원히 주를 의지하리 <br/>
-		영원히 <br/>
+		주는 나의 힘이요 <br />
+		주는 나의 힘이요 <br />
+		주는 나의 힘이요 <br />
+		영원히 주를 의지하리 <br />
+		영원히 <br />
 	</div>
 
 	<div id="t5_tab_2" class="tab_content" style="display:none">
-		除了你在天上有谁 <br/>
-		除了你在地上, 我也没有所爱 <br/>
-		虽然有时候, 我身心软弱 <br/>
-		但有一件事 永远不会改变 <br/><br/>
-		神真是我的力量 神真是我的力量 <br/>
-		神真是我的力量 <br/>
-		我的福分到永远, 到永远 <br/>
+		除了你在天上有谁 <br />
+		除了你在地上, 我也没有所爱 <br />
+		虽然有时候, 我身心软弱 <br />
+		但有一件事 永远不会改变 <br /><br />
+		神真是我的力量 神真是我的力量 <br />
+		神真是我的力量 <br />
+		我的福分到永远, 到永远 <br />
 	</div>
 	<div id="t5_tab_3" class="tab_content" style="display:none">
-		chú liǎo nǐ zài tiān shàng yǒu shuí <br/>
-		chú liǎo nǐ zài dì shàng , wǒ yě méi yǒu suǒ ài <br/>
-		suī rán yǒu shí hòu , wǒ shēn xīn ruǎn ruò <br/>
-		dàn yǒu yī jiàn shì yǒng yuǎn bù huì gǎi biàn <br/><br/>
-		shén zhēn shì wǒ dí lì liáng shén zhēn shì wǒ dí lì liáng <br/>
-		shén zhēn shì wǒ dí lì liáng <br/>
-		wǒ dí fú fēn dào yǒng yuǎn , dào yǒng yuǎn <br/>
+		chú liǎo nǐ zài tiān shàng yǒu shuí  <br />
+		chú liǎo nǐ zài dì shàng ,   wǒ yě méi yǒu suǒ ài <br />
+		suī rán yǒu shí hòu ,   wǒ shēn xīn ruǎn ruò <br />
+		dàn yǒu yī jiàn shì   yǒng yuǎn bù huì gǎi biàn <br /><br />
+		shén zhēn shì wǒ dí lì liáng   shén zhēn shì wǒ dí lì liáng  <br />
+		shén zhēn shì wǒ dí lì liáng   <br />
+		wǒ dí fú fēn dào yǒng yuǎn ,   dào yǒng yuǎn  <br />
 	</div>
 	<div id="t5_tab_4" class="tab_content" style="display:none">
-		추 랴오 니 짜이 티앤 상 요우 쉐이 <br/>
-		추 랴오 니 짜이 띠 상 , 워 예 메이 요우 쑤어 아이 <br/>
-		쒜이 란 요우 스 허우 , 워 션 신 루안 루어 <br/>
-		딴 요우 이 지앤 스 용 위앤 뿌 훼이 까이 삐앤 <br/><br/>
-		션 전 스 워 띠 리 량 션 전 스 워 띠 리 량 <br/>
-		션 전 스 워 띠 리 량 <br/>
-		워 띠 푸 펀 따오 용 위앤 , 따오 용 위앤 <br/>
+		추 랴오 니 짜이 티앤 상 요우 쉐이  <br />
+		추 랴오 니 짜이 띠 상 ,   워 예 메이 요우 쑤어 아이 <br />
+		쒜이 란 요우 스 허우 ,   워 션 신 루안 루어 <br />
+		딴 요우 이 지앤 스   용 위앤 뿌 훼이 까이 삐앤 <br /><br />
+		션 전 스 워 띠 리 량   션 전 스 워 띠 리 량   <br />
+		션 전 스 워 띠 리 량   <br />
+		워 띠 푸 펀 따오 용 위앤 ,   따오 용 위앤 <br />
 	</div>
 
 </div>
 
-
+---
 
 <div id="track_6">
 
@@ -478,104 +485,104 @@ permalink: /music/
 
 	<div id="t6_tab_1" class="tab_content" style="display:block">
 		1.
-		지금은 엘리야 때처럼 주 말씀이 선포되고 <br/>
-		또 주의 종 모세의 때와 같이 언약이 성취되네 <br/>
-		비록 전쟁과 기근과 핍박 환난 날이 다가와도 <br/>
-		우리는 광야의 외치는 소리 주의 길을 예비하라 <br/><br/>
+		지금은 엘리야 때처럼 주 말씀이 선포되고 <br />
+		또 주의 종 모세의 때와 같이 언약이 성취되네 <br />
+		비록 전쟁과 기근과 핍박 환난 날이 다가와도 <br />
+		우리는 광야의 외치는 소리 주의 길을 예비하라 <br /><br />
 
 		2.
-		또 에스겔의 환상처럼 마른 뼈가 살아나며 <br/>
-		또 주의 종 다윗의 때와 같이 예배가 회복되네 <br/>
-		추수할 때가 이르러 들판은 희어졌네 <br/>
-		우리는 추수할 일꾼 되어 주 말씀을 선포하리 <br/><br/>
+		또 에스겔의 환상처럼 마른 뼈가 살아나며 <br />
+		또 주의 종 다윗의 때와 같이 예배가 회복되네 <br />
+		추수할 때가 이르러 들판은 희어졌네 <br />
+		우리는 추수할 일꾼 되어 주 말씀을 선포하리 <br /><br />
 
 		(후렴)
-		보라 주님 구름 타시고 나팔 불 때에 다시 오시네 <br/>
-		모두 외치세 이는 은혜의 해니 시온에서 구원이 임하네 <br/>
+		보라 주님 구름 타시고 나팔 불 때에 다시 오시네 <br />
+		모두 외치세 이는 은혜의 해니 시온에서 구원이 임하네 <br />
 	</div>
 
 	<div id="t6_tab_2" class="tab_content" style="display:none">
-		1.這是以利亞的日子 <br/>
-		齊宣揚我主的話語 <br/>
-		哦 這是你僕人的日子 <br/>
-		摩西 公義今正被顯明 <br/><br/>
+		1.這是以利亞的日子 <br />
+		齊宣揚我主的話語 <br />
+		哦 這是你僕人的日子 <br />
+		摩西 公義今正被顯明 <br /><br />
 
-		哦 雖然這苦難的日子 <br/>
-		充滿飢荒黑暗刀劍 <br/>
-		而我們仍要在這曠野呼喊 <br/>
-		預備耶和華的道路 <br/><br/>
+		哦 雖然這苦難的日子 <br />
+		充滿飢荒黑暗刀劍 <br />
+		而我們仍要在這曠野呼喊 <br />
+		預備耶和華的道路 <br /><br />
 
-		2.這是以西結的日子 <br/>
-		枯乾的骸骨正復活 <br/>
-		哦 這是你僕人的日子 <br/>
-		大衛 重新建造讚美殿 <br/><br/>
+		2.這是以西結的日子 <br />
+		枯乾的骸骨正復活 <br />
+		哦 這是你僕人的日子 <br />
+		大衛 重新建造讚美殿 <br /><br />
 
-		哦 這是大收割的日子 <br/>
-		看哪 莊稼已發白 <br/>
-		哦 我們是你葡萄園的工人 <br/>
-		齊宣揚我主的話語 <br/><br/>
+		哦 這是大收割的日子 <br />
+		看哪 莊稼已發白 <br />
+		哦 我們是你葡萄園的工人 <br />
+		齊宣揚我主的話語 <br /><br />
 
-		#看祂降臨 駕著天上雲 <br/>
-		閃耀如烈日 號筒聲吹響 <br/>
-		揚起你聲 這是恩典的禧年 <br/>
+		#看祂降臨 駕著天上雲 <br />
+		閃耀如烈日 號筒聲吹響 <br />
+		揚起你聲 這是恩典的禧年 <br />
 		救贖恩典從錫安山而來(x3)
 	</div>
 	<div id="t6_tab_3" class="tab_content" style="display:none">
-		1 . zhè shì yǐ lì yà dí rì zǐ <br/>
-		qí xuān yáng wǒ zhǔ dí huà yǔ <br/>
-		ó zhè shì nǐ pū rén dí rì zǐ <br/>
-		mó xī gōng yì jīn zhèng bèi xiǎn míng <br/><br/>
+		1 . zhè shì yǐ lì yà dí rì zǐ <br />
+		qí xuān yáng wǒ zhǔ dí huà yǔ  <br />
+		ó   zhè shì nǐ pū rén dí rì zǐ  <br />
+		mó xī   gōng yì jīn zhèng bèi xiǎn míng  <br /><br />
 
-		ó suī rán zhè kǔ nán dí rì zǐ <br/>
-		chōng mǎn jī huāng hēi àn dāo jiàn <br/>
-		ér wǒ mén réng yào zài zhè kuàng yě hū hǎn <br/>
-		yù bèi yé hé huá dí dào lù <br/><br/>
+		ó   suī rán zhè kǔ nán dí rì zǐ  <br />
+		chōng mǎn jī huāng hēi àn dāo jiàn  <br />
+		ér wǒ mén réng yào zài zhè kuàng yě hū hǎn <br />
+		yù bèi yé hé huá dí dào lù  <br /><br />
 
-		2 . zhè shì yǐ xī jié dí rì zǐ <br/>
-		kū gān dí hái gǔ zhèng fù huó <br/>
-		ó zhè shì nǐ pū rén dí rì zǐ <br/>
-		dà wèi zhòng xīn jiàn zào zàn měi diàn <br/><br/>
+		2 . zhè shì yǐ xī jié dí rì zǐ  <br />
+		kū gān dí hái gǔ zhèng fù huó <br />
+		ó   zhè shì nǐ pū rén dí rì zǐ <br />
+		dà wèi   zhòng xīn jiàn zào zàn měi diàn <br /><br />
 
-		ó zhè shì dà shōu gē dí rì zǐ <br/>
-		kàn nǎ zhuāng jià yǐ fā bái <br/>
-		ó wǒ mén shì nǐ pú táo yuán dí gōng rén <br/>
-		qí xuān yáng wǒ zhǔ dí huà yǔ <br/><br/>
+		ó   zhè shì dà shōu gē dí rì zǐ <br />
+		kàn nǎ   zhuāng jià yǐ fā bái <br />
+		ó   wǒ mén shì nǐ pú táo yuán dí gōng rén <br />
+		qí xuān yáng wǒ zhǔ dí huà yǔ <br /><br />
 
-		# kàn 祂 jiàng lín jià zhuó tiān shàng yún <br/>
-		shǎn yào rú liè rì hào tǒng shēng chuī xiǎng <br/>
-		yáng qǐ nǐ shēng zhè shì ēn diǎn dí xǐ nián <br/>
-		jiù shú ēn diǎn cóng xī ān shān ér lái ( x3 )<br/>
+		# kàn 祂 jiàng lín   jià zhuó tiān shàng yún  <br />
+		shǎn yào rú liè rì   hào tǒng shēng chuī xiǎng  <br />
+		yáng qǐ nǐ shēng   zhè shì ēn diǎn dí xǐ nián <br />
+		jiù shú ēn diǎn cóng xī ān shān ér lái ( x3 )<br />
 	</div>
 	<div id="t6_tab_4" class="tab_content" style="display:none">
-		1 . 저 스 이 리 야 띠 르 쯔 <br/>
-		치 쉬앤 양 워 주 띠 후아 위 <br/>
-		오 저 스 니 푸 런 띠 르 쯔 <br/>
-		모 시 꽁 이 진 정 뻬이 시앤 밍 <br/><br/>
+		1 . 저 스 이 리 야 띠 르 쯔 <br />
+		치 쉬앤 양 워 주 띠 후아 위 <br />
+		오   저 스 니 푸 런 띠 르 쯔 <br />
+		모 시   꽁 이 진 정 뻬이 시앤 밍 <br /><br />
 
-		오 쒜이 란 저 쿠 난 띠 르 쯔 <br/>
-		총 만 지 후앙 헤이 안 따오 지앤 <br/>
-		얼 워 먼 렁 야오 짜이 저 쿠앙 예 후 한 <br/>
-		위 뻬이 예 허 후아 띠 따오 루 <br/><br/>
+		오   쒜이 란 저 쿠 난 띠 르 쯔 <br />
+		총 만 지 후앙 헤이 안 따오 지앤 <br />
+		얼 워 먼 렁 야오 짜이 저 쿠앙 예 후 한 <br />
+		위 뻬이 예 허 후아 띠 따오 루 <br /><br />
 
-		2 . 저 스 이 시 지에 띠 르 쯔 <br/>
-		쿠 깐 띠 하이 꾸 정 푸 후어 <br/>
-		오 저 스 니 푸 런 띠 르 쯔 <br/>
-		따 웨이 종 신 지앤 쨔오 짠 메이 띠앤 <br/><br/>
+		2 . 저 스 이 시 지에 띠 르 쯔 <br />
+		쿠 깐 띠 하이 꾸 정 푸 후어 <br />
+		오   저 스 니 푸 런 띠 르 쯔 <br />
+		따 웨이   종 신 지앤 쨔오 짠 메이 띠앤 <br /><br />
 
-		오 저 스 따 셔우 꺼 띠 르 쯔 <br/>
-		칸 나 주앙 지아 이 파 빠이 <br/>
-		오 워 먼 스 니 푸 타오 위앤 띠 꽁 런 <br/>
-		치 쉬앤 양 워 주 띠 후아 위 <br/><br/>
+		오   저 스 따 셔우 꺼 띠 르 쯔 <br />
+		칸 나   주앙 지아 이 파 빠이 <br />
+		오   워 먼 스 니 푸 타오 위앤 띠 꽁 런 <br />
+		치 쉬앤 양 워 주 띠 후아 위 <br /><br />
 
-		# 칸 祂 지앙 린 지아 쭈어 티앤 상 윈 <br/>
-		산 야오 루 리에 르 하오 통 셩 췌이 샹 <br/>
-		양 치 니 셩 저 스 언 띠앤 띠 시 니앤 <br/>
-		지우 슈 언 띠앤 총 시 안 산 얼 라이 ( x3 )<br/>
+		# 칸 祂 지앙 린   지아 쭈어 티앤 상 윈  <br />
+		산 야오 루 리에 르   하오 통 셩 췌이 샹 <br />
+		양 치 니 셩   저 스 언 띠앤 띠 시 니앤 <br />
+		지우 슈 언 띠앤 총 시 안 산 얼 라이 ( x3 )<br />
 	</div>
 
 </div>
 
-
+---
 
 <div id="track_7">
 
@@ -595,71 +602,71 @@ permalink: /music/
 
 
 	<div id="t7_tab_1" class="tab_content" style="display:block">
-		나 같은 죄인 살리신 주 은혜 놀라워 <br/>
-		잃었던 생명 찾았고 광명을 얻었네 <br/><br/>
+		나 같은 죄인 살리신 주 은혜 놀라워 <br />
+		잃었던 생명 찾았고 광명을 얻었네 <br /><br />
 
-		큰 죄악에서 건지신 주 은혜 고마워 <br/>
-		나 처음 믿은 그 시간 귀하고 귀하다 <br/><br/>
+		큰 죄악에서 건지신 주 은혜 고마워 <br />
+		나 처음 믿은 그 시간 귀하고 귀하다 <br /><br />
 
-		이제껏 내가 산 것도 주님의 은혜라 <br/>
-		또 나를 장차 본향에 인도해 주시리 <br/><br/>
+		이제껏 내가 산 것도 주님의 은혜라 <br />
+		또 나를 장차 본향에 인도해 주시리 <br /><br />
 
-		거기서 우리 영원히 주님의 은혜로 <br/>
-		해처럼 밝게 살면서 주 찬양 하리라 <br/><br/>
+		거기서 우리 영원히 주님의 은혜로 <br />
+		해처럼 밝게 살면서 주 찬양 하리라 <br /><br />
 
-		주 찬양 주 찬양 내 마음 다해 <br/>
-		주 찬양 주 찬양 내 생명 다해 <br/>
+		주 찬양 주 찬양 내 마음 다해 <br />
+		주 찬양 주 찬양 내 생명 다해 <br />
 	</div>
 
 	<div id="t7_tab_2" class="tab_content" style="display:none">
-		奇異恩典，何等甘甜，我罪已得赦免 <br/>
-		前我失喪，今被尋回，瞎眼今得看見。 <br/><br/>
+		奇異恩典，何等甘甜，我罪已得赦免 <br />
+		前我失喪，今被尋回，瞎眼今得看見。 <br /><br />
 
-		浩大恩典，使我敬畏，使我心得安慰 <br/>
-		初信之時即蒙恩惠，真是何等寶貴。 <br/><br/>
+		浩大恩典，使我敬畏，使我心得安慰 <br />
+		初信之時即蒙恩惠，真是何等寶貴。 <br /><br />
 
-		經過許多危險網羅，飽受人間苦楚，<br/>
-		此恩領我平安渡過，他日歸回天府。<br/><br/>
+		經過許多危險網羅，飽受人間苦楚，<br />
+		此恩領我平安渡過，他日歸回天府。<br /><br />
 
-		將來在天安居萬年，恩光如日普照，<br/>
-		好像最初蒙恩景況，讚美永不減少。<br/>
+		將來在天安居萬年，恩光如日普照，<br />
+		好像最初蒙恩景況，讚美永不減少。<br />
 
-		主赞扬 主赞扬 用我的全心 <br/>
+		主赞扬 主赞扬 用我的全心 <br />
 		主赞扬 主赞扬 用我的生命
 	</div>
 	<div id="t7_tab_3" class="tab_content" style="display:none">
-		qí yì ēn diǎn ， hé děng gān tián ， wǒ zuì yǐ dé shè miǎn <br/>
-		qián wǒ shī sāng ， jīn bèi xún huí ， xiā yǎn jīn dé kàn jiàn 。 <br/><br/>
-		hào dà ēn diǎn ， shǐ wǒ jìng wèi ， shǐ wǒ xīn dé ān wèi <br/>
-		chū xìn zhī shí jí mēng ēn huì ， zhēn shì hé děng bǎo guì 。<br/><br/>
-		jīng guò xǔ duō wēi xiǎn wǎng luó ， bǎo shòu rén jiān kǔ chǔ ， <br/>
-		cǐ ēn lǐng wǒ píng ān dù guò ， tā rì guī huí tiān fǔ 。<br/><br/>
-		jiāng lái zài tiān ān jū wàn nián ， ēn guāng rú rì pǔ zhào ，<br/>
-		hǎo xiàng zuì chū mēng ēn jǐng kuàng ， zàn měi yǒng bù jiǎn shǎo 。<br/><br/>
+		qí yì ēn diǎn ， hé děng gān tián ， wǒ zuì yǐ dé shè miǎn <br />
+		qián wǒ shī sāng ， jīn bèi xún huí ， xiā yǎn jīn dé kàn jiàn 。 <br /><br />
+		hào dà ēn diǎn ， shǐ wǒ jìng wèi ， shǐ wǒ xīn dé ān wèi <br />
+		chū xìn zhī shí jí mēng ēn huì ， zhēn shì hé děng bǎo guì 。<br /><br />
+		jīng guò xǔ duō wēi xiǎn wǎng luó ， bǎo shòu rén jiān kǔ chǔ ， <br />
+		cǐ ēn lǐng wǒ píng ān dù guò ， tā rì guī huí tiān fǔ 。<br /><br />
+		jiāng lái zài tiān ān jū wàn nián ， ēn guāng rú rì pǔ zhào ，<br />
+		hǎo xiàng zuì chū mēng ēn jǐng kuàng ， zàn měi yǒng bù jiǎn shǎo 。<br /><br />
 
-		zhǔ zàn yáng zhǔ zàn yáng yòng wǒ dí quán xīn <br/>
-		zhǔ zàn yáng zhǔ zàn yáng yòng wǒ dí shēng mìng <br/>
+		zhǔ zàn yáng   zhǔ zàn yáng   yòng wǒ dí quán xīn <br />
+		zhǔ zàn yáng   zhǔ zàn yáng   yòng wǒ dí shēng mìng <br />
 	</div>
 	<div id="t7_tab_4" class="tab_content" style="display:none">
 
-		치 이 언 띠앤 ， 허 떵 깐 티앤 ， 워 zui 이 더 셔 미앤 <br/>
-		치앤 워 스 쌍 ， 진 뻬이 쉰 훼이 ， 시아 얜 진 더 칸 지앤 。<br/><br/>
+		치 이 언 띠앤 ， 허 떵 깐 티앤 ， 워 zui 이 더 셔 미앤 <br />
+		치앤 워 스 쌍 ， 진 뻬이 쉰 훼이 ， 시아 얜 진 더 칸 지앤 。<br /><br />
 
-		하오 따 언 띠앤 ， 스 워 징 웨이 ， 스 워 신 더 안 웨이 <br/>
-		추 신 즈 스 지 멍 언 훼이 ， 전 스 허 떵 빠오 꿰이 。 <br/><br/>
+		하오 따 언 띠앤 ， 스 워 징 웨이 ， 스 워 신 더 안 웨이 <br />
+		추 신 즈 스 지 멍 언 훼이 ， 전 스 허 떵 빠오 꿰이 。 <br /><br />
 
-		징 꾸어 쉬 뚜어 웨이 시앤 왕 루어 ， 빠오 셔우 런 지앤 쿠 추 ，<br/>
-		츠 언 링 워 핑 안 뚜 꾸어 ， 타 르 꿰이 훼이 티앤 푸 。<br/>
+		징 꾸어 쉬 뚜어 웨이 시앤 왕 루어 ， 빠오 셔우 런 지앤 쿠 추 ，<br />
+		츠 언 링 워 핑 안 뚜 꾸어 ， 타 르 꿰이 훼이 티앤 푸 。<br />
 
-		지앙 라이 짜이 티앤 안 쥐 완 니앤 ， 언 꾸앙 루 르 푸 자오 ，<br/>
-		하오 샹 쭈이 추 멍 언 징 쿠앙 ， 짠 메이 용 뿌 지앤 사오 。<br/><br/>
+		지앙 라이 짜이 티앤 안 쥐 완 니앤 ， 언 꾸앙 루 르 푸 자오 ，<br />
+		하오 샹 쭈이 추 멍 언 징 쿠앙 ， 짠 메이 용 뿌 지앤 사오 。<br /><br />
 
-		주 짠 양 주 짠 양 용 워 띠 취앤 신 <br/>
-		주 짠 양 주 짠 양 용 워 띠 셩 밍 <br/>
-	</div>
+		주 짠 양   주 짠 양   용 워 띠 취앤 신 <br />
+		주 짠 양   주 짠 양   용 워 띠 셩 밍 <br />
+    </div>
 </div>
 
-
+---
 
 <div id="track_9">
 
@@ -679,96 +686,96 @@ permalink: /music/
 
 
 	<div id="t9_tab_1" class="tab_content" style="display:block">
-		따스한 성령님 마음으로 보네 <br/>
-		내 몸을 감싸며 주어지는 평안함 <br/>
-		만족함을 느끼네 <br/><br/>
+따스한 성령님 마음으로 보네 <br />
+내 몸을 감싸며 주어지는 평안함 <br />
+만족함을 느끼네 <br /><br />
 
-		사랑과 진리의 한줄기 빛 보네 <br/>
-		내 몸을 감싸며 주어지는 평안함 <br/>
-		그 사랑을 느끼네 <br/><br/>
+사랑과 진리의 한줄기 빛 보네 <br />
+내 몸을 감싸며 주어지는 평안함 <br />
+그 사랑을 느끼네 <br /><br />
 
-		부르신 곳에서 나는 예배하네 <br/>
-		어떤 상황에도 나는 예배하네 <br/><br/>
+부르신 곳에서 나는 예배하네 <br />
+어떤 상황에도 나는 예배하네 <br /><br />
 
-		내가 걸어 갈 때 길이 되고 <br/>
-		살아갈 때 삶이 되는 <br/>
-		그 곳에서 예배하네 <br/>
+내가 걸어 갈 때 길이 되고 <br />
+살아갈 때 삶이 되는 <br />
+그 곳에서 예배하네 <br />
 	</div>
 
 	<div id="t9_tab_2" class="tab_content" style="display:none">
 
-		温柔的主圣灵 我的心注视你 <br/>
-		主赐下的平安 拥抱我的全人 <br/>
-		使我心感到满足 <br/><br/>
+温柔的主圣灵 我的心注视你 <br />
+主赐下的平安 拥抱我的全人 <br />
+使我心感到满足 <br /><br />
 
-		主慈爱的真理 使我看见荣光 <br/>
-		主赐下的平安 拥抱我的全人 <br/>
-		使我心感到真爱 <br/><br/>
+主慈爱的真理 使我看见荣光 <br />
+主赐下的平安 拥抱我的全人 <br />
+使我心感到真爱 <br /><br />
 
-		在你呼召之地 我要全心敬拜 <br/>
-		无论何时何地 我也全心敬拜(*2) <br/><br/>
+在你呼召之地 我要全心敬拜 <br />
+无论何时何地 我也全心敬拜(*2) <br /><br />
 
-		主慈爱的真理 使我看见荣光 <br/>
-		主赐下的平安 拥抱我的全人 <br/>
-		使我心感到真爱 <br/><br/>
+主慈爱的真理 使我看见荣光 <br />
+主赐下的平安 拥抱我的全人 <br />
+使我心感到真爱  <br /><br />
 
-		在你呼召之地 我要全心敬拜 <br/>
-		无论何时何地 我也全心敬拜(*4) <br/><br/>
+在你呼召之地 我要全心敬拜 <br />
+无论何时何地 我也全心敬拜(*4) <br /><br />
 
-		在我所走的每一个脚步 <br/>
-		我所到的每一个角落 <br/>
-		在那地 我要敬拜(*2) <br/><br/>
+在我所走的每一个脚步 <br />
+我所到的每一个角落 <br />
+在那地 我要敬拜(*2) <br /><br />
 	</div>
 	<div id="t9_tab_3" class="tab_content" style="display:none">
-		wēn róu dí zhǔ shèng líng wǒ dí xīn zhù shì nǐ <br/>
-		zhǔ cì xià dí píng ān yōng bào wǒ dí quán rén <br/>
-		shǐ wǒ xīn gǎn dào mǎn zú <br/><br/>
+wēn róu dí zhǔ shèng líng   wǒ dí xīn zhù shì nǐ <br />
+zhǔ cì xià dí píng ān   yōng bào wǒ dí quán rén <br />
+shǐ wǒ xīn gǎn dào mǎn zú <br /><br />
 
-		zhǔ cí ài dí zhēn lǐ shǐ wǒ kàn jiàn róng guāng <br/>
-		zhǔ cì xià dí píng ān yōng bào wǒ dí quán rén <br/>
-		shǐ wǒ xīn gǎn dào zhēn ài <br/> <br/>
+zhǔ cí ài dí zhēn lǐ   shǐ wǒ kàn jiàn róng guāng <br />
+zhǔ cì xià dí píng ān   yōng bào wǒ dí quán rén
+shǐ wǒ xīn gǎn dào zhēn ài
 
-		zài nǐ hū zhào zhī dì wǒ yào quán xīn jìng bài <br/>
-		wú lùn hé shí hé dì wǒ yě quán xīn jìng bài ( * 2 ) <br/><br/>
+zài nǐ hū zhào zhī dì   wǒ yào quán xīn jìng bài
+wú lùn hé shí hé dì   wǒ yě quán xīn jìng bài ( * 2 )
 
-		zhǔ cí ài dí zhēn lǐ shǐ wǒ kàn jiàn róng guāng <br/>
-		zhǔ cì xià dí píng ān yōng bào wǒ dí quán rén <br/>
-		shǐ wǒ xīn gǎn dào zhēn ài <br/><br/>
+zhǔ cí ài dí zhēn lǐ   shǐ wǒ kàn jiàn róng guāng
+zhǔ cì xià dí píng ān   yōng bào wǒ dí quán rén
+shǐ wǒ xīn gǎn dào zhēn ài
 
-		zài nǐ hū zhào zhī dì wǒ yào quán xīn jìng bài <br/>
-		wú lùn hé shí hé dì wǒ yě quán xīn jìng bài ( * 4 ) <br/><br/>
+zài nǐ hū zhào zhī dì   wǒ yào quán xīn jìng bài
+wú lùn hé shí hé dì   wǒ yě quán xīn jìng bài ( * 4 )
 
-		zài wǒ suǒ zǒu dí měi yī gè jiǎo bù <br/>
-		wǒ suǒ dào dí měi yī gè jiǎo luò <br/>
-		zài nà dì wǒ yào jìng bài ( * 2 ) <br/>
+zài wǒ suǒ zǒu dí měi yī gè jiǎo bù
+wǒ suǒ dào dí měi yī gè jiǎo luò
+zài nà dì   wǒ yào jìng bài ( * 2 )
 	</div>
 	<div id="t9_tab_4" class="tab_content" style="display:none">
-		원 로우 띠 주 셩 링 워 띠 신 주 스 니 <br/>
-		주 츠 시아 띠 핑 안 용 빠오 워 띠 취앤 런 <br/>
-		스 워 신 깐 따오 만 쭈 <br/><br/>
+원 로우 띠 주 셩 링   워 띠 신 주 스 니
+주 츠 시아 띠 핑 안   용 빠오 워 띠 취앤 런
+스 워 신 깐 따오 만 쭈
 
-		주 츠 아이 띠 전 리 스 워 칸 지앤 롱 꾸앙 <br/>
-		주 츠 시아 띠 핑 안 용 빠오 워 띠 취앤 런 <br/>
-		스 워 신 깐 따오 전 아이 <br/><br/>
+주 츠 아이 띠 전 리   스 워 칸 지앤 롱 꾸앙
+주 츠 시아 띠 핑 안   용 빠오 워 띠 취앤 런
+스 워 신 깐 따오 전 아이
 
-		짜이 니 후 자오 즈 띠 워 야오 취앤 신 징 빠이 <br/>
-		우 룬 허 스 허 띠 워 예 취앤 신 징 빠이 ( * 2 ) <br/><br/>
+짜이 니 후 자오 즈 띠   워 야오 취앤 신 징 빠이
+우 룬 허 스 허 띠   워 예 취앤 신 징 빠이 ( * 2 )
 
-		주 츠 아이 띠 전 리 스 워 칸 지앤 롱 꾸앙 <br/>
-		주 츠 시아 띠 핑 안 용 빠오 워 띠 취앤 런 <br/>
-		스 워 신 깐 따오 전 아이 <br/><br/>
+주 츠 아이 띠 전 리   스 워 칸 지앤 롱 꾸앙
+주 츠 시아 띠 핑 안   용 빠오 워 띠 취앤 런
+스 워 신 깐 따오 전 아이
 
-		짜이 니 후 자오 즈 띠 워 야오 취앤 신 징 빠이 <br/>
-		우 룬 허 스 허 띠 워 예 취앤 신 징 빠이 ( * 4 ) <br/><br/>
+짜이 니 후 자오 즈 띠   워 야오 취앤 신 징 빠이
+우 룬 허 스 허 띠   워 예 취앤 신 징 빠이 ( * 4 )
 
-		짜이 워 쑤어 쪼우 띠 메이 이 꺼 쟈오 뿌 <br/>
-		워 쑤어 따오 띠 메이 이 꺼 쟈오 루어 <br/>
-		짜이 나 띠 워 야오 징 빠이 ( * 2 ) <br/>
+짜이 워 쑤어 쪼우 띠 메이 이 꺼 쟈오 뿌
+워 쑤어 따오 띠 메이 이 꺼 쟈오 루어
+짜이 나 띠   워 야오 징 빠이 ( * 2 )
 	</div>
 
-</div>
+</div> 
 
-
+--- 
 
 <div id="track_10">
 
@@ -788,101 +795,104 @@ permalink: /music/
 
 
 	<div id="t10_tab_1" class="tab_content" style="display:block">
-		예수 아름다우신 <br/>
-		위대하신 주님 부활의 주 <br/><br/>
-		어린양 거룩과 공의 <br/>
-		새벽 별 같은 나의 구주 <br/>
-		모든 하늘 찬양해 <br/>
-		모든 만물이 주 경배해 <br/><br/>
+예수 아름다우신 <br />
+위대하신 주님 부활의 주 <br /><br />
+어린양 거룩과 공의 <br />
+새벽 별 같은 나의 구주 <br />
+모든 하늘 찬양해 <br />
+모든 만물이 주 경배해 <br /><br />
 
-		아름답고 놀라우신 <br/>
-		모든 이름보다 높은 이름 <br/>
-		아름답고 놀라우신 <br/>
-		주의 이름 높으신 그 이름 예수 <br/>
+아름답고 놀라우신 <br />
+모든 이름보다 높은 이름 <br />
+아름답고 놀라우신 <br />
+주의 이름 높으신 그 이름 예수 <br />
 	</div>
 
 	<div id="t10_tab_2" class="tab_content" style="display:none">
 
-		耶穌 榮美的救主 <br/>
+耶穌 榮美的救主 <br />
 
-		復活全能真神 榮耀君王 <br/><br/>
-
-
-		神羔羊 聖潔和公義 <br/>
-
-		尊榮的拯救者 明亮晨星 <br/><br/>
-
-		​天使高聲齊頌揚 萬物都屈膝來敬拜你 <br/>
+復活全能真神 榮耀君王 <br /><br />
 
 
-		何等奇妙 何等榮耀 <br/>
+神羔羊 聖潔和公義 <br />
+
+尊榮的拯救者 明亮晨星 <br /><br />
+
+​天使高聲齊頌揚 萬物都屈膝來敬拜你 <br />
 
 
-		超乎萬民之上 配得尊崇 <br/>
-
-		何等奇妙 何等榮耀 <br/>
-
-		耶穌我主 超乎萬名之上 耶穌 <br/><br/>
+何等奇妙 何等榮耀 <br />
 
 
-		我要永遠敬拜 耶穌我愛你 耶穌我愛你 <br/>
+超乎萬民之上 配得尊崇 <br />
+
+何等奇妙 何等榮耀 <br />
+
+耶穌我主 超乎萬名之上 耶穌 <br /><br />
+
+
+我要永遠敬拜 耶穌我愛你 耶穌我愛你 <br />
+
 
 
 	</div>
 	<div id="t10_tab_3" class="tab_content" style="display:none">
-		Yēsū, róng měi de jiù zhǔ, <br/>
+Yēsū, róng měi de jiù zhǔ, <br />
 
-		Fùhuó quánnéng zhēnshén, róngyào jūnwáng, <br/>
+Fùhuó quánnéng zhēnshén, róngyào jūnwáng, <br />
+ 
+Shén gāoyáng, shèngjié hé gōng yì. <br />
 
-		Shén gāoyáng, shèngjié hé gōng yì. <br/>
+Zūn róng de zhěngjiù zhě, míngliàng chénxīng, <br />
 
-		Zūn róng de zhěngjiù zhě, míngliàng chénxīng, <br/>
+Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ, <br />
 
-		Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ, <br/>
+Héděng qímiào, héděng róngyào, <br />
 
-		Héděng qímiào, héděng róngyào, <br/>
+Chāo hu wànmín zhī shàng, pèi de zūnchóng, <br />
 
-		Chāo hu wànmín zhī shàng, pèi de zūnchóng, <br/>
+Héděng qímiào, héděng róngyào, <br />
 
-		Héděng qímiào, héděng róngyào, <br/>
+Yēsū wǒ zhǔ, chāo hu wàn míng zhī shàng, yēsū. <br />
 
-		Yēsū wǒ zhǔ, chāo hu wàn míng zhī shàng, yēsū. <br/>
+Wǒ yào yǒngyuǎn jìng bài, yēsū wǒ ài nǐ, yēsū wǒ ài nǐ. <br />
 
-		Wǒ yào yǒngyuǎn jìng bài, yēsū wǒ ài nǐ, yēsū wǒ ài nǐ. <br/>
-
-		Yēsū, róng měi de jiù zhǔ.
-	</div>
+Yēsū, róng měi de jiù zhǔ.	</div>
 	<div id="t10_tab_4" class="tab_content" style="display:none">
-		[ Verse ] <br/>
-		예 쑤 롱 메이 띠 지우 주 <br/>
-		푸 후어 취앤 넝 전 션 롱 야오 준 왕 <br/><br/>
+[ Verse ] <br />
+예 쑤   롱 메이 띠 지우 주 <br />
+푸 후어 취앤 넝 전 션   롱 야오 준 왕 <br /><br />
 
 
-		션 까오 양 셩 지에 허 꽁 이 <br/>
-		준 롱 띠 정 지우 저 밍 량 천 싱 <br/><br/>
+션 까오 양   셩 지에 허 꽁 이 <br />
+준 롱 띠 정 지우 저   밍 량 천 싱 <br /><br />
 
-		​
-		[ Chorus ] <br/>
-		티앤 스 까오 셩 치 쏭 양 완 우 뚜 취 시 라이 징 빠이 니 <br/>
-		허 떵 치 먀오 허 떵 롱 야오 <br/><br/>
-
-
-		차오 후 완 민 즈 상 페이 더 준 총 <br/>
-		허 떵 치 먀오 허 떵 롱 야오 <br/>
-		예 쑤 워 주 차오 후 완 밍 즈 상 예 쑤 <br/><br/>
+​
+[ Chorus ] <br />
+티앤 스 까오 셩 치 쏭 양   완 우 뚜 취 시 라이 징 빠이 니 <br />
+허 떵 치 먀오   허 떵 롱 야오 <br /><br />
 
 
-		[ ​ Bridge ] <br/>
-		워 야오 용 위앤 징 빠이 예 쑤 워 아이 니 예 쑤 워 아이 니 <br/>
+차오 후 완 민 즈 상   페이 더 준 총 <br />
+허 떵 치 먀오   허 떵 롱 야오 <br />
+예 쑤 워 주   차오 후 완 밍 즈 상   예 쑤 <br /><br />
+
+
+[ ​ Bridge ] <br />
+워 야오 용 위앤 징 빠이   예 쑤 워 아이 니   예 쑤 워 아이 니 <br />
 	</div>
 
 </div>
 
 
+---
 
 
 
 <div id="track_11">
+
+
 
 	<h4>How Great Is Our God 我神真偉大</h4>
 
@@ -1007,10 +1017,8 @@ permalink: /music/
 		니 즈 셩 zun 밍 페이 셔우 따 짠 메이 <br/>
 		취앤 신 꺼 쏭 워 션 전 웨이 따 <br/>
 	</div>
-
+x
 </div>
-
-
 
 
 
