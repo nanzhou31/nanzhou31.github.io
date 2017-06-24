@@ -890,7 +890,7 @@ Yēsū, róng měi de jiù zhǔ.	</div>
 
 <div id="track_11">
 
-	<h4>예수아름다우신_榮美的救主</h4>
+	<h4>How Great Is Our God 我神真偉大</h4>
 
 	<audio controls preload="auto" style="width:100%;">
 		<source src="../music/track_11.acc" type="audio/mp4">
