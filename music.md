@@ -25,9 +25,9 @@ comments:true
 <button onclick="topFunction()" id="myBtn" title="Go to top">찬양리스트 <br />보기</button>
 <div id="track_1">
 
-	<h4>내마음을 가득채운_主,我爱您</h4>
+	<h4>내 마음을 가득채운_主,我爱您</h4>
 
-	<audio controls preload="auto" style="width:100%;">
+	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_1.aac" type="audio/mp4">
 		<source src="../music/track_1.mp3" type="audio/mpeg">
 	</audio>
@@ -109,7 +109,7 @@ comments:true
 
 	<h4>주님의 사랑 上帝的恩爱</h4>
 
-	<audio controls preload="auto" style="width:100%;">
+	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_2.aac" type="audio/mp4">
 		<source src="../music/track_2.mp3" type="audio/mpeg">
 	</audio>
@@ -182,7 +182,7 @@ comments:true
 
 	<h4>Alive(살아계신주) 使我得生命 </h4>
 
-	<audio controls preload="auto" style="width:100%;">
+	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_3.aac" type="audio/mp4">
 		<source src="../music/track_3.mp3" type="audio/mpeg">
 	</audio>
@@ -296,7 +296,7 @@ comments:true
 
 	<h4>Wake(날세우시네)_甦醒</h4>
 
-	<audio controls preload="auto" style="width:100%;">
+	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_4.aac" type="audio/mp4">
 		<source src="../music/track_4.mp3" type="audio/mpeg">
 	</audio>
@@ -402,7 +402,7 @@ comments:true
 
 	<h4>하늘 위에 주님 밖에</h4>
 
-	<audio controls preload="auto" style="width:100%;">
+	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_5.aac" type="audio/mp4">
 		<source src="../music/track_5.mp3" type="audio/mpeg">
 	</audio>
@@ -463,7 +463,7 @@ comments:true
 
 	<h4>지금은엘리야때처럼_以利亞的日子</h4>
 
-	<audio controls preload="auto" style="width:100%;">
+	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_6.aac" type="audio/mp4">
 		<source src="../music/track_6.mp3" type="audio/mpeg">
 	</audio>
@@ -580,7 +580,7 @@ comments:true
 
 	<h4>나같은죄인살리신_奇異恩典</h4>
 
-	<audio controls preload="auto" style="width:100%;">
+	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_7.aac" type="audio/mp4">
 		<source src="../music/track_7.mp3" type="audio/mpeg">
 	</audio>
@@ -663,7 +663,7 @@ comments:true
 
 	<h4>부르신곳에서_在祢呼召之地</h4>
 
-	<audio controls preload="auto" style="width:100%;">
+	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_9.aac" type="audio/mp4">
 		<source src="../music/track_9.mp3" type="audio/mpeg">
 	</audio>
@@ -771,7 +771,7 @@ comments:true
 
 	<h4>예수아름다우신_榮美的救主</h4>
 
-	<audio controls preload="auto" style="width:100%;">
+	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_10.aac" type="audio/mp4">
 		<source src="../music/track_10.mp3" type="audio/mpeg">
 	</audio>
@@ -881,7 +881,7 @@ comments:true
 
 	<h4>How Great Is Our God 我神真偉大</h4>
 
-	<audio controls preload="auto" style="width:100%;">
+	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_11.aac" type="audio/mp4">
 		<source src="../music/track_11.mp3" type="audio/mpeg">
 	</audio>

@@ -72,6 +72,15 @@ function topFunction() {
     document.documentElement.scrollTop = 0; // For IE and Firefox
 }
 
+document.addEventListener('play', function(e){
+    var audios = document.getElementsByTagName('audio');
+    for(var i = 0, len = audios.length; i < len;i++){
+        if(audios[i] != e.target){
+            audios[i].pause();
+        }
+    }
+}, true);
+
 
   $(function() {
       	$('#t1').tab({});
