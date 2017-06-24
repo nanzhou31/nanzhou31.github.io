@@ -11,7 +11,7 @@ comments:true
 
 
 
-   1 [내 마음을 가득 채운](#track_1) <br /> 
+   1 [내 마음을 가득 채운](#track_1) <br />
    2 [주님의 사랑](#track_2) <br />
     3 [Wake (날세우시네)](#track_3) <br />
     4 [Alive (살아계신주)](#track_4) <br />
@@ -732,50 +732,50 @@ zhǔ cì xià dí píng ān   yōng bào wǒ dí quán rén <br />
 shǐ wǒ xīn gǎn dào mǎn zú <br /><br />
 
 zhǔ cí ài dí zhēn lǐ   shǐ wǒ kàn jiàn róng guāng <br />
-zhǔ cì xià dí píng ān   yōng bào wǒ dí quán rén
-shǐ wǒ xīn gǎn dào zhēn ài
+zhǔ cì xià dí píng ān   yōng bào wǒ dí quán rén <br />
+shǐ wǒ xīn gǎn dào zhēn ài <br /> <br />
 
-zài nǐ hū zhào zhī dì   wǒ yào quán xīn jìng bài
-wú lùn hé shí hé dì   wǒ yě quán xīn jìng bài ( * 2 )
+zài nǐ hū zhào zhī dì   wǒ yào quán xīn jìng bài <br />
+wú lùn hé shí hé dì   wǒ yě quán xīn jìng bài ( * 2 ) <br /><br />
 
-zhǔ cí ài dí zhēn lǐ   shǐ wǒ kàn jiàn róng guāng
-zhǔ cì xià dí píng ān   yōng bào wǒ dí quán rén
-shǐ wǒ xīn gǎn dào zhēn ài
+zhǔ cí ài dí zhēn lǐ   shǐ wǒ kàn jiàn róng guāng <br />
+zhǔ cì xià dí píng ān   yōng bào wǒ dí quán rén <br />
+shǐ wǒ xīn gǎn dào zhēn ài <br /><br />
 
-zài nǐ hū zhào zhī dì   wǒ yào quán xīn jìng bài
-wú lùn hé shí hé dì   wǒ yě quán xīn jìng bài ( * 4 )
+zài nǐ hū zhào zhī dì   wǒ yào quán xīn jìng bài <br />
+wú lùn hé shí hé dì   wǒ yě quán xīn jìng bài ( * 4 ) <br /><br />
 
-zài wǒ suǒ zǒu dí měi yī gè jiǎo bù
-wǒ suǒ dào dí měi yī gè jiǎo luò
-zài nà dì   wǒ yào jìng bài ( * 2 )
+zài wǒ suǒ zǒu dí měi yī gè jiǎo bù <br />
+wǒ suǒ dào dí měi yī gè jiǎo luò <br />
+zài nà dì   wǒ yào jìng bài ( * 2 ) <br />
 	</div>
 	<div id="t9_tab_4" class="tab_content" style="display:none">
-원 로우 띠 주 셩 링   워 띠 신 주 스 니
-주 츠 시아 띠 핑 안   용 빠오 워 띠 취앤 런
-스 워 신 깐 따오 만 쭈
+원 로우 띠 주 셩 링   워 띠 신 주 스 니 <br />
+주 츠 시아 띠 핑 안   용 빠오 워 띠 취앤 런 <br />
+스 워 신 깐 따오 만 쭈 <br /><br />
 
-주 츠 아이 띠 전 리   스 워 칸 지앤 롱 꾸앙
-주 츠 시아 띠 핑 안   용 빠오 워 띠 취앤 런
-스 워 신 깐 따오 전 아이
+주 츠 아이 띠 전 리   스 워 칸 지앤 롱 꾸앙 <br />
+주 츠 시아 띠 핑 안   용 빠오 워 띠 취앤 런 <br />
+스 워 신 깐 따오 전 아이 <br /><br />
 
-짜이 니 후 자오 즈 띠   워 야오 취앤 신 징 빠이
-우 룬 허 스 허 띠   워 예 취앤 신 징 빠이 ( * 2 )
+짜이 니 후 자오 즈 띠   워 야오 취앤 신 징 빠이 <br />
+우 룬 허 스 허 띠   워 예 취앤 신 징 빠이 ( * 2 ) <br /><br />
 
-주 츠 아이 띠 전 리   스 워 칸 지앤 롱 꾸앙
-주 츠 시아 띠 핑 안   용 빠오 워 띠 취앤 런
-스 워 신 깐 따오 전 아이
+주 츠 아이 띠 전 리   스 워 칸 지앤 롱 꾸앙 <br />
+주 츠 시아 띠 핑 안   용 빠오 워 띠 취앤 런 <br />
+스 워 신 깐 따오 전 아이 <br /><br />
 
-짜이 니 후 자오 즈 띠   워 야오 취앤 신 징 빠이
-우 룬 허 스 허 띠   워 예 취앤 신 징 빠이 ( * 4 )
+짜이 니 후 자오 즈 띠   워 야오 취앤 신 징 빠이 <br />
+우 룬 허 스 허 띠   워 예 취앤 신 징 빠이 ( * 4 ) <br /><br />
 
-짜이 워 쑤어 쪼우 띠 메이 이 꺼 쟈오 뿌
-워 쑤어 따오 띠 메이 이 꺼 쟈오 루어
-짜이 나 띠   워 야오 징 빠이 ( * 2 )
+짜이 워 쑤어 쪼우 띠 메이 이 꺼 쟈오 뿌 <br />
+워 쑤어 따오 띠 메이 이 꺼 쟈오 루어 <br />
+짜이 나 띠   워 야오 징 빠이 ( * 2 ) <br />
 	</div>
 
-</div> 
+</div>
 
---- 
+---
 
 <div id="track_10">
 
@@ -841,7 +841,7 @@ zài nà dì   wǒ yào jìng bài ( * 2 )
 Yēsū, róng měi de jiù zhǔ, <br />
 
 Fùhuó quánnéng zhēnshén, róngyào jūnwáng, <br />
- 
+
 Shén gāoyáng, shèngjié hé gōng yì. <br />
 
 Zūn róng de zhěngjiù zhě, míngliàng chénxīng, <br />
