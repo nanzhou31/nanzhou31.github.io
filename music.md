@@ -1017,7 +1017,7 @@ Yēsū, róng měi de jiù zhǔ.	</div>
 		니 즈 셩 zun 밍 페이 셔우 따 짠 메이 <br/>
 		취앤 신 꺼 쏭 워 션 전 웨이 따 <br/>
 	</div>
-x
+
 </div>
 
 
