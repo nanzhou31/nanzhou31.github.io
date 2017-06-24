@@ -6,22 +6,9 @@ comments:true
 ---
 
 
-## 찬양
-
-
-17' 여름 남주 선교의 주제는 "**할렐루야 哈利路亞**  " 입니다. 
-
- >`할렐루הַלְּלוּ(hallelu)` 너희들은 찬양하라 +` 야יָהּ(Yah)` 여호와  <br />
-     => 너희들은 여호와를 찬양하라
-
- **`호흡이 있는 자마다 여호와를 찬양할지어다 할렐루야 (시150:6)`**
-    
-     
-찬양이 가득한 이번 17' 여름 남주 선교, 목소리로 악기로 춤으로 찬양 합시다. 여름 남주 선교 기간중 함께 부를 찬양 입니다. 음원과 한국어, 중국어 번체, 병음, 독음을 눌러서 들어주세요. 
-
----
 
 ###  남주 찬양 리스트
+
 
 
    1 [내 마음을 가득 채운](#track_1) <br /> 2 [주님의 사랑](#track_2) <br />
@@ -30,10 +17,9 @@ comments:true
     5 [하늘 위에 주님 밖에](#track_5) <br />
     6 [지금은 엘리야 때처럼](#track_6) <br />
     7 [나같은 죄인 살리신](#track_7)    <br />
-    8 [예수 나의 치료자 ](#track_8)<br />
-    9 [부르신 곳에서](#track_9) <br />
-    10 [예수 아름다우신](#track_10) <br />
-    11 [How great is our GOD (위대하신주)  ](#track_11)
+    8 [부르신 곳에서](#track_9) <br />
+    9 [예수 아름다우신](#track_10) <br />
+    10 [How great is our GOD (위대하신주)  ](#track_11)
 
 ---
 
@@ -119,6 +105,7 @@ comments:true
 
 </div>
 
+---
 
 <div id="track_2">
 
@@ -192,6 +179,7 @@ comments:true
 
 </div>
 
+---
 
 <div id="track_3">
 
@@ -306,6 +294,8 @@ comments:true
 
 </div>
 
+---
+
 <div id="track_4">
 
 	<h4>Wake(날세우시네)_甦醒</h4>
@@ -411,6 +401,8 @@ comments:true
 
 </div>
 
+---
+
 <div id="track_5">
 
 	<h4>하늘 위에 주님 밖에</h4>
@@ -470,6 +462,8 @@ comments:true
 	</div>
 
 </div>
+
+---
 
 <div id="track_6">
 
@@ -587,6 +581,7 @@ comments:true
 
 </div>
 
+---
 
 <div id="track_7">
 
@@ -669,131 +664,9 @@ comments:true
 		주 짠 양   주 짠 양   용 워 띠 셩 밍 <br />
     </div>
 </div>
-<div id="track_8">
 
-	<h4>예수 나의 치료자</h4>
+---
 
-	<audio controls preload="auto" style="width:100%;">
-		<source src="../music/track_8.acc" type="audio/mp4">
-		<source src="../music/track_8.mp3" type="audio/mpeg">
-	</audio>
-
-	<ul class="tab_tit" id="t8">
-		<li><a href="#t8_tab_1">한국어</a></li>
-		<li><a href="#t8_tab_2">중국어</a></li>
-		<li><a href="#t8_tab_3">병음</a></li>
-		<li><a href="#t8_tab_4">독음</a></li>
-	</ul>
-
-
-	<div id="t8_tab_1" class="tab_content" style="display:block">
-예수 나의 좋은 치료자 <br />
-그의 눈이 머무는 곳은 나의 슬픔과 고통 <br />
-고갤 들어 그의 눈을 볼 때에 난 알았네 <br />
-예수 나의 좋은 치료자 <br /><br />
-
-예수 나의 좋은 치료자 <br />
-그의 손길이 닿는 곳은 나의 상처와 아픔 <br />
-영원히 흐를 것 같았던 눈물 다 멎었네 <br />
-예수 나의 치료자 <br /><br />
-
-Chrous. <br />
-나 노래하리라 <br />
-천한 나를 돌아보신 구세주를 찬양해 <br />
-하늘 닿는 곳까지 내 손 들리라 <br />
-예수 나의 치료자 <br /><br />
-
-Bridge. <br />
-어떤 어려움도 깊은 절망도 <br />
-수많은 괴로움과 슬픔도 <br />
-주로 인하여 모두 지워지리라 <br />
-耶稣 我的 医治者 <br />
-
-	</div>
-
-	<div id="t8_tab_2" class="tab_content" style="display:none">
-
-耶稣 他是 我的 医治者 <br />
-他的 双眼 注视的 地方 是我 悲伤和 痛苦 <br />
-抬头仰望  看见 他的 眼 睛时 我 明白了 <br />
-耶稣 他是 我的 医治者 <br /><br />
-
-耶稣 他是 我的 医治者 <br />
-他的 关怀所 至的 地方 是我 伤痛和 痛苦 <br />
-以为要 永远 流 淌 的  眼泪 不 再流淌 <br />
-耶稣 我的 医治者 <br /><br />
-
-我 要歌唱赞美 <br />
-他眷 顾了 卑微的我 我要赞美救世主 <br />
-触摸 到天 上为止 把 我 手高举 <br />
-耶稣 我的 医治者 <br /><br />
-
-
-Bridge. <br />
-어떤 어려움도 깊은 절망도 <br />
-수많은 괴로움과 슬픔도 <br />
-주로 인하여 모두 지워지리라 <br /><br />
-耶稣 我的 医治者 <br />
-	</div>
-	<div id="t8_tab_3" class="tab_content" style="display:none">
-yé sū   tā shì   wǒ dí   yī zhì zhě <br />
-tā dí   shuāng yǎn   zhù shì dí   dì fāng   shì wǒ   bēi shāng hé   tòng kǔ <br />
-tái tóu yǎng wàng     kàn jiàn   tā dí   yǎn   jīng shí   wǒ   míng bái liǎo <br />
-yé sū   tā shì   wǒ dí   yī zhì zhě
-
-yé sū   tā shì   wǒ dí   yī zhì zhě
-tā dí   guān huái suǒ   zhì dí   dì fāng   shì wǒ   shāng tòng hé   tòng kǔ
-yǐ wéi yào   yǒng yuǎn   liú   tǎng   dí     yǎn lèi   bù   zài liú tǎng /
-yé sū   wǒ dí   yī zhì zhě
-
-wǒ   yào gē chàng zàn měi
-tā juàn   gù liǎo   bēi wēi dí wǒ   wǒ yào zàn měi jiù shì zhǔ
-chù mō   dào tiān   shàng wéi zhǐ   bǎ   wǒ   shǒu gāo jǔ
-yé sū   wǒ dí   yī zhì zhě
-
-
-Bridge.
-어떤 어려움도 깊은 절망도
-수많은 괴로움과 슬픔도
-주로 인하여 모두 지워지리라
-耶稣 我的 医治者
-	</div>
-	<div id="t8_tab_4" class="tab_content" style="display:none">
-예 쑤   타 스   워 띠   이 즈 저
-타띠   슈앙얜주스띠,   띠 팡 스워 뻬이상허통쿠
-타이 터우 양 왕     칸 지앤타띠얜징스   워밍빠이랴오
-예쑤   타스   워띠   이즈 저
-
-예 쑤   타 스   워 띠   이 즈 저
-타 띠   꾸안 화이 쑤어  즈 띠   띠 팡 스워상통허통쿠
-이 웨이 야오   용 위앤   리우   탕   띠     얜 레이   뿌   짜이 리우 탕
-예 쑤   워 띠   이 즈 저
-
-워   야오 꺼 창 짠 메이
-타 쥐앤   꾸 랴오   뻬이 웨이 띠 워   워 야오 짠 메이 지우 스 주
-추 모   따오 티앤   상 웨이 즈   빠   워   셔우 까오 쥐
-예 쑤   워 띠   이 즈 저
-
-Bridge.
-어떤 어려움도 깊은 절망도
-耶稣 我的 医治者
-
-어떤 어려움도 깊은 절망도
-如何困难，深深地绝望也
-ru he kun nan, shen shen de jue wang ye
-루 허 쿤 난, 션 션 더 쥐에 왕 예
-
-수많은 괴로움과 슬픔도
-很多的痛苦和悲哀也
-흔 뚜어 더 통 쿠 허 뻬이 아이 예
-
-주로 인하여 모두 지워지리라
-因为有我们的主，都会消失
-인 웨이 요우 워더 주, 또우 훼이 샤오 싀
-
-	</div>
-
-</div>
 <div id="track_9">
 
 	<h4>부르신곳에서_在祢呼召之地</h4>
@@ -899,7 +772,10 @@ zài nà dì   wǒ yào jìng bài ( * 2 )
 짜이 나 띠   워 야오 징 빠이 ( * 2 )
 	</div>
 
-</div>
+</div> 
+
+--- 
+
 <div id="track_10">
 
 	<h4>예수아름다우신_榮美的救主</h4>
@@ -918,96 +794,97 @@ zài nà dì   wǒ yào jìng bài ( * 2 )
 
 
 	<div id="t10_tab_1" class="tab_content" style="display:block">
-예수 아름다우신
-위대하신 주님 부활의 주
-어린양 거룩과 공의
-새벽 별 같은 나의 구주
-모든 하늘 찬양해
-모든 만물이 주 경배해
+예수 아름다우신 <br />
+위대하신 주님 부활의 주 <br /><br />
+어린양 거룩과 공의 <br />
+새벽 별 같은 나의 구주 <br />
+모든 하늘 찬양해 <br />
+모든 만물이 주 경배해 <br /><br />
 
-아름답고 놀라우신
-모든 이름보다 높은 이름
-아름답고 놀라우신
-주의 이름 높으신 그 이름 예수
+아름답고 놀라우신 <br />
+모든 이름보다 높은 이름 <br />
+아름답고 놀라우신 <br />
+주의 이름 높으신 그 이름 예수 <br />
 	</div>
 
 	<div id="t10_tab_2" class="tab_content" style="display:none">
-[Verse]
-耶穌 榮美的救主
 
-復活全能真神 榮耀君王
+耶穌 榮美的救主 <br />
 
-
-神羔羊 聖潔和公義
-
-尊榮的拯救者 明亮晨星
-
-​
-[Chorus]
-天使高聲齊頌揚 萬物都屈膝來敬拜你
+復活全能真神 榮耀君王 <br /><br />
 
 
-何等奇妙 何等榮耀
+神羔羊 聖潔和公義 <br />
+
+尊榮的拯救者 明亮晨星 <br /><br />
+
+​天使高聲齊頌揚 萬物都屈膝來敬拜你 <br />
 
 
-超乎萬民之上 配得尊崇
-
-何等奇妙 何等榮耀
-
-耶穌我主 超乎萬名之上 耶穌
+何等奇妙 何等榮耀 <br />
 
 
-[​Bridge]
-我要永遠敬拜 耶穌我愛你 耶穌我愛你
+超乎萬民之上 配得尊崇 <br />
+
+何等奇妙 何等榮耀 <br />
+
+耶穌我主 超乎萬名之上 耶穌 <br /><br />
+
+
+我要永遠敬拜 耶穌我愛你 耶穌我愛你 <br />
 
 
 
 	</div>
 	<div id="t10_tab_3" class="tab_content" style="display:none">
-Yēsū, róng měi de jiù zhǔ,
+Yēsū, róng měi de jiù zhǔ, <br />
 
-Fùhuó quánnéng zhēnshén, róngyào jūnwáng,
+Fùhuó quánnéng zhēnshén, róngyào jūnwáng, <br />
+ 
+Shén gāoyáng, shèngjié hé gōng yì. <br />
 
-Shén gāoyáng, shèngjié hé gōng yì.
+Zūn róng de zhěngjiù zhě, míngliàng chénxīng, <br />
 
-Zūn róng de zhěngjiù zhě, míngliàng chénxīng,
+Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ, <br />
 
-Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ,
+Héděng qímiào, héděng róngyào, <br />
 
-Héděng qímiào, héděng róngyào,
+Chāo hu wànmín zhī shàng, pèi de zūnchóng, <br />
 
-Chāo hu wànmín zhī shàng, pèi de zūnchóng,
+Héděng qímiào, héděng róngyào, <br />
 
-Héděng qímiào, héděng róngyào,
+Yēsū wǒ zhǔ, chāo hu wàn míng zhī shàng, yēsū. <br />
 
-Yēsū wǒ zhǔ, chāo hu wàn míng zhī shàng, yēsū.
-
-Wǒ yào yǒngyuǎn jìng bài, yēsū wǒ ài nǐ, yēsū wǒ ài nǐ.
+Wǒ yào yǒngyuǎn jìng bài, yēsū wǒ ài nǐ, yēsū wǒ ài nǐ. <br />
 
 Yēsū, róng měi de jiù zhǔ.	</div>
 	<div id="t10_tab_4" class="tab_content" style="display:none">
-[ Verse ]
-예 쑤   롱 메이 띠 지우 주
-푸 후어 취앤 넝 전 션   롱 야오 준 왕
+[ Verse ] <br />
+예 쑤   롱 메이 띠 지우 주 <br />
+푸 후어 취앤 넝 전 션   롱 야오 준 왕 <br /><br />
 
 
-션 까오 양   셩 지에 허 꽁 이
-준 롱 띠 정 지우 저   밍 량 천 싱
+션 까오 양   셩 지에 허 꽁 이 <br />
+준 롱 띠 정 지우 저   밍 량 천 싱 <br /><br />
 
 ​
-[ Chorus ]
-티앤 스 까오 셩 치 쏭 양   완 우 뚜 취 시 라이 징 빠이 니
-허 떵 치 먀오   허 떵 롱 야오
+[ Chorus ] <br />
+티앤 스 까오 셩 치 쏭 양   완 우 뚜 취 시 라이 징 빠이 니 <br />
+허 떵 치 먀오   허 떵 롱 야오 <br /><br />
 
 
-차오 후 완 민 즈 상   페이 더 준 총
-허 떵 치 먀오   허 떵 롱 야오
-예 쑤 워 주   차오 후 완 밍 즈 상   예 쑤
+차오 후 완 민 즈 상   페이 더 준 총 <br />
+허 떵 치 먀오   허 떵 롱 야오 <br />
+예 쑤 워 주   차오 후 완 밍 즈 상   예 쑤 <br /><br />
 
 
-[ ​ Bridge ]
-워 야오 용 위앤 징 빠이   예 쑤 워 아이 니   예 쑤 워 아이 니
+[ ​ Bridge ] <br />
+워 야오 용 위앤 징 빠이   예 쑤 워 아이 니   예 쑤 워 아이 니 <br />
 	</div>
 
 </div>
+
+
+--
+
 
