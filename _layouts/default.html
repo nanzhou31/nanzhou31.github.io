@@ -9,17 +9,20 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}/style.css" />
+    <link rel="stylesheet" href="//fonts.googleapis.com/earlyaccess/nanumgothic.css">
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  <script src="https://use.fontawesome.com/eeb97ab5cb.js"></script>
   </head>
 
   <body>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <!--이미지 로고-->
+          <!--<a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>-->
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
@@ -27,8 +30,9 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <!--<a href="{{ site.baseurl }}/schedule" class="music"><i class="fa fa-calendar" aria-hidden="true"></i>Schedule</a>-->
+            <a href="{{ site.url }}/music" class="music"><i class="fa fa-music" aria-hidden="true"></i>Music</a>
+            <!--<a href="{{ site.baseurl }}/pray"><i class="fa fa-hand-paper-o" aria-hidden="true"></i>Pray</a>-->
           </nav>
         </header>
       </div>
@@ -38,14 +42,25 @@
       {{ content }}
     </div>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
+    <!--<div class="wrapper-footer">-->
+      <!--<div class="container">-->
+        <!--<footer class="footer">-->
+          <!--{% include svg-icons.html %}-->
+        <!--</footer>-->
+      <!--</div>-->
+    <!--</div>-->
 
-    {% include analytics.html %}
+    <!--{% include analytics.html %}-->
+
+<script src="../script/jquery.min.1.12.0.js"></script>
+<script type="text/javascript" src="../script/ui_guide2.js"></script>
+<script type="text/javascript">
+  $(window).load(function() {
+      	$('#t1').tab({});
+      	$('#t2').tab({});
+      	$('#t3').tab({});
+  });
+</script>
+
   </body>
 </html>
