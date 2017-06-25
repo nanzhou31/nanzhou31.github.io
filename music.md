@@ -121,6 +121,7 @@ comments:true
 		<li><a href="#t2_tab_3">병음</a></li>
 		<li><a href="#t2_tab_4">독음</a></li>
 		<li><a href="#t2_tab_5">악보</a></li>
+		<li><a href="#t2_tab_6">율동</a></li>
 	</ul>
 
 
@@ -178,6 +179,9 @@ comments:true
 	</div>
 	<div id="t2_tab_5" class="tab_content" style="display:none">
         <img src="../images/track_2.png" />
+	</div>
+	<div id="t2_tab_6" class="tab_content" style="display:none">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/YxWvSanXLms" frameborder="0" allowfullscreen></iframe>
 	</div>
 
 </div>
