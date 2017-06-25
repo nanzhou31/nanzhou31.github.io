@@ -36,7 +36,7 @@ comments:true
 		<li><a href="#tab_3">병음</a></li>
 		<li><a href="#tab_4">독음</a></li>
 		<li><a href="#tab_5">악보</a></li>
-		<li><a href="#tab_5">율동</a></li>
+		<li><a href="#tab_6">율동</a></li>
 	</ul>
 
 
