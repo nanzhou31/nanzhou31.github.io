@@ -181,7 +181,7 @@ comments:true
         <img src="../images/track_2.png" />
 	</div>
 	<div id="t2_tab_6" class="tab_content" style="display:none">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/YxWvSanXLms" frameborder="0"></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/YxWvSanXLms" frameborder="0" playsinline></iframe>
 	</div>
 
 </div>
