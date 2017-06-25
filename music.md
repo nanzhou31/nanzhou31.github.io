@@ -499,6 +499,7 @@ comments:true
 		<li><a href="#t6_tab_2">正體字</a></li>
 		<li><a href="#t6_tab_3">병음</a></li>
 		<li><a href="#t6_tab_4">독음</a></li>
+		<li><a href="#t6_tab_5">독음</a></li>
 	</ul>
 
 
