@@ -3,22 +3,18 @@ layout: page
 permalink: /music/
 comments:true
 ---
-###  남주 찬양 리스트
+<h3>남주 찬양 리스트 <br /><span>讚美歌曲列表</span></h3>
 
-
-1 [내 마음을 가득 채운 **主,我爱您** ](#track_1) <br/>
-2 [주님의 사랑 **上帝的恩爱** ](#track_2) <br/>
-3 [Alive (살아계신 주) **使我得生命** ](#track_3) <br/>
-4 [Wake (날 세우시네) **甦醒**](#track_4) <br/>
-5 [하늘 위에 주님 밖에 **上帝的恩爱**](#track_5) <br/>
-6 [지금은 엘리야 때처럼 **以利亞的日子**](#track_6) <br/>
-7 [나같은 죄인 살리신 **奇異恩典**](#track_7)    <br/>
-8 [부르신 곳에서 **在祢呼召之地**](#track_9) <br/>
-9 [예수 아름다우신 **榮美的救主**](#track_10) <br/>
-10 [위대하신 주 **我神真偉大**](#track_11)
-
-
-
+<p class="song_list">1 <a href="#track_1">내 마음을 가득 채운 <br /><strong></strong> </a> <br>
+2 <a href="#track_2">주님의 사랑 <br /><strong>上帝的恩爱</strong> </a> <br>
+3 <a href="#track_3">Alive (살아계신 주) <br /><strong>使我得生命</strong> </a> <br>
+4 <a href="#track_4">Wake (날 세우시네) <br /><strong>甦醒</strong></a> <br>
+5 <a href="#track_5">하늘 위에 주님 밖에 <br /><strong>上帝的恩爱</strong></a> <br>
+6 <a href="#track_6">지금은 엘리야 때처럼 <br /><strong>以利亞的日子</strong></a> <br>
+7 <a href="#track_7">나같은 죄인 살리신 <br /><strong>奇異恩典</strong></a>    <br>
+8 <a href="#track_9">부르신 곳에서 <br /><strong>在祢呼召之地</strong></a> <br>
+9 <a href="#track_10">예수 아름다우신 <br /><strong>榮美的救主</strong></a> <br>
+10 <a href="#track_11">위대하신 주 <br /><strong>我神真偉大</strong></a></p>
 ---
 
 
@@ -87,20 +83,18 @@ comments:true
 		gǎn xiè gěi wǒ néng zài biǎo bái dí zàn yáng <br/>
 	</div>
 	<div id="tab_4" class="tab_content" style="display:none">
-		1 워 띠 신 링 총 만 뛔이 주 띠 짠 메이 허 아이 , 우 파 용 얜 위 뺘오 따 <br/>
-		쒜이 란 요우 헌 뚜어 짠 메이 , 예 뿌 넝 뺘오 따 워 띠 신 , 쑤어 이 워 짜이 츠 까오 빠이 . <br/>
+		1 워 띠 신 링 총 만 뛔이 주 띠 짠 메이 허 아이 , 우 파 용 얜 위 뺘오 따 <br/><br /> 
+		쒜이 란 요우 헌 뚜어 짠 메이 , 예 뿌 넝 뺘오 따 워 띠 신 , 쑤어 이 워 짜이 츠 까오 빠이 . <br/><br />
 
-		2 요우 헌 뚜어 인 러 허 짠 메이 뚜 시앤 께이 주 , 딴 스 워 위앤 이 짜이 츠 까오 빠이 . <br/>
-		주 아 , 닌 스 워 띠 아이 , 워 띠 이 치에 , 인 츠 워 짠 메이 주 . <br/>
+		2 요우 헌 뚜어 인 러 허 짠 메이 뚜 시앤 께이 주 , 딴 스 워 위앤 이 짜이 츠 까오 빠이 . <br/><br />
+		주 아 , 닌 스 워 띠 아이 , 워 띠 이 치에 , 인 츠 워 짠 메이 주 . <br/><br />
 
 		Chrous. <br/>
-		주 아 , 워 아이 닌 , 용 워 띠 이 치에 라이 짠 메이 닌 . <br/>
+		주 아 , 워 아이 닌 , 용 워 띠 이 치에  <br />라이 짠 메이 닌 . <br/>
 		오 , 주 , 워 아이 닌 , 워 짠 메이 주 . <br/><br/>
 
 		Bridge. <br/>
 		깐 시에 께이 워 넝 짜이 뺘오 빠이 주 띠 언 아이 띠 신 이 티앤 <br/>
-		깐 시에 께이 워 넝 짜이 뺘오 빠이 띠 짠 양 <br/>
-	</div>
 
 </div>
 

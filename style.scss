@@ -165,7 +165,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 .masthead {
@@ -345,6 +345,11 @@ footer {
     padding: 15px; /* Some padding */
     border-radius: 2px; /* Rounded corners */
 }
+
+        .song_list  {line-height:200%;}
+        .song_list  strong  {font-weight: normal;
+    color: #666;
+    font-size: 16px;}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
