@@ -321,6 +321,7 @@ comments:true
 		<li><a href="#t4_tab_2">正體字</a></li>
 		<li><a href="#t4_tab_3">병음</a></li>
 		<li><a href="#t4_tab_4">독음</a></li>
+		<li><a href="#t4_tab_5">악보</a></li>
 	</ul>
 
 
@@ -409,7 +410,9 @@ comments:true
 		니 띠 아이 니 띠 아이 니 띠 아이 <br/>
 		따오 용 위앤 ( 워 즈 따오 ) <br/>
 	</div>
-
+	<div id="t4_tab_5" class="tab_content" style="display:none">
+        <img src="../images/track_4.jpg" />
+	</div>
 </div>
 
 
@@ -595,7 +598,9 @@ comments:true
 		양 치 니 셩 저 스 언 띠앤 띠 시 니앤 <br/>
 		지우 슈 언 띠앤 총 시 안 산 얼 라이 ( x3 )<br/>
 	</div>
-
+	<div id="t6_tab_5" class="tab_content" style="display:none">
+        <img src="../images/track_6.gif" />
+	</div>
 </div>
 
 
@@ -613,6 +618,7 @@ comments:true
 		<li><a href="#t7_tab_2">正體字</a></li>
 		<li><a href="#t7_tab_3">병음</a></li>
 		<li><a href="#t7_tab_4">독음</a></li>
+		<li><a href="#t7_tab_5">악보</a></li>
 	</ul>
 
 
@@ -678,6 +684,9 @@ comments:true
 
 		주 짠 양 주 짠 양 용 워 띠 취앤 신 <br/>
 		주 짠 양 주 짠 양 용 워 띠 셩 밍 <br/>
+	</div>
+	<div id="t7_tab_5" class="tab_content" style="display:none">
+        <img src="../images/track_7.png" />
 	</div>
 </div>
 
@@ -786,7 +795,9 @@ comments:true
 		워 쑤어 따오 띠 메이 이 꺼 쟈오 루어 <br />
 		짜이 나 띠 워 야오 징 빠이 ( * 2 )
 	</div>
-
+	<div id="t9_tab_5" class="tab_content" style="display:none">
+        <img src="../images/track_9.jpg" />
+	</div>
 </div>
 
 
@@ -804,6 +815,7 @@ comments:true
 		<li><a href="#t10_tab_2">正體字</a></li>
 		<li><a href="#t10_tab_3">병음</a></li>
 		<li><a href="#t10_tab_4">독음</a></li>
+		<li><a href="#t10_tab_5">악보</a></li>
 	</ul>
 
 
@@ -896,7 +908,9 @@ comments:true
 		[ ​ Bridge ] <br/>
 		워 야오 용 위앤 징 빠이 예 쑤 워 아이 니 예 쑤 워 아이 니 <br/>
 	</div>
-
+	<div id="t10_tab_5" class="tab_content" style="display:none">
+        <img src="../images/track_10.jpg" />
+	</div>
 </div>
 
 
@@ -915,6 +929,7 @@ comments:true
 		<li><a href="#t11_tab_2">正體字</a></li>
 		<li><a href="#t11_tab_3">병음</a></li>
 		<li><a href="#t11_tab_4">독음</a></li>
+		<li><a href="#t11_tab_5">악보</a></li>
 	</ul>
 
 
@@ -1026,7 +1041,9 @@ comments:true
 		니 즈 셩 zun 밍 페이 셔우 따 짠 메이 <br/>
 		취앤 신 꺼 쏭 워 션 전 웨이 따 <br/>
 	</div>
-
+	<div id="t11_tab_5" class="tab_content" style="display:none">
+        <img src="../images/track_11.png" />
+	</div>
 </div>
 
 
