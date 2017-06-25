@@ -3,7 +3,7 @@ layout: page
 permalink: /music/
 comments:true
 ---
-<h3>남주 찬양 리스트 <br /><span>讚美歌曲列表</span></h3>
+<h3>남주 찬양 리스트 <span>讚美歌曲列表</span></h3>
 
 <p class="song_list">1 <a href="#track_1">내 마음을 가득 채운 <strong>主,我爱您</strong> </a> <br>
 2 <a href="#track_2">주님의 사랑 <strong>上帝的恩爱</strong> </a> <br>
