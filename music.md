@@ -120,6 +120,7 @@ comments:true
 		<li><a href="#t2_tab_2">正體字</a></li>
 		<li><a href="#t2_tab_3">병음</a></li>
 		<li><a href="#t2_tab_4">독음</a></li>
+		<li><a href="#t2_tab_5">악보</a></li>
 	</ul>
 
 
@@ -174,6 +175,9 @@ comments:true
 		상 띠 띠 언 띠앤 ， 샹 쉐이 이 양 라이 자오 워 <br/>
 		나 언 아이 띠 꾸어 스 ， 워 띠 신 리 뚜 만 만 띠 <br/>
 
+	</div>
+	<div id="t2_tab_5" class="tab_content" style="display:none">
+        <img src="../images/track_1.png" />
 	</div>
 
 </div>
