@@ -705,6 +705,7 @@ comments:true
 		<li><a href="#t9_tab_2">正體字</a></li>
 		<li><a href="#t9_tab_3">병음</a></li>
 		<li><a href="#t9_tab_4">독음</a></li>
+		<li><a href="#t9_tab_5">독음</a></li>
 	</ul>
 
 
@@ -1042,9 +1043,6 @@ comments:true
 		취앤 신 꺼 쏭 워 션 전 웨이 따 <br/>
 	</div>
 	<div id="t11_tab_5" class="tab_content" style="display:none">
-        <img src="../images/track_11.png" />
+        <img src="../images/track_11.jpg" />
 	</div>
 </div>
-
-
-
