@@ -421,6 +421,8 @@ comments:true
 		<li><a href="#t5_tab_2">正體字</a></li>
 		<li><a href="#t5_tab_3">병음</a></li>
 		<li><a href="#t5_tab_4">독음</a></li>
+		<li><a href="#t5_tab_5">악보</a></li>
+		<li><a href="#t5_tab_6">율동</a></li>
 	</ul>
 
 
@@ -463,6 +465,12 @@ comments:true
 		션 전 스 워 띠 리 량 션 전 스 워 띠 리 량 <br/>
 		션 전 스 워 띠 리 량 <br/>
 		워 띠 푸 펀 따오 용 위앤 , 따오 용 위앤 <br/>
+	</div>
+	<div id="t5_tab_5" class="tab_content" style="display:none">
+        <img src="http://mblogthumb3.phinf.naver.net/20160218_226/worship6890_1455761986542WAVXs_JPEG/%C7%CF%B4%C3_%C0%A7%BF%A1_%C1%D6%B4%D4_%B9%DB%BF%A1.jpg?type=w800" />
+	</div>
+	<div id="t6_tab_6" class="tab_content" style="display:none">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/pwtn6FPBVpY?playsinline=1" frameborder="0"></iframe>
 	</div>
 
 </div>
