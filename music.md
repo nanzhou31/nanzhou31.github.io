@@ -177,7 +177,7 @@ comments:true
 
 	</div>
 	<div id="t2_tab_5" class="tab_content" style="display:none">
-        <img src="../images/track_1.png" />
+        <img src="../images/track_2.png" />
 	</div>
 
 </div>
