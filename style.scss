@@ -198,7 +198,6 @@ img {
   float: left;
 
   @include mobile {
-    float: none;
     display: block;
     margin: 0 auto;
   }
