@@ -472,7 +472,7 @@ comments:true
 	<div id="t5_tab_5" class="tab_content" style="display:none">
         <img src="http://mblogthumb3.phinf.naver.net/20160218_226/worship6890_1455761986542WAVXs_JPEG/%C7%CF%B4%C3_%C0%A7%BF%A1_%C1%D6%B4%D4_%B9%DB%BF%A1.jpg?type=w800" />
 	</div>
-	<div id="t6_tab_6" class="tab_content" style="display:none">
+	<div id="t5_tab_6" class="tab_content" style="display:none">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/pwtn6FPBVpY?playsinline=1" frameborder="0"></iframe>
 	</div>
 
