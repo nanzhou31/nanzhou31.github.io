@@ -22,7 +22,7 @@ comments:true
 ---
 
 
-<button onclick="topFunction()" id="myBtn" title="Go to top">찬양리스트 <br />보기</button>
+<button onclick="topFunction()" id="myBtn" title="Go to top"> Top</button>
 <div id="track_1">
 
 	<h4>내 마음을 가득채운_主,我爱您</h4>
