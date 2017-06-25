@@ -19,7 +19,7 @@ comments:true
 
 
 <button onclick="topFunction()" id="myBtn" title="Go to top"> Top</button>
-<div id="track_1">
+<div class="track" id="track_1">
 
 	<h4>내 마음을 가득채운_主,我爱您</h4>
 
@@ -99,7 +99,7 @@ comments:true
 </div>
 
 
-<div id="track_2">
+<div class="track" id="track_2">
 
 	<h4>주님의 사랑 上帝的恩爱</h4>
 
@@ -172,7 +172,7 @@ comments:true
 </div>
 
 
-<div id="track_3">
+<div class="track" id="track_3">
 
 	<h4>Alive(살아계신주) 使我得生命 </h4>
 
@@ -286,7 +286,7 @@ comments:true
 </div>
 
 
-<div id="track_4">
+<div class="track" id="track_4">
 
 	<h4>Wake(날세우시네)_甦醒</h4>
 
@@ -392,7 +392,7 @@ comments:true
 </div>
 
 
-<div id="track_5">
+<div class="track" id="track_5">
 
 	<h4>하늘 위에 주님 밖에</h4>
 
@@ -453,7 +453,7 @@ comments:true
 </div>
 
 
-<div id="track_6">
+<div class="track" id="track_6">
 
 	<h4>지금은엘리야때처럼_以利亞的日子</h4>
 
@@ -570,7 +570,7 @@ comments:true
 </div>
 
 
-<div id="track_7">
+<div class="track" id="track_7">
 
 	<h4>나같은죄인살리신_奇異恩典</h4>
 
@@ -653,7 +653,7 @@ comments:true
 </div>
 
 
-<div id="track_9">
+<div class="track" id="track_9">
 
 	<h4>부르신곳에서_在祢呼召之地</h4>
 
@@ -761,7 +761,7 @@ comments:true
 </div>
 
 
-<div id="track_10">
+<div class="track" id="track_10">
 
 	<h4>예수아름다우신_榮美的救主</h4>
 
@@ -871,7 +871,7 @@ comments:true
 </div>
 
 
-<div id="track_11">
+<div class="track" id="track_11">
 
 
 	<h4>위대하신 주 我神真偉大</h4>
