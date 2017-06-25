@@ -23,7 +23,7 @@ comments:true
 
 <div class="track" id="track_1">
 
-	<h4>내 마음을 가득채운_主,我爱您</h4>
+	<h4>내 마음을 가득채운 主,我爱您</h4>
 
 	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_1.aac" type="audio/mp4">
@@ -309,7 +309,7 @@ comments:true
 
 <div class="track" id="track_4">
 
-	<h4>Wake(날세우시네)_甦醒</h4>
+	<h4>Wake(날세우시네) 甦醒</h4>
 
 	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_4.aac" type="audio/mp4">
@@ -418,7 +418,7 @@ comments:true
 
 <div class="track" id="track_5">
 
-	<h4>하늘 위에 주님 밖에</h4>
+	<h4>하늘위에 주님 밖에 神真是我力量</h4>
 
 	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_5.aac" type="audio/mp4">
@@ -487,7 +487,7 @@ comments:true
 
 <div class="track" id="track_6">
 
-	<h4>지금은엘리야때처럼_以利亞的日子</h4>
+	<h4>지금은엘리야때처럼 以利亞的日子</h4>
 
 	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_6.aac" type="audio/mp4">
@@ -607,7 +607,7 @@ comments:true
 
 <div class="track" id="track_7">
 
-	<h4>나같은죄인살리신_奇異恩典</h4>
+	<h4>나같은죄인살리신 奇異恩典</h4>
 
 	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_7.aac" type="audio/mp4">
@@ -694,7 +694,7 @@ comments:true
 
 <div class="track" id="track_9">
 
-	<h4>부르신곳에서_在祢呼召之地</h4>
+	<h4>부르신곳에서 在祢呼召之地</h4>
 
 	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_9.aac" type="audio/mp4">
@@ -805,7 +805,7 @@ comments:true
 
 <div class="track" id="track_10">
 
-	<h4>예수아름다우신_榮美的救主</h4>
+	<h4>예수아름다우신 榮美的救主</h4>
 
 	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_10.aac" type="audio/mp4">
