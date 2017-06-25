@@ -35,6 +35,7 @@ comments:true
 		<li><a href="#tab_2">正體字</a></li>
 		<li><a href="#tab_3">병음</a></li>
 		<li><a href="#tab_4">독음</a></li>
+		<li><a href="#tab_5">악보</a></li>
 	</ul>
 
 
@@ -97,6 +98,9 @@ comments:true
 
 		Bridge. <br/>
 		깐 시에 께이 워 넝 짜이 뺘오 빠이 주 띠 언 아이 띠 신 이 티앤 <br/>
+	</div>
+	<div id="tab_5" class="tab_content" style="display:none">
+        <img src="../images/track_1.png" />
 	</div>
 
 </div>
