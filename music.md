@@ -6,16 +6,16 @@ comments:true
 ###  남주 찬양 리스트
 
 
-1 [내 마음을 가득 채운 主,我爱您](#track_1) <br/>
-2 [주님의 사랑 上帝的恩爱](#track_2) <br/>
-3 [Alive (살아계신주) 使我得生命](#track_3) <br/>
-4 [Wake (날세우시네) 甦醒](#track_4) <br/>
-5 [하늘 위에 주님 밖에 上帝的恩爱](#track_5) <br/>
-6 [지금은 엘리야 때처럼 以利亞的日子](#track_6) <br/>
-7 [나같은 죄인 살리신 奇異恩典](#track_7)    <br/>
-8 [부르신 곳에서 在祢呼召之地](#track_9) <br/>
-9 [예수 아름다우신 榮美的救主](#track_10) <br/>
-10 [How great is our GOD (위대하신주) 我神真偉大](#track_11)
+1 [내 마음을 가득 채운 **主,我爱您** ](#track_1) <br/>
+2 [주님의 사랑 **上帝的恩爱** ](#track_2) <br/>
+3 [Alive (살아계신 주) **使我得生命** ](#track_3) <br/>
+4 [Wake (날 세우시네) **甦醒**](#track_4) <br/>
+5 [하늘 위에 주님 밖에 **上帝的恩爱**](#track_5) <br/>
+6 [지금은 엘리야 때처럼 **以利亞的日子**](#track_6) <br/>
+7 [나같은 죄인 살리신 **奇異恩典**](#track_7)    <br/>
+8 [부르신 곳에서 **在祢呼召之地**](#track_9) <br/>
+9 [예수 아름다우신 **榮美的救主**](#track_10) <br/>
+10 [위대하신 주 **我神真偉大**](#track_11)
 
 
 
@@ -34,7 +34,7 @@ comments:true
 
 	<ul class="tab_tit" id="t1">
 		<li><a href="#tab_1">한국어</a></li>
-		<li><a href="#tab_2">중국어</a></li>
+		<li><a href="#tab_2">正體字</a></li>
 		<li><a href="#tab_3">병음</a></li>
 		<li><a href="#tab_4">독음</a></li>
 	</ul>
@@ -116,7 +116,7 @@ comments:true
 
 	<ul class="tab_tit" id="t2">
 		<li><a href="#t2_tab_1">한국어</a></li>
-		<li><a href="#t2_tab_2">중국어</a></li>
+		<li><a href="#t2_tab_2">正體字</a></li>
 		<li><a href="#t2_tab_3">병음</a></li>
 		<li><a href="#t2_tab_4">독음</a></li>
 	</ul>
@@ -189,7 +189,7 @@ comments:true
 
 	<ul class="tab_tit" id="t3">
 		<li><a href="#t3_tab_1">한국어</a></li>
-		<li><a href="#t3_tab_2">중국어</a></li>
+		<li><a href="#t3_tab_2">正體字</a></li>
 		<li><a href="#t3_tab_3">병음</a></li>
 		<li><a href="#t3_tab_4">독음</a></li>
 	</ul>
@@ -303,7 +303,7 @@ comments:true
 
 	<ul class="tab_tit" id="t4">
 		<li><a href="#t4_tab_1">한국어</a></li>
-		<li><a href="#t4_tab_2">중국어</a></li>
+		<li><a href="#t4_tab_2">正體字</a></li>
 		<li><a href="#t4_tab_3">병음</a></li>
 		<li><a href="#t4_tab_4">독음</a></li>
 	</ul>
@@ -409,7 +409,7 @@ comments:true
 
 	<ul class="tab_tit" id="t5">
 		<li><a href="#t5_tab_1">한국어</a></li>
-		<li><a href="#t5_tab_2">중국어</a></li>
+		<li><a href="#t5_tab_2">正體字</a></li>
 		<li><a href="#t5_tab_3">병음</a></li>
 		<li><a href="#t5_tab_4">독음</a></li>
 	</ul>
@@ -470,7 +470,7 @@ comments:true
 
 	<ul class="tab_tit" id="t6">
 		<li><a href="#t6_tab_1">한국어</a></li>
-		<li><a href="#t6_tab_2">중국어</a></li>
+		<li><a href="#t6_tab_2">正體字</a></li>
 		<li><a href="#t6_tab_3">병음</a></li>
 		<li><a href="#t6_tab_4">독음</a></li>
 	</ul>
@@ -587,7 +587,7 @@ comments:true
 
 	<ul class="tab_tit" id="t7">
 		<li><a href="#t7_tab_1">한국어</a></li>
-		<li><a href="#t7_tab_2">중국어</a></li>
+		<li><a href="#t7_tab_2">正體字</a></li>
 		<li><a href="#t7_tab_3">병음</a></li>
 		<li><a href="#t7_tab_4">독음</a></li>
 	</ul>
@@ -670,7 +670,7 @@ comments:true
 
 	<ul class="tab_tit" id="t9">
 		<li><a href="#t9_tab_1">한국어</a></li>
-		<li><a href="#t9_tab_2">중국어</a></li>
+		<li><a href="#t9_tab_2">正體字</a></li>
 		<li><a href="#t9_tab_3">병음</a></li>
 		<li><a href="#t9_tab_4">독음</a></li>
 	</ul>
@@ -778,7 +778,7 @@ comments:true
 
 	<ul class="tab_tit" id="t10">
 		<li><a href="#t10_tab_1">한국어</a></li>
-		<li><a href="#t10_tab_2">중국어</a></li>
+		<li><a href="#t10_tab_2">正體字</a></li>
 		<li><a href="#t10_tab_3">병음</a></li>
 		<li><a href="#t10_tab_4">독음</a></li>
 	</ul>
@@ -836,6 +836,7 @@ comments:true
 		Zūn róng de zhěngjiù zhě, míngliàng chénxīng, <br/>
 
 		Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ, <br/>
+		Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ, <br/>
 
 		Héděng qímiào, héděng róngyào, <br/>
 
@@ -879,7 +880,7 @@ comments:true
 <div id="track_11">
 
 
-	<h4>How Great Is Our God 我神真偉大</h4>
+	<h4>위대하신 주 我神真偉大</h4>
 
 	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_11.aac" type="audio/mp4">
@@ -888,7 +889,7 @@ comments:true
 
 	<ul class="tab_tit" id="t11">
 		<li><a href="#t11_tab_1">한국어</a></li>
-		<li><a href="#t11_tab_2">중국어</a></li>
+		<li><a href="#t11_tab_2">正體字</a></li>
 		<li><a href="#t11_tab_3">병음</a></li>
 		<li><a href="#t11_tab_4">독음</a></li>
 	</ul>
