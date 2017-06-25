@@ -204,6 +204,7 @@ comments:true
 		<li><a href="#t3_tab_2">正體字</a></li>
 		<li><a href="#t3_tab_3">병음</a></li>
 		<li><a href="#t3_tab_4">독음</a></li>
+		<li><a href="#t3_tab_5">악보</a></li>
 	</ul>
 
 
@@ -300,7 +301,9 @@ comments:true
 		' Cause You are , You are , You are my freedom <br/>
 		워 까오 쥐 니 밍 <br/>
 	</div>
-
+	<div id="t3_tab_5" class="tab_content" style="display:none">
+        <img src="../images/track_3.jpg" />
+	</div>
 </div>
 
 
