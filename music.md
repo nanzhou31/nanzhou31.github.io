@@ -1,5 +1,5 @@
 <h3>찬양 리스트 <span>讚美歌曲列表</span></h3>
-<p>7.4 업데이트 (리스트 수정)</p>
+<p class="sub">17.7.4 Update (Edit list item)</p>
 <p class="song_list">
 	1 <a href="#track_1">내 모든 삶의 행동 + 승리하였네 <br/><strong>一切都在于你 + 耶蘇已胜利</strong> </a> <br>
 	2 <a href="#track_2">기뻐하며 왕께 노래부르리 <strong>揚聲歡呼讚美</strong> </a> <br>
