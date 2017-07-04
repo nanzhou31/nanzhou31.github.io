@@ -133,7 +133,7 @@
 		<img src="../images/t_1_2.jpg"/>
 	</div>
 	<div id="tab_6" class="tab_content" style="display:none">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/PHvR5BmCMJM?playsinline=1" frameborder="0"></iframe>
+		<iframe width="544" height="306" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=7FB87539D7044A9F3320D3B32D2F617EC61B&outKey=V1246f40eb7f161b79c765d241b37b14007b52125218739e2a31f5d241b37b14007b5" frameborder="no" scrolling="no"></iframe>
 	</div>
 </div>
 
