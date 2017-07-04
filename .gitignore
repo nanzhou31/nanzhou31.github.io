@@ -8,3 +8,11 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+.idea/deployment.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/nanzhou31.github.io.iml
+.idea/watcherTasks.xml
+.idea/workspace.xml
+.idea/vcs.xml
+music.html

@@ -1,7 +1,7 @@
 <h3>찬양 리스트 <span>讚美歌曲列表</span></h3>
 <p>7.4 업데이트 (리스트 수정)</p>
 <p class="song_list">
-	1 <a href="#track_1">내 모든 삶의 행동 + 승리하였네 <br /><strong>一切都在于你 + 耶蘇已胜利</strong> </a> <br>
+	1 <a href="#track_1">내 모든 삶의 행동 + 승리하였네 <br/><strong>一切都在于你 + 耶蘇已胜利</strong> </a> <br>
 	2 <a href="#track_2">기뻐하며 왕께 노래부르리 <strong>揚聲歡呼讚美</strong> </a> <br>
 	3 <a href="#track_3">나의 왕 나의 주 <strong>我的主 我的王</strong> </a> <br>
 	4 <a href="#track_4">하늘 위에 주님 밖에 <strong>使我得生命</strong> </a> <br>
@@ -16,7 +16,7 @@
 
 <div class="track" id="track_1">
 
-	<h4>내 모든 삶의 행동 + 승리하였네 <br /><strong>一切都在于你 + 耶蘇已胜利</strong></h4>
+	<h4>내 모든 삶의 행동 + 승리하였네 <br/><strong>一切都在于你 + 耶蘇已胜利</strong></h4>
 
 	<ul class="tab_tit" id="t1">
 		<li><a href="#tab_1">한국어</a></li>
@@ -157,62 +157,59 @@
 
 
 	<div id="t2_tab_1" class="tab_content" style="display:block">
-		눈부신 햇살 저 하늘 너머 내게 주어진 <br/>
-		주님의 사랑 깊어져 가네 나의 마음에 <br/><br/>
+		기뻐하며 왕께 노래 부르리 <br/>
+		소리 높여 할렐루야 부르리 <br/>
+		주님 앞에 나와 찬양 드리며 <br/>
+		우리 주님과 함께 기뻐하리라 <br/><br/>
 
-		prechrous. <br/>
-		나 얻었네 변함없는 그 사랑 <br/>
-		내 안에 기쁨의 노래 멈출 수가 없네 <br/><br/>
-
-		chrous. <br/>
-		주님의 사랑 바람에 실리듯 내게 찾아와 <br/>
-		그 사랑의 향기가 내 맘 가득해 <br/><br/>
-		주님의 은혜 굽이쳐 흐르며 내게 다가와 <br/>
-		그 사랑의 열매로 내 맘 채우네 <br/>
+		나의 창조자 나의 구원자 <br/>
+		가장 귀한 나의 예수님 찬양합니다 <br/>
+		나의 치료자 나의 선한 목자 되신 주 <br/>
+		예수 나의 주 찬양하리 <br/>
 	</div>
 
 	<div id="t2_tab_2" class="tab_content" style="display:none">
-		耀眼的阳光,在天空之外给我的 <br/>
-		上帝的恩爱，越来越深，在我的心里 <br/><br/>
+		扬声欢呼赞美称颂我的王，<br/>
+		高声颂扬欢唱哈利路亚， <br/>
+		来到主宝座前尊崇赞美祂， <br/>
+		我们欢呼喜乐进入神的面前 <br/><br/>
 
-		我收到了，不变的那恩爱 <br/>
-		我心里欢乐的歌曲，无法停止 <br/><br/>
-
-		上帝的恩爱，像风一样来找我 <br/>
-		那恩爱的香气，我的心里都满满的 <br/><br/>
-		上帝的恩典，像水一样来找我 <br/>
-		那恩爱的果实，我的心里都满满的 <br/>
+		祢是创造主，祢施行拯救， <br/>
+		祢已救赎我，祢是主， <br/>
+		最大的医生，祢是丰盛之主。 <br/>
+		祢是我的牧者引领我，<br/>
+		耶稣我君王，我赞美祢。 <br/>
 	</div>
 	<div id="t2_tab_3" class="tab_content" style="display:none">
-		yào yǎn dí yáng guāng , zài tiān kōng zhī wài gěi wǒ dí <br/>
-		shàng dì dí ēn ài ， yuè lái yuè shēn ， zài wǒ dí xīn lǐ <br/><br/>
+		yáng shēng huān hū zàn měi chēng sòng wǒ dí wáng ，
+		gāo shēng sòng yáng huān chàng hā lì lù yà ，
+		lái dào zhǔ bǎo zuò qián zūn chóng zàn měi 祂 ，
+		wǒ mén huān hū xǐ lè jìn rù shén dí miàn qián
 
-		wǒ shōu dào liǎo ， bù biàn dí nà ēn ài <br/>
-		wǒ xīn lǐ huān lè dí gē qū ， wú fǎ tíng zhǐ <br/><br/>
 
-		shàng dì dí ēn ài ， xiàng fēng yī yàng lái zhǎo wǒ <br/>
-		nà ēn ài dí xiāng qì ， wǒ dí xīn lǐ dū mǎn mǎn dí <br/><br/>
-		shàng dì dí ēn diǎn ， xiàng shuǐ yī yàng lái zhǎo wǒ <br/>
-		nà ēn ài dí guǒ shí ， wǒ dí xīn lǐ dū mǎn mǎn dí <br/>
-
+		mí shì chuàng zào zhǔ ， mí shī xíng zhěng jiù ，
+		mí yǐ jiù shú wǒ ， mí shì zhǔ ，
+		zuì dà dí yī shēng ， mí shì fēng shèng zhī zhǔ 。
+		mí shì wǒ dí mù zhě yǐn lǐng wǒ ，
+		yé sū wǒ jūn wáng ， wǒ zàn měi mí 。
 	</div>
 	<div id="t2_tab_4" class="tab_content" style="display:none">
-		야오 얜 띠 양 꾸앙 , 짜이 티앤 콩 즈 와이 께이 워 띠 <br/>
-		상 띠 띠 언 아이 ， 위에 라이 위에 션 ， 짜이 워 띠 신 리 <br/><br/>
-		워 셔우 따오 랴오 ， 뿌 삐앤 띠 나 언 아이 <br/>
-		워 신 리 후안 러 띠 꺼 취 ， 우 파 팅 즈 <br/><br/>
+		양 셩 후안 후 짠 메이 청 쏭 워 띠 왕 ，
+		까오 셩 쏭 양 후안 창 하 리 루 야 ，
+		라이 따오 주 빠오 쭤 치앤 zun 총 짠 메이 祂 ，
+		워 먼 후안 후 시 러 진 루 션 띠 미앤 치앤
 
-		상 띠 띠 언 아이 ， 샹 펑 이 양 라이 자오 워 <br/>
-		나 언 아이 띠 샹 치 ， 워 띠 신 리 뚜 만 만 띠 <br/><br/>
-		상 띠 띠 언 띠앤 ， 샹 쉐이 이 양 라이 자오 워 <br/>
-		나 언 아이 띠 꾸어 스 ， 워 띠 신 리 뚜 만 만 띠 <br/>
-
+		미 스 추앙 쨔오 주 ， 미 스 싱 정 지우 ，
+		미 이 지우 슈 워 ， 미 스 주 ，
+		zui 따 띠 이 셩 ， 미 스 펑 셩 즈 주 。
+		미 스 워 띠 무 저 인 링 워 ，
+		예 쑤 워 君 왕 ， 워 짠 메이 미 。
 	</div>
 	<div id="t2_tab_5" class="tab_content" style="display:none">
-		<img src="../images/track_2.png"/>
+		<img src="//down.231122.com:2352/web/gepu/d/file/201310/a1d103353daa8a6e0e21b06c580cd274.jpg"/>
 	</div>
 	<div id="t2_tab_6" class="tab_content" style="display:none">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/YxWvSanXLms?playsinline=1" frameborder="0"></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/nRdxC0cPcGg?playsinline=1" frameborder="0"></iframe>
 	</div>
 
 </div>
