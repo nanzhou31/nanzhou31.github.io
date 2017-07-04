@@ -4,27 +4,24 @@ permalink: /music/
 comments:true
 ---
 <h3>찬양 리스트 <span>讚美歌曲列表</span></h3>
-
+<p>7.4 업데이트 (리스트 수정)</p>
 <p class="song_list">
-1 <a href="#track_1">내 모든 삶의 행동 + 승리하였네 <strong></strong> </a> <br>
-2 <a href="#track_2">나의 왕 나의 주 <strong></strong> </a> <br>
-3 <a href="#track_3">하늘 위에 주님 밖에 <strong>使我得生命</strong> </a> <br>
-4 <a href="#track_3">기뻐하며 왕께 <strong></strong> </a> <br>
-5 <a href="#track_9">부르신 곳에서 <strong>在祢呼召之地</strong></a> <br>
-6 <a href="#track_10">예수 아름다우신 <strong>榮美的救主</strong></a> <br>
-7 <a href="#track_11">위대하신 주 <strong>我神真偉大</strong></a> <br />
-8 <a href="#track_11">born again(주 안에서 내 영혼) <strong></strong></a> <br />
-9 <a href="#track_11">당신은 사랑 받기 위해 태어난 사람 <strong></strong></a> <br />
-10 <a href="#track_11">천국은 마치 <strong></strong></a>
+1 <a href="#track_1">내 모든 삶의 행동 + 승리하였네 <strong>一切都在于你 + 耶蘇已胜利</strong> </a> <br>
+2 <a href="#track_2">기뻐하며 왕께 노래부르리 <strong>揚聲歡呼讚美</strong> </a> <br>
+3 <a href="#track_3">나의 왕 나의 주 <strong>我的主 我的王</strong> </a> <br>
+4 <a href="#track_4">하늘 위에 주님 밖에 <strong>使我得生命</strong> </a> <br>
+5 <a href="#track_5">예수 아름다우신 <strong>榮美的救主</strong></a> <br>
+6 <a href="#track_6">위대하신 주 <strong>我神真偉大</strong></a> <br />
+7 <a href="#track_7">born again(주 안에서 내 영혼) <strong>重生</strong></a> <br />
+8 <a href="#track_8">부르신 곳에서 <strong>在祢呼召之地</strong></a> <br>
+9 <a href="#track_9">당신은 사랑 받기 위해 태어난 사람 <strong>你是为了接受主的爱而被拣选的人</strong></a> <br />
 </p>
-
 
 <button onclick="topFunction()" id="myBtn" title="Go to top"> Top</button>
 
-
 <div class="track" id="track_1">
 
-	<h4>내 마음을 가득채운 主,我爱您</h4>
+	<h4>내 모든 삶의 행동 + 승리하였네 <strong>一切都在于你 + 耶蘇已胜利</strong></h4>
 
 	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_1.aac" type="audio/mp4">
@@ -112,7 +109,7 @@ comments:true
 
 <div class="track" id="track_2">
 
-	<h4>주님의 사랑 上帝的恩爱</h4>
+	<h4>기뻐하며 왕께 노래부르리 <strong>揚聲歡呼讚美</strong></h4>
 
 	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_2.aac" type="audio/mp4">
@@ -193,7 +190,7 @@ comments:true
 
 <div class="track" id="track_3">
 
-	<h4>Alive(살아계신주) 使我得生命 </h4>
+	<h4>나의 왕 나의 주 <strong>我的主 我的王</strong>  </h4>
 
 	<audio controls loop preload="auto" style="width:100%;">
 		<source src="../music/track_3.aac" type="audio/mp4">
