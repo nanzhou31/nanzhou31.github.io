@@ -141,11 +141,6 @@
 
 	<h4>기뻐하며 왕께 노래부르리 <strong>揚聲歡呼讚美</strong></h4>
 
-	<audio controls loop preload="metadata" style="width:100%;">
-		<source src="../music/track_2.aac" type="audio/mp4">
-		<source src="../music/track_2.mp3" type="audio/mpeg">
-	</audio>
-
 	<ul class="tab_tit" id="t2">
 		<li><a href="#t2_tab_1">한국어</a></li>
 		<li><a href="#t2_tab_2">正體字</a></li>
@@ -157,6 +152,9 @@
 
 
 	<div id="t2_tab_1" class="tab_content" style="display:block">
+		<audio controls loop preload="metadata" style="width:100%;">
+			<source src="../music/track_2.mp3" type="audio/mpeg">
+		</audio>
 		기뻐하며 왕께 노래 부르리 <br/>
 		소리 높여 할렐루야 부르리 <br/>
 		주님 앞에 나와 찬양 드리며 <br/>
@@ -169,6 +167,9 @@
 	</div>
 
 	<div id="t2_tab_2" class="tab_content" style="display:none">
+		<audio controls loop preload="metadata" style="width:100%;">
+			<source src="../music/ch_track_2.mp3" type="audio/mpeg">
+		</audio>
 		扬声欢呼赞美称颂我的王，<br/>
 		高声颂扬欢唱哈利路亚， <br/>
 		来到主宝座前尊崇赞美祂， <br/>
@@ -181,32 +182,38 @@
 		耶稣我君王，我赞美祢。 <br/>
 	</div>
 	<div id="t2_tab_3" class="tab_content" style="display:none">
-		yáng shēng huān hū zàn měi chēng sòng wǒ dí wáng ，
-		gāo shēng sòng yáng huān chàng hā lì lù yà ，
-		lái dào zhǔ bǎo zuò qián zūn chóng zàn měi 祂 ，
-		wǒ mén huān hū xǐ lè jìn rù shén dí miàn qián
+		<audio controls loop preload="metadata" style="width:100%;">
+			<source src="../music/ch_track_2.mp3" type="audio/mpeg">
+		</audio>
+		yáng shēng huān hū zàn měi chēng sòng wǒ dí wáng ， <br/>
+		gāo shēng sòng yáng huān chàng hā lì lù yà ，<br/>
+		lái dào zhǔ bǎo zuò qián zūn chóng zàn měi 祂 ，<br/>
+		wǒ mén huān hū xǐ lè jìn rù shén dí miàn qián <br/><br/>
 
 
-		mí shì chuàng zào zhǔ ， mí shī xíng zhěng jiù ，
-		mí yǐ jiù shú wǒ ， mí shì zhǔ ，
-		zuì dà dí yī shēng ， mí shì fēng shèng zhī zhǔ 。
-		mí shì wǒ dí mù zhě yǐn lǐng wǒ ，
-		yé sū wǒ jūn wáng ， wǒ zàn měi mí 。
+		mí shì chuàng zào zhǔ ， mí shī xíng zhěng jiù ， <br/>
+		mí yǐ jiù shú wǒ ， mí shì zhǔ ，<br/>
+		zuì dà dí yī shēng ， mí shì fēng shèng zhī zhǔ 。<br/>
+		mí shì wǒ dí mù zhě yǐn lǐng wǒ ，<br/>
+		yé sū wǒ jūn wáng ， wǒ zàn měi mí 。<br/>
 	</div>
 	<div id="t2_tab_4" class="tab_content" style="display:none">
-		양 셩 후안 후 짠 메이 청 쏭 워 띠 왕 ，
-		까오 셩 쏭 양 후안 창 하 리 루 야 ，
-		라이 따오 주 빠오 쭤 치앤 zun 총 짠 메이 祂 ，
-		워 먼 후안 후 시 러 진 루 션 띠 미앤 치앤
+		<audio controls loop preload="metadata" style="width:100%;">
+			<source src="../music/ch_track_2.mp3" type="audio/mpeg">
+		</audio>
+		양 셩 후안 후 짠 메이 청 쏭 워 띠 왕 ， <br/>
+		까오 셩 쏭 양 후안 창 하 리 루 야 ，<br/>
+		라이 따오 주 빠오 쭤 치앤 zun 총 짠 메이 祂 ，<br/>
+		워 먼 후안 후 시 러 진 루 션 띠 미앤 치앤 <br/><br/>
 
-		미 스 추앙 쨔오 주 ， 미 스 싱 정 지우 ，
-		미 이 지우 슈 워 ， 미 스 주 ，
-		zui 따 띠 이 셩 ， 미 스 펑 셩 즈 주 。
-		미 스 워 띠 무 저 인 링 워 ，
-		예 쑤 워 君 왕 ， 워 짠 메이 미 。
+		미 스 추앙 쨔오 주 ， 미 스 싱 정 지우 ， <br/>
+		미 이 지우 슈 워 ， 미 스 주 ，<br/>
+		zui 따 띠 이 셩 ， 미 스 펑 셩 즈 주 。<br/>
+		미 스 워 띠 무 저 인 링 워 ，<br/>
+		예 쑤 워 君 왕 ， 워 짠 메이 미 。<br/>
 	</div>
 	<div id="t2_tab_5" class="tab_content" style="display:none">
-		<img src="//down.231122.com:2352/web/gepu/d/file/201310/a1d103353daa8a6e0e21b06c580cd274.jpg"/>
+		<img src="https://file.zanmeishi.com/store/2013/05/08/518a162300769ea0030000fe.gif"/>
 	</div>
 	<div id="t2_tab_6" class="tab_content" style="display:none">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/nRdxC0cPcGg?playsinline=1" frameborder="0"></iframe>
