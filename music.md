@@ -125,8 +125,7 @@
 		예 쑤 이 셩 리 까오 양 치우 청 빠오 쉬에 。<br/>
 		인 웨이 빠오 쉬에 띠 넝 리 워 먼 치 라이 <br/>
 		예 쑤 이 셩 리 까오 양 치우 청 빠오 쉬에 。<br/>
-		주 예 쑤 지 뚜 께이 워 셩
-		<리bb></리bb>
+		주 예 쑤 지 뚜 께이 워 셩 리 
 	</div>
 	<div id="tab_5" class="tab_content" style="display:none">
 		<img src="../images/t_1_1.jpg"/>
