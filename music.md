@@ -227,11 +227,6 @@
 
 	<h4>나의 왕 나의 주 <strong>我的主 我的王</strong></h4>
 
-	<audio controls loop preload="none" style="width:100%;">
-		<source src="../music/track_3.aac" type="audio/mp4">
-		<source src="../music/track_3.mp3" type="audio/mpeg">
-	</audio>
-
 	<ul class="tab_tit" id="t3">
 		<li><a href="#t3_tab_1">한국어</a></li>
 		<li><a href="#t3_tab_2">正體字</a></li>
@@ -242,103 +237,60 @@
 
 
 	<div id="t3_tab_1" class="tab_content" style="display:block">
-		[Verse 1] <br/>
-		나의 맘 무너질 때에 주님 나를 일으키셨네 <br/>
-		새롭게 난 다시 살고 영원히 주님 안에 있네 <br/><br/>
+		<audio controls loop preload="none" style="width:100%;">
+			<source src="../music/track_3.mp3" type="audio/mpeg">
+		</audio>
+		나의 왕 나의 주 내 삶은 주 안에 있네 <br/>
+		나의 왕 나의 주 내 삶은 주를 높이네 <br />
+		주 찬양합니다 주 경배합니다 <br/>
+		내 마음 다하여 주께 <br/><br/>
 
-		주님의 크신 사랑은 말로 다 표현할 수 없네 <br/>
-		끝없는 은혜 안에서 영원히 주님만 따르리 <br/> <br/>
-
-		[Pre-Chorus] <br/>
-		(오) 주는 주는 주는 내 자유 <br/>
-		주를 높이세 주를 높여 <br/>
-		주의 사랑 사랑 영원하리 오오오 <br/><br/>
-
-		[Chorus] <br/>
-		살아계신 주님 내 안에 계시네 <br/>
-		주는 내 전부 자유케하시네 <br/><br/>
-
-		[Verse 2] <br/>
-		어둠의 밤 길 지날 때 주 사랑 날 비추시네 <br/>
-		죄악의 사슬 끊으려 그의 아들 보내 주셨네 <br/><br/>
-
-		모든 것 사라져가도 오직 주의 얼굴 구하리 <br/>
-		주님의 뜻 이뤄질 때에 그 나라 곧 임하시네 <br/>
-
-
+		주 나의 친구되시며 <br/>
+		내 영원한 기쁨 되시네 찬양해 <br/>
+		주 나의 소망되시며 <br/>
+		내 영원한 빛이 되시네 찬양해
 	</div>
 
 	<div id="t3_tab_2" class="tab_content" style="display:none">
-		我破碎失喪的心 你找到我 使我屬於你 <br/>
-		從灰燼中我得生命 我在救主手中得安息 <br/>
-		說不盡你奇妙作為 一生年日主我要跟隨 <br/>
-		我定睛瞻仰你榮美 自由活在你無盡恩典 <br/> <br/>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/DjaTOJLoT7I?list=PLknQptnvN30CNATK1_lNN3KDbN4xg7b5R" frameborder="0" allowfullscreen></iframe> <br />
+		我的王 我的主　我生命在主的裡面 <br />
+		我的王 我的主　我生命高舉主的名 <br /><br />
 
-		'Cause You are, You are, You are my freedom <br/>
-		我高舉你名 高舉你名 <br/>
-		Your love, Your love Your love永不止息 Oh oh oh <br/><br/>
+		主我要讚美祢　主我要敬拜祢 <br />
+		我全心全意跟隨祢 <br /><br />
 
-		你使我得生命 無人能取代你 <br/>
-		你滿足我所需 你愛釋放我心 <br/><br/>
-
-		在最黑暗絕望時刻 你的愛如明光照射 <br/>
-		神的兒子來到世界 你斷開我身上的鎖鍊 <br/>
-		世上一切都會過去 我只想要看見你榮面 <br/>
-		我渴望你旨意成全 直到你國在地如在天 <br/><br/>
-
-		'Cause You are, You are, You are my freedom <br/>
-		我高舉你名 <br/>
-
+		主祢是我永遠朋友 <br />
+		主祢是我永遠的喜樂　讚美祢 <br />
+		主祢是我永遠盼望 <br />
+		主祢是我永遠的亮光　讚美祢
 	</div>
 	<div id="t3_tab_3" class="tab_content" style="display:none">
-		wǒ pò suì shī sāng dí xīn nǐ zhǎo dào wǒ shǐ wǒ shǔ yú nǐ <br/>
-		cóng huī jìn zhōng wǒ dé shēng mìng wǒ zài jiù zhǔ shǒu zhōng dé ān xī <br/>
-		shuō bù jìn nǐ qí miào zuò wéi yī shēng nián rì zhǔ wǒ yào gēn suí <br/>
-		wǒ dìng jīng zhān yǎng nǐ róng měi zì yóu huó zài nǐ wú jìn ēn diǎn <br/><br/>
+		wǒ dí wáng   wǒ dí zhǔ 　 wǒ shēng mìng zài zhǔ dí lǐ miàn <br />
+		wǒ dí wáng   wǒ dí zhǔ 　 wǒ shēng mìng gāo jǔ zhǔ dí míng <br />
 
-		' Cause You are , You are , You are my freedom <br/>
-		wǒ gāo jǔ nǐ míng gāo jǔ nǐ míng <br/>
-		Your love , Your love Your love yǒng bù zhǐ xī Oh oh oh <br/><br/>
+		zhǔ wǒ yào zàn měi mí 　 zhǔ wǒ yào jìng bài mí <br />
+		wǒ quán xīn quán yì gēn suí mí <br /><br />
 
-		nǐ shǐ wǒ dé shēng mìng wú rén néng qǔ dài nǐ <br/>
-		nǐ mǎn zú wǒ suǒ xū nǐ ài shì fàng wǒ xīn <br/><br/>
-
-		zài zuì hēi àn jué wàng shí kè nǐ dí ài rú míng guāng zhào shè <br/>
-		shén dí ér zǐ lái dào shì jiè nǐ duàn kāi wǒ shēn shàng dí suǒ liàn <br/>
-		shì shàng yī qiē dū huì guò qù wǒ zhī xiǎng yào kàn jiàn nǐ róng miàn <br/>
-		wǒ kě wàng nǐ zhǐ yì chéng quán zhí dào nǐ guó zài dì rú zài tiān <br/><br/>
-
-		' Cause You are , You are , You are my freedom <br/>
-		wǒ gāo jǔ nǐ míng <br/>
-
-
+		zhǔ mí shì wǒ yǒng yuǎn péng yǒu <br />
+		zhǔ mí shì wǒ yǒng yuǎn dí xǐ lè 　 zàn měi mí <br />
+		zhǔ mí shì wǒ yǒng yuǎn pàn wàng <br />
+		zhǔ mí shì wǒ yǒng yuǎn dí liàng guāng 　 zàn měi mí
 	</div>
 	<div id="t3_tab_4" class="tab_content" style="display:none">
-		워 포 쒜이 스 쌍 띠 신 니 자오 따오 워 스 워 슈 위 니 <br/>
-		총 훼이 진 종 워 더 셩 밍 워 짜이 지우 주 셔우 종 더 안 시 <br/>
-		슈어 뿌 진 니 치 먀오 쭤 웨이 이 셩 니앤 르 주 워 야오 껀 쒜이 <br/>
-		워 띵 징 잔 양 니 롱 메이 쯔 요우 후어 짜이 니 우 진 언 띠앤 <br/><br/>
+		워 띠 왕   워 띠 주 　 워 셩 밍 짜이 주 띠 리 미앤    <br />
+		워 띠 왕   워 띠 주 　 워 셩 밍 까오 쥐 주 띠 밍  <br />
 
-		' Cause You are , You are , You are my freedom <br/>
-		워 까오 쥐 니 밍 까오 쥐 니 밍 <br/>
-		Your love , Your love Your love 용 뿌 즈 시 Oh oh oh <br/><br/>
+		주 워 야오 짠 메이 미 　 주 워 야오 징 빠이 미  <br />
+		워 취앤 신 취앤 이 껀 쒜이 미 <br /><br />
 
-		니 스 워 더 셩 밍 우 런 넝 취 따이 니 <br/>
-		니 만 쭈 워 쑤어 쉬 니 아이 스 팡 워 신 <br/><br/>
-
-		짜이 zui 헤이 안 쥐에 왕 스 커 니 띠 아이 루 밍 꾸앙 자오 셔 <br/>
-		션 띠 얼 쯔 라이 따오 스 지에 니 뚜안 카이 워 션 상 띠 쑤어 리앤 <br/>
-		스 상 이 치에 뚜 훼이 꾸어 취 워 즈 샹 야오 칸 지앤 니 롱 미앤 <br/>
-		워 커 왕 니 즈 이 청 취앤 즈 따오 니 꾸어 짜이 띠 루 짜이 티앤 <br/><br/>
-
-		' Cause You are , You are , You are my freedom <br/>
-		워 까오 쥐 니 밍 <br/>
-	</div>
+		주 미 스 워 용 위앤 펑 요우 <br />
+		주 미 스 워 용 위앤 띠 시 러 　 짠 메이 미 <br />
+		주 미 스 워 용 위앤 판 왕 <br />
+		주 미 스 워 용 위앤 띠 량 꾸앙 　 짠 메이 미 <br />
+			</div>
 	<div id="t3_tab_5" class="tab_content" style="display:none">
-		<img src="../images/track_3.jpg"/>
 	</div>
 </div>
-
 
 <div class="track" id="track_4">
 
