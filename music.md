@@ -1,8 +1,3 @@
----
-layout: page
-permalink: /music/
-comments:true
----
 <h3>찬양 리스트 <span>讚美歌曲列表</span></h3>
 <p>7.4 업데이트 (리스트 수정)</p>
 <p class="song_list">
@@ -33,7 +28,7 @@ comments:true
 	</ul>
 
 	<div id="tab_1" class="tab_content" style="display:block">
-		<audio controls loop preload="auto" style="width:100%;">
+		<audio controls loop preload="metadata" style="width:100%;">
 			<source src="../music/track_1.mp3" type="audio/mpeg">
 		</audio>
 
@@ -59,6 +54,9 @@ comments:true
 	</div>
 
 	<div id="tab_2" class="tab_content" style="display:none">
+		<audio controls loop preload="metadata" style="width:100%;">
+			<source src="../music/ch_track_1.mp3" type="audio/mpeg">
+		</audio>
 		我一切生活都在於你，<br/>
 		 都在於你，耶穌，<br/>
 		 我一切氣息都在於你， <br/><br/>
@@ -81,6 +79,9 @@ comments:true
 		主耶蘇基督 给我胜利 <br/>
 	</div>
 	<div id="tab_3" class="tab_content" style="display:none">
+		<audio controls loop preload="metadata" style="width:100%;">
+			<source src="../music/ch_track_1.mp3" type="audio/mpeg">
+		</audio>
 		wǒ yī qiē shēng huó dū zài yú nǐ ， <br/>
 		  dū zài yú nǐ ， yé sū ， <br/>
 		  wǒ yī qiē qì xī dū zài yú nǐ ， <br/><br/>
@@ -103,6 +104,9 @@ comments:true
 		zhǔ yé sū jī dū gěi wǒ shèng lì <br/>
 	</div>
 	<div id="tab_4" class="tab_content" style="display:none">
+		<audio controls loop preload="metadata" style="width:100%;">
+			<source src="../music/ch_track_1.mp3" type="audio/mpeg">
+		</audio>
 		워 이 치에 셩 후어 뚜 짜이 위 니 ，<br/>
 		  뚜 짜이 위 니 ， 예 쑤 ，<br/>
 		  워 이 치에 치 시 뚜 짜이 위 니 ，<br/><br/>
@@ -137,7 +141,7 @@ comments:true
 
 	<h4>기뻐하며 왕께 노래부르리 <strong>揚聲歡呼讚美</strong></h4>
 
-	<audio controls loop preload="auto" style="width:100%;">
+	<audio controls loop preload="metadata" style="width:100%;">
 		<source src="../music/track_2.aac" type="audio/mp4">
 		<source src="../music/track_2.mp3" type="audio/mpeg">
 	</audio>
@@ -218,7 +222,7 @@ comments:true
 
 	<h4>나의 왕 나의 주 <strong>我的主 我的王</strong></h4>
 
-	<audio controls loop preload="auto" style="width:100%;">
+	<audio controls loop preload="metadata" style="width:100%;">
 		<source src="../music/track_3.aac" type="audio/mp4">
 		<source src="../music/track_3.mp3" type="audio/mpeg">
 	</audio>
@@ -335,7 +339,7 @@ comments:true
 
 	<h4>하늘 위에 주님 밖에 <strong>使我得生命</strong></h4>
 
-	<audio controls loop preload="auto" style="width:100%;">
+	<audio controls loop preload="metadata" style="width:100%;">
 		<source src="../music/track_4.aac" type="audio/mp4">
 		<source src="../music/track_4.mp3" type="audio/mpeg">
 	</audio>
@@ -444,7 +448,7 @@ comments:true
 
 	<h4>예수 아름다우신 <strong>榮美的救主</strong></h4>
 
-	<audio controls loop preload="auto" style="width:100%;">
+	<audio controls loop preload="metadata" style="width:100%;">
 		<source src="../music/track_5.aac" type="audio/mp4">
 		<source src="../music/track_5.mp3" type="audio/mpeg">
 	</audio>
@@ -513,7 +517,7 @@ comments:true
 
 	<h4>위대하신 주 <strong>我神真偉大</strong></h4>
 
-	<audio controls loop preload="auto" style="width:100%;">
+	<audio controls loop preload="metadata" style="width:100%;">
 		<source src="../music/track_6.aac" type="audio/mp4">
 		<source src="../music/track_6.mp3" type="audio/mpeg">
 	</audio>
@@ -645,7 +649,7 @@ comments:true
 
 	<h4>born again(주 안에서 내 영혼) <strong>重生</strong></h4>
 
-	<audio controls loop preload="auto" style="width:100%;">
+	<audio controls loop preload="metadata" style="width:100%;">
 		<source src="../music/track_7.aac" type="audio/mp4">
 		<source src="../music/track_7.mp3" type="audio/mpeg">
 	</audio>
@@ -732,7 +736,7 @@ comments:true
 
 	<h4>부르신 곳에서 <strong>在祢呼召之地</strong></h4>
 
-	<audio controls loop preload="auto" style="width:100%;">
+	<audio controls loop preload="metadata" style="width:100%;">
 		<source src="../music/track_9.aac" type="audio/mp4">
 		<source src="../music/track_9.mp3" type="audio/mpeg">
 	</audio>
@@ -843,7 +847,7 @@ comments:true
 
 	<h4>당신은 사랑 받기 위해 태어난 사람 <strong>你是为了接受主的爱而被拣选的人</h4>
 
-	<audio controls loop preload="auto" style="width:100%;">
+	<audio controls loop preload="metadata" style="width:100%;">
 		<source src="../music/track_10.aac" type="audio/mp4">
 		<source src="../music/track_10.mp3" type="audio/mpeg">
 	</audio>
@@ -957,7 +961,7 @@ comments:true
 
 	<h4>위대하신 주 我神真偉大</h4>
 
-	<audio controls loop preload="auto" style="width:100%;">
+	<audio controls loop preload="metadata" style="width:100%;">
 		<source src="../music/track_11.aac" type="audio/mp4">
 		<source src="../music/track_11.mp3" type="audio/mpeg">
 	</audio>
