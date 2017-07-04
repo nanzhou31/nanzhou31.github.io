@@ -587,7 +587,6 @@
 	<h4>born again(주 안에서 내 영혼) <strong>重生</strong></h4>
 
 	<audio controls loop preload="none" style="width:100%;">
-		<source src="../music/track_7.aac" type="audio/mp4">
 		<source src="../music/track_7.mp3" type="audio/mpeg">
 	</audio>
 
@@ -601,70 +600,72 @@
 
 
 	<div id="t7_tab_1" class="tab_content" style="display:block">
-		나 같은 죄인 살리신 주 은혜 놀라워 <br/>
-		잃었던 생명 찾았고 광명을 얻었네 <br/><br/>
+		주 안에서 내 영혼 다시 태어나 <br />
+		이전 것은 지나고 새롭게 됐네 <br /><br />
 
-		큰 죄악에서 건지신 주 은혜 고마워 <br/>
-		나 처음 믿은 그 시간 귀하고 귀하다 <br/><br/>
+		죄로 물든 내 모습 예수와 함께 죽고 <br />
+		부활 생명 내 안에 새로운 삶이 열렸네 <br /><br />
 
-		이제껏 내가 산 것도 주님의 은혜라 <br/>
-		또 나를 장차 본향에 인도해 주시리 <br/><br/>
+		너희가 나를 택한 것이 아니요 <br />
+		내가 너희를 택하여 세웠나니 <br /><br />
 
-		거기서 우리 영원히 주님의 은혜로 <br/>
-		해처럼 밝게 살면서 주 찬양 하리라 <br/><br/>
+		오직 내 안에 오직 내 속에 그리스도가 사네 <br />
+		오직 내 삶에 오직 내 맘에 그가 주인 되셨네 <br /><br />
 
-		주 찬양 주 찬양 내 마음 다해 <br/>
-		주 찬양 주 찬양 내 생명 다해 <br/>
+		내 생명 그 안에 그의 생명 내 안에 <br />
+		나의 삶이 이전과 같을 수 없네
 	</div>
 
 	<div id="t7_tab_2" class="tab_content" style="display:none">
-		奇異恩典，何等甘甜，我罪已得赦免 <br/>
-		前我失喪，今被尋回，瞎眼今得看見。 <br/><br/>
+		在主里面 我灵魂 再出生了 <br />
+		以前的 已过去 变成新的了 <br /><br />
 
-		浩大恩典，使我敬畏，使我心得安慰 <br/>
-		初信之時即蒙恩惠，真是何等寶貴。 <br/><br/>
+		染上罪过 我样子 和耶稣死 <br />
+		复活生命 在我里 新的人生开了 <br /><br />
 
-		經過許多危險網羅，飽受人間苦楚，<br/>
-		此恩領我平安渡過，他日歸回天府。<br/><br/>
+		不是你们拣选了我 <br />
+		是我拣选了你们 <br /><br />
 
-		將來在天安居萬年，恩光如日普照，<br/>
-		好像最初蒙恩景況，讚美永不減少。<br/>
+		只在我里面 只在我心中 耶稣基督活着 <br />
+		只在我人生 只在我胸中 耶稣他当主人了 <br /><br />
 
-		主赞扬 主赞扬 用我的全心 <br/>
-		主赞扬 主赞扬 用我的生命
+		我生命 在他里 他的生命 在我里 <br />
+		我的人生 绝不能 以前一样
 	</div>
 	<div id="t7_tab_3" class="tab_content" style="display:none">
-		qí yì ēn diǎn ， hé děng gān tián ， wǒ zuì yǐ dé shè miǎn <br/>
-		qián wǒ shī sāng ， jīn bèi xún huí ， xiā yǎn jīn dé kàn jiàn 。 <br/><br/>
-		hào dà ēn diǎn ， shǐ wǒ jìng wèi ， shǐ wǒ xīn dé ān wèi <br/>
-		chū xìn zhī shí jí mēng ēn huì ， zhēn shì hé děng bǎo guì 。<br/><br/>
-		jīng guò xǔ duō wēi xiǎn wǎng luó ， bǎo shòu rén jiān kǔ chǔ ， <br/>
-		cǐ ēn lǐng wǒ píng ān dù guò ， tā rì guī huí tiān fǔ 。<br/><br/>
-		jiāng lái zài tiān ān jū wàn nián ， ēn guāng rú rì pǔ zhào ，<br/>
-		hǎo xiàng zuì chū mēng ēn jǐng kuàng ， zàn měi yǒng bù jiǎn shǎo 。<br/><br/>
+		zài zhǔ lǐ miàn wǒ líng hún zài chū shēng le <br />
+		yǐ qián de yǐ guò qù biàn chéng xīn de le <br /><br />
 
-		zhǔ zàn yáng zhǔ zàn yáng yòng wǒ dí quán xīn <br/>
-		zhǔ zàn yáng zhǔ zàn yáng yòng wǒ dí shēng mìng <br/>
+		rǎn shàng zuì guò wǒ yàng zǐ hé yē sū sǐ <br />
+		fù huó shēng mìng zài wǒ lǐ xīn de rén shēng kāi le <br /><br />
+
+		bú shì nǐ men jiǎn xuǎn le wǒ <br />
+		shì wǒ jiǎn xuǎn le nǐ men <br /><br />
+
+		zhī zài wǒ lǐ miàn zhī zài wǒ xīn zhōng yē sū jī dū huó zhe <br />
+		zhī zài wǒ rén shēng zhī zài wǒ xiōng zhōng yē sū tā dāng zhǔ rén le <br /><br />
+
+		wǒ shēng mìng zài tā lǐ tā de shēng mìng zài wǒ lǐ <br />
+		wǒ de rén shēng jué bú néng yǐ qián yī yàng
 	</div>
 	<div id="t7_tab_4" class="tab_content" style="display:none">
+		짜이 주 리 미앤   워 링 훈   짜이 추 셩 랴오 <br />
+		이 치앤 띠   이 꾸어 취   삐앤 청 신 띠 랴오 <br /><br />
 
-		치 이 언 띠앤 ， 허 떵 깐 티앤 ， 워 zui 이 더 셔 미앤 <br/>
-		치앤 워 스 쌍 ， 진 뻬이 쉰 훼이 ， 시아 얜 진 더 칸 지앤 。<br/><br/>
+		란 상 zui 꾸어   워 양 쯔   허 예 쑤 쓰 <br />
+		푸 후어 셩 밍   짜이 워 리   신 띠 런 셩 카이 랴오 <br /><br />
 
-		하오 따 언 띠앤 ， 스 워 징 웨이 ， 스 워 신 더 안 웨이 <br/>
-		추 신 즈 스 지 멍 언 훼이 ， 전 스 허 떵 빠오 꿰이 。 <br/><br/>
+		뿌 스 니 먼 지앤 쉬앤 랴오 워 <br />
+		스 워 지앤 쉬앤 랴오 니 먼 <br /><br />
 
-		징 꾸어 쉬 뚜어 웨이 시앤 왕 루어 ， 빠오 셔우 런 지앤 쿠 추 ，<br/>
-		츠 언 링 워 핑 안 뚜 꾸어 ， 타 르 꿰이 훼이 티앤 푸 。<br/>
+		즈 짜이 워 리 미앤   즈 짜이 워 신 종   예 쑤 지 뚜 후어 쭈어 <br />
+		즈 짜이 워 런 셩   즈 짜이 워 시옹 종   예 쑤 타 땅 주 런 랴오 <br /><br />
 
-		지앙 라이 짜이 티앤 안 쥐 완 니앤 ， 언 꾸앙 루 르 푸 자오 ，<br/>
-		하오 샹 쭈이 추 멍 언 징 쿠앙 ， 짠 메이 용 뿌 지앤 사오 。<br/><br/>
-
-		주 짠 양 주 짠 양 용 워 띠 취앤 신 <br/>
-		주 짠 양 주 짠 양 용 워 띠 셩 밍 <br/>
+		워 셩 밍   짜이 타 리   타 띠 셩 밍   짜이 워 리 <br />
+		워 띠 런 셩   쥐에 뿌 넝   이 치앤 이 양
 	</div>
 	<div id="t7_tab_5" class="tab_content" style="display:none">
-		<img src="../images/track_7.png"/>
+		<img src="https://s-media-cache-ak0.pinimg.com/originals/4b/9a/62/4b9a623ecd87962c7925906722178336.jpg"/>
 	</div>
 </div>
 
@@ -782,12 +783,7 @@
 
 <div class="track" id="track_9">
 
-	<h4>당신은 사랑 받기 위해 태어난 사람 <strong>你是为了接受主的爱而被拣选的人</h4>
-
-	<audio controls loop preload="none" style="width:100%;">
-		<source src="../music/track_10.aac" type="audio/mp4">
-		<source src="../music/track_10.mp3" type="audio/mpeg">
-	</audio>
+	<h4>당신은 사랑 받기 위해 태어난 사람 <strong>你是为了接受主的爱而被拣选的人</strong></h4>
 
 	<ul class="tab_tit" id="t10">
 		<li><a href="#t10_tab_1">한국어</a></li>
@@ -799,210 +795,68 @@
 
 
 	<div id="t10_tab_1" class="tab_content" style="display:block">
-		예수 아름다우신 <br/>
-		위대하신 주님 부활의 주 <br/><br/>
-		어린양 거룩과 공의 <br/>
-		새벽 별 같은 나의 구주 <br/>
-		모든 하늘 찬양해 <br/>
-		모든 만물이 주 경배해 <br/><br/>
+		당신은 사랑받기 위해 태어난 사람 <br />
+		당신의 삶속에서 그사랑 받고 있지요  <br /><br />
 
-		아름답고 놀라우신 <br/>
-		모든 이름보다 높은 이름 <br/>
-		아름답고 놀라우신 <br/>
-		주의 이름 높으신 그 이름 예수 <br/>
+		당신은 사랑받기 위해 태어난 사람 <br />
+		당신의 삶속에서 그사랑 받고 있지요 <br /><br />
+
+		태초부터 시작된 하나님의 사랑은 <br />
+		우리의 만남을 통해 열매를 맺고 <br />
+		당신이 이세상에 존재함으로 인해 <br />
+		우리에게 얼마나 큰 기쁨이 되는지 <br /><br />
+
+		당신은 사랑받기 위해 태어난 사람 <br />
+		지금도 그사랑 받고 있지요 <br /><br />
+
+		당신은 사랑받기 위해 태어난 사람 <br />
+		지금도 그사랑 받고 있지요
 	</div>
-
 	<div id="t10_tab_2" class="tab_content" style="display:none">
-
-		耶穌 榮美的救主 <br/>
-		復活全能真神 榮耀君王 <br/><br/>
-
-		神羔羊 聖潔和公義 <br/>
-		尊榮的拯救者 明亮晨星 <br/><br/>
-
-		​天使高聲齊頌揚 萬物都屈膝來敬拜你 <br/>
-		何等奇妙 何等榮耀 <br/>
-		超乎萬民之上 配得尊崇 <br/>
-		何等奇妙 何等榮耀 <br/>
-		耶穌我主 超乎萬名之上 耶穌 <br/><br/>
-
-		我要永遠敬拜 耶穌我愛你 耶穌我愛你 <br/>
-
-
+		你是为接受爱而来到这世界 <br />
+		你的生命之中正接受这样的爱 <br />
+		你是为接受爱而来到这世界 <br />
+		你的生命之中正接受这样的爱 <br />
+		太初时分,开始的上帝的慈爱 <br />
+		通过我们的相遇结出果实 <br />
+		正因为有你在世上存在 <br />
+		成为了我们极大的快乐 <br />
+		你是为接受爱而来到这世界 <br />
+		现在也正接受这样的爱 <br />
+		你是为接受爱而来到这世界 <br />
+		现在也正接受这样的爱 <br />
 	</div>
 	<div id="t10_tab_3" class="tab_content" style="display:none">
-		Yēsū, róng měi de jiù zhǔ, <br/>
-		Fùhuó quánnéng zhēnshén, róngyào jūnwáng, <br/><br />
-
-		Shén gāoyáng, shèngjié hé gōng yì. <br/>
-		Zūn róng de zhěngjiù zhě, míngliàng chénxīng, <br/><br />
-
-		Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ, <br/>
-		Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ, <br/>
-		Héděng qímiào, héděng róngyào, <br/><br />
-
-		Chāo hu wànmín zhī shàng, pèi de zūnchóng, <br/>
-		Héděng qímiào, héděng róngyào, <br/>
-		Yēsū wǒ zhǔ, chāo hu wàn míng zhī shàng, yēsū. <br/><br />
-
-		Wǒ yào yǒngyuǎn jìng bài, yēsū wǒ ài nǐ, yēsū wǒ ài nǐ. <br/>
+		nǐ shì wèi jiē shòu ài ér lái dào zhè shì jiè <br />
+		nǐ de shēng mìng zhī zhōng zhèng jiē shòu zhè yàng de ài <br />
+		nǐ shì wèi jiē shòu ài ér lái dào zhè shì jiè <br />
+		nǐ de shēng mìng zhī zhōng zhèng jiē shòu zhè yàng de ài <br />
+		tāi chū shí fēn, kāi shǐ de shàng dì de cí ài <br />
+		tōng guò wǒ men de xiāng yù jié chū guǒ shí <br />
+		zhèng yīn wèi yǒu nǐ zài shì shàng cún zài <br />
+		chéng wèi le wǒ men jí dà de kuài lè <br />
+		nǐ shì wèi jiē shòu ài ér lái dào zhè shì jiè <br />
+		xiàn zài yě zhèng jiē shòu zhè yàng de ài <br />
+		nǐ shì wèi jiē shòu ài ér lái dào zhè shì jiè <br />
+		xiàn zài yě zhèng jiē shòu zhè yàng de ài <br />
 	</div>
 	<div id="t10_tab_4" class="tab_content" style="display:none">
-		[ Verse ] <br/>
-		예 쑤 롱 메이 띠 지우 주 <br/>
-		푸 후어 취앤 넝 전 션 롱 야오 준 왕 <br/><br/>
-
-		션 까오 양 셩 지에 허 꽁 이 <br/>
-		준 롱 띠 정 지우 저 밍 량 천 싱 <br/><br/>
-
-		​
-		[ Chorus ] <br/>
-		티앤 스 까오 셩 치 쏭 양 완 우 뚜 취 시 라이 징 빠이 니 <br/>
-		허 떵 치 먀오 허 떵 롱 야오 <br/><br/>
-
-
-		차오 후 완 민 즈 상 페이 더 준 총 <br/>
-		허 떵 치 먀오 허 떵 롱 야오 <br/>
-		예 쑤 워 주 차오 후 완 밍 즈 상 예 쑤 <br/><br/>
-
-
-		[ ​ Bridge ] <br/>
-		워 야오 용 위앤 징 빠이 예 쑤 워 아이 니 예 쑤 워 아이 니 <br/>
+		니스 웨이 지에 셔우 아이 얼 라이 따오 저 스지에 <br />
+		니더 성밍 즈 중 쩡 지에 셔우 저양디 아이 <br />
+		니스 웨이 지에 셔우 아이 얼 라이 따오 저 스지에 <br />
+		니더 성밍 즈 중 쩡 지에 셔우 저양디 아이 <br />
+		타이 추 스펀, 카이스더 상띠더 츠 아이 <br />
+		통꾸어 워먼더 씨앙 위 지에 추 구오 스 <br />
+		쩡 인웨이 요우 니 짜이 스씨앙 춘 짜이 <br />
+		지위러 워먼 지따 더 콰이러 <br />
+		니 스 웨이 찌에 셔우 얼 라이 따오 쩌 스찌에 <br />
+		씨엔 짜이 예 쩡 지에 셔우 쩌양디 아이 <br />
+		니 스 웨이 찌에 셔우 얼 라이 따오 쩌 스찌에 <br />
+		씨엔 짜이 예 쩡 지에 셔우 쩌양디 아이
 	</div>
 	<div id="t10_tab_5" class="tab_content" style="display:none">
-		<img src="../images/track_10.jpg"/>
+		<img src="http://cfile29.uf.tistory.com/image/1207A33A4E853FDA1533C2"/>
 	</div>
 </div>
 
 
-<div class="track" id="track_11">
-
-
-	<h4>위대하신 주 我神真偉大</h4>
-
-	<audio controls loop preload="none" style="width:100%;">
-		<source src="../music/track_11.aac" type="audio/mp4">
-		<source src="../music/track_11.mp3" type="audio/mpeg">
-	</audio>
-
-	<ul class="tab_tit" id="t11">
-		<li><a href="#t11_tab_1">한국어</a></li>
-		<li><a href="#t11_tab_2">正體字</a></li>
-		<li><a href="#t11_tab_3">병음</a></li>
-		<li><a href="#t11_tab_4">독음</a></li>
-		<li><a href="#t11_tab_5">악보</a></li>
-	</ul>
-
-
-	<div id="t11_tab_1" class="tab_content" style="display:block">
-		빛나는 왕의 왕 영광의 주님 <br/>
-		온 땅 기뻐하라 온 땅 기뻐하라 <br/><br/>
-		광채의 옷 입고 어두움 물리쳐 <br/>
-		저 원수는 떠네 저 원수는 떠네 <br/><br/>
-		위대하신 주 찬양해 위대하신 주 <br/>
-		모두 알게 되리라 위대하신 주 <br/><br/>
-
-		영원한 주의 주 시간의 주관자 <br/>
-		알파와 오메가 알파와 오메가 <br/><br/>
-
-		삼위의 하나님 아바 성령 예수 <br/>
-		사자와 어린 양 사자와 어린 양 <br/> <br/>
-
-		위대하신 주 찬양해 위대하신 주 <br/>
-		모두 알게 되리라 위대하신 주 <br/><br/>
-
-		모든 이름 위에 뛰어나신 이름 <br/>
-		다 찬양해 위대하신 주 <br/><br/>
-		모든 이름 위에 뛰어나신 이름 <br/>
-		다 찬양해 위대하신 주 <br/><br/>
-
-		위대하신 주 찬양해 위대하신 주 <br/>
-		모두 알게 되리라 위대하신 주 <br/>
-	</div>
-
-	<div id="t11_tab_2" class="tab_content" style="display:none">
-		1.
-		尊貴榮耀君王 在全地之上 <br/>
-		願萬民都喜樂 全地都喜樂 <br/>
-		主你滿有榮光 黑暗都躲藏 <br/>
-		萬民高聲唱 齊來高聲唱 <br/><br/>
-
-		Chorus: <br/>
-		我神 真偉大 <br/>
-		歌頌你聖名 真偉大 <br/>
-		全地都看見 我神 真偉大 <br/><br/>
-
-		2.
-		昔在永在君王 從今直到永遠 <br/>
-		你從不曾改變 永存在天地間 <br/>
-		你是三一真神 父子與聖靈 <br/>
-		真神的羔羊 全能神羔羊 <br/><br/>
-
-		Chorus: <br/>
-		我神 真偉大 <br/>
-		歌頌你聖名 真偉大 <br/>
-		全地都看見 我神 真偉大 <br/><br/>
-
-		Bridge: <br/>
-		你至聖尊名 配受大讚美 <br/>
-		全心歌頌 我神 真偉大 <br/>
-
-	</div>
-	<div id="t11_tab_3" class="tab_content" style="display:none">
-		1 .
-		zūn guì róng yào jūn wáng zài quán dì zhī shàng <br/>
-		yuàn wàn mín dū xǐ lè quán dì dū xǐ lè <br/>
-		zhǔ nǐ mǎn yǒu róng guāng hēi àn dū duǒ cáng <br/>
-		wàn mín gāo shēng chàng qí lái gāo shēng chàng <br/><br/>
-
-		Chorus : <br/>
-		wǒ shén zhēn wěi dà <br/>
-		gē sòng nǐ shèng míng zhēn wěi dà <br/>
-		quán dì dū kàn jiàn wǒ shén zhēn wěi dà <br/><br/>
-
-		2 .
-		xī zài yǒng zài jūn wáng cóng jīn zhí dào yǒng yuǎn <br/>
-		nǐ cóng bù zēng gǎi biàn yǒng cún zài tiān dì jiān <br/>
-		nǐ shì sān yī zhēn shén fù zǐ yǔ shèng líng <br/>
-		zhēn shén dí gāo yáng quán néng shén gāo yáng <br/>
-
-		Chorus : <br/>
-		wǒ shén zhēn wěi dà <br/>
-		gē sòng nǐ shèng míng zhēn wěi dà <br/>
-		quán dì dū kàn jiàn wǒ shén zhēn wěi dà <br/><br/>
-
-		Bridge : <br/>
-		nǐ zhì shèng zūn míng pèi shòu dà zàn měi <br/>
-		quán xīn gē sòng wǒ shén zhēn wěi dà
-	</div>
-	<div id="t11_tab_4" class="tab_content" style="display:none">
-		1 .
-		zun 꿰이 롱 야오 君 왕 짜이 취앤 띠 즈 상 <br/>
-		위앤 완 민 뚜 시 러 취앤 띠 뚜 시 러 <br/><br/>
-		주 니 만 요우 롱 꾸앙 헤이 안 뚜 뚜어 창 <br/>
-		완 민 까오 셩 창 치 라이 까오 셩 창 <br/><br/>
-
-		Chorus : <br/>
-		워 션 전 웨이 따 <br/>
-		꺼 쏭 니 셩 밍 전 웨이 따 <br/>
-		취앤 띠 뚜 칸 지앤 워 션 전 웨이 따 <br/>
-
-		2 . <br/>
-		시 짜이 용 짜이 君 왕 총 진 즈 따오 용 위앤 <br/>
-		니 총 뿌 쩡 까이 삐앤 용 춘 짜이 티앤 띠 지앤 <br/>
-		니 스 싼 이 전 션 푸 쯔 위 셩 링 <br/>
-		전 션 띠 까오 양 취앤 넝 션 까오 양 <br/><br/>
-
-		Chorus : <br/>
-		워 션 전 웨이 따 <br/>
-		꺼 쏭 니 셩 밍 전 웨이 따 <br/>
-		취앤 띠 뚜 칸 지앤 워 션 전 웨이 따 <br/><br/>
-
-		Bridge : <br/>
-		니 즈 셩 zun 밍 페이 셔우 따 짠 메이 <br/>
-		취앤 신 꺼 쏭 워 션 전 웨이 따 <br/>
-	</div>
-	<div id="t11_tab_5" class="tab_content" style="display:none">
-		<img src="../images/track_11.jpg"/>
-	</div>
-</div>
