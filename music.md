@@ -300,10 +300,6 @@ comments:true
 
 	<h4>하늘 위에 주님 밖에 <strong>使我得生命</strong></h4>
 
-	<audio controls loop preload="none" style="width:100%;">
-		<source src="../music/track_4.aac" type="audio/mp4">
-		<source src="../music/track_4.mp3" type="audio/mpeg">
-	</audio>
 
 	<ul class="tab_tit" id="t4">
 		<li><a href="#t4_tab_1">한국어</a></li>
@@ -315,6 +311,9 @@ comments:true
 
 
 	<div id="t4_tab_1" class="tab_content" style="display:block">
+		<audio controls loop preload="none" style="width:100%;">
+			<source src="../music/track_4.mp3" type="audio/mpeg">
+		</audio>
 		하늘 위에 주님 밖에 <br/>
 		내가 사모할 자 이 세상에 없네 <br/>
 		내 맘과 힘은 믿을 수 없네 <br/>
@@ -328,6 +327,10 @@ comments:true
 	</div>
 
 	<div id="t4_tab_2" class="tab_content" style="display:none">
+		<audio controls loop preload="none" style="width:100%;">
+			<source src="../music/ch_track_4.aac" type="audio/mp4">
+			<source src="../music/ch_track_4.mp3" type="audio/mpeg">
+		</audio>
 		除了你在天上有谁 <br/>
 		除了你在地上, 我也没有所爱 <br/>
 		虽然有时候, 我身心软弱 <br/>
@@ -367,8 +370,8 @@ comments:true
 	<h4>예수 아름다우신 <strong>榮美的救主</strong></h4>
 
 	<audio controls loop preload="none" style="width:100%;">
-		<source src="../music/track_5.aac" type="audio/mp4">
-		<source src="../music/track_5.mp3" type="audio/mpeg">
+		<source src="../music/track_10.aac" type="audio/mp4">
+		<source src="../music/track_10.mp3" type="audio/mpeg">
 	</audio>
 
 	<ul class="tab_tit" id="t5">
@@ -461,8 +464,8 @@ comments:true
 	<h4>위대하신 주 <strong>我神真偉大</strong></h4>
 
 	<audio controls loop preload="none" style="width:100%;">
-		<source src="../music/track_6.aac" type="audio/mp4">
-		<source src="../music/track_6.mp3" type="audio/mpeg">
+		<source src="../music/track_11.aac" type="audio/mp4">
+		<source src="../music/track_11.mp3" type="audio/mpeg">
 	</audio>
 
 	<ul class="tab_tit" id="t6">
