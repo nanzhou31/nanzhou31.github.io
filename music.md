@@ -129,7 +129,8 @@
 		<리bb></리bb>
 	</div>
 	<div id="tab_5" class="tab_content" style="display:none">
-		<img src="../images/track_1.png"/>
+		<img src="../images/t_1_1.jpg"/>
+		<img src="../images/t_1_2.jpg"/>
 	</div>
 	<div id="tab_6" class="tab_content" style="display:none">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/PHvR5BmCMJM?playsinline=1" frameborder="0"></iframe>
