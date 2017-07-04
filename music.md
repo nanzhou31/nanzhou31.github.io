@@ -358,7 +358,6 @@
 
 
 <div class="track" id="track_5">
-
 	<h4>예수 아름다우신 <strong>榮美的救主</strong></h4>
 
 	<audio controls loop preload="none" style="width:100%;">
@@ -377,50 +376,75 @@
 
 
 	<div id="t5_tab_1" class="tab_content" style="display:block">
-		하늘 위에 주님 밖에 <br/>
-		내가 사모할 자 이 세상에 없네 <br/>
-		내 맘과 힘은 믿을 수 없네 <br/>
-		오직 한가지 그 진리를 믿네 <br/><br/>
+		예수 아름다우신 <br/>
+		위대하신 주님 부활의 주 <br/><br/>
+		어린양 거룩과 공의 <br/>
+		새벽 별 같은 나의 구주 <br/>
+		모든 하늘 찬양해 <br/>
+		모든 만물이 주 경배해 <br/><br/>
 
-		주는 나의 힘이요 <br/>
-		주는 나의 힘이요 <br/>
-		주는 나의 힘이요 <br/>
-		영원히 주를 의지하리 <br/>
-		영원히 <br/>
+		아름답고 놀라우신 <br/>
+		모든 이름보다 높은 이름 <br/>
+		아름답고 놀라우신 <br/>
+		주의 이름 높으신 그 이름 예수 <br/>
 	</div>
 
 	<div id="t5_tab_2" class="tab_content" style="display:none">
-		除了你在天上有谁 <br/>
-		除了你在地上, 我也没有所爱 <br/>
-		虽然有时候, 我身心软弱 <br/>
-		但有一件事 永远不会改变 <br/><br/>
-		神真是我的力量 神真是我的力量 <br/>
-		神真是我的力量 <br/>
-		我的福分到永远, 到永远 <br/>
+		耶穌 榮美的救主 <br/>
+		復活全能真神 榮耀君王 <br/><br/>
+
+		神羔羊 聖潔和公義 <br/>
+		尊榮的拯救者 明亮晨星 <br/><br/>
+
+		​天使高聲齊頌揚 萬物都屈膝來敬拜你 <br/>
+		何等奇妙 何等榮耀 <br/>
+		超乎萬民之上 配得尊崇 <br/>
+		何等奇妙 何等榮耀 <br/>
+		耶穌我主 超乎萬名之上 耶穌 <br/><br/>
+
+		我要永遠敬拜 耶穌我愛你 耶穌我愛你 <br/>
 	</div>
 	<div id="t5_tab_3" class="tab_content" style="display:none">
-		chú liǎo nǐ zài tiān shàng yǒu shuí <br/>
-		chú liǎo nǐ zài dì shàng , wǒ yě méi yǒu suǒ ài <br/>
-		suī rán yǒu shí hòu , wǒ shēn xīn ruǎn ruò <br/>
-		dàn yǒu yī jiàn shì yǒng yuǎn bù huì gǎi biàn <br/><br/>
-		shén zhēn shì wǒ dí lì liáng shén zhēn shì wǒ dí lì liáng <br/>
-		shén zhēn shì wǒ dí lì liáng <br/>
-		wǒ dí fú fēn dào yǒng yuǎn , dào yǒng yuǎn <br/>
+		Yēsū, róng měi de jiù zhǔ, <br/>
+		Fùhuó quánnéng zhēnshén, róngyào jūnwáng, <br/><br />
+
+		Shén gāoyáng, shèngjié hé gōng yì. <br/>
+		Zūn róng de zhěngjiù zhě, míngliàng chénxīng, <br/><br />
+
+		Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ, <br/>
+		Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ, <br/>
+		Héděng qímiào, héděng róngyào, <br/><br />
+
+		Chāo hu wànmín zhī shàng, pèi de zūnchóng, <br/>
+		Héděng qímiào, héděng róngyào, <br/>
+		Yēsū wǒ zhǔ, chāo hu wàn míng zhī shàng, yēsū. <br/><br />
+
+		Wǒ yào yǒngyuǎn jìng bài, yēsū wǒ ài nǐ, yēsū wǒ ài nǐ. <br/>
 	</div>
 	<div id="t5_tab_4" class="tab_content" style="display:none">
-		추 랴오 니 짜이 티앤 상 요우 쉐이 <br/>
-		추 랴오 니 짜이 띠 상 , 워 예 메이 요우 쑤어 아이 <br/>
-		쒜이 란 요우 스 허우 , 워 션 신 루안 루어 <br/>
-		딴 요우 이 지앤 스 용 위앤 뿌 훼이 까이 삐앤 <br/><br/>
-		션 전 스 워 띠 리 량 션 전 스 워 띠 리 량 <br/>
-		션 전 스 워 띠 리 량 <br/>
-		워 띠 푸 펀 따오 용 위앤 , 따오 용 위앤 <br/>
+		[ Verse ] <br/>
+		예 쑤 롱 메이 띠 지우 주 <br/>
+		푸 후어 취앤 넝 전 션 롱 야오 준 왕 <br/><br/>
+
+		션 까오 양 셩 지에 허 꽁 이 <br/>
+		준 롱 띠 정 지우 저 밍 량 천 싱 <br/><br/>
+
+		​
+		[ Chorus ] <br/>
+		티앤 스 까오 셩 치 쏭 양 완 우 뚜 취 시 라이 징 빠이 니 <br/>
+		허 떵 치 먀오 허 떵 롱 야오 <br/><br/>
+
+
+		차오 후 완 민 즈 상 페이 더 준 총 <br/>
+		허 떵 치 먀오 허 떵 롱 야오 <br/>
+		예 쑤 워 주 차오 후 완 밍 즈 상 예 쑤 <br/><br/>
+
+
+		[ ​ Bridge ] <br/>
+		워 야오 용 위앤 징 빠이 예 쑤 워 아이 니 예 쑤 워 아이 니 <br/>
 	</div>
 	<div id="t5_tab_5" class="tab_content" style="display:none">
-		<img src="http://mblogthumb3.phinf.naver.net/20160218_226/worship6890_1455761986542WAVXs_JPEG/%C7%CF%B4%C3_%C0%A7%BF%A1_%C1%D6%B4%D4_%B9%DB%BF%A1.jpg?type=w800"/>
-	</div>
-	<div id="t5_tab_6" class="tab_content" style="display:none">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/pwtn6FPBVpY?playsinline=1" frameborder="0"></iframe>
+		<img src="../images/track_10.jpg"/>
 	</div>
 
 </div>
@@ -791,26 +815,16 @@
 	<div id="t10_tab_2" class="tab_content" style="display:none">
 
 		耶穌 榮美的救主 <br/>
-
 		復活全能真神 榮耀君王 <br/><br/>
 
-
 		神羔羊 聖潔和公義 <br/>
-
 		尊榮的拯救者 明亮晨星 <br/><br/>
 
 		​天使高聲齊頌揚 萬物都屈膝來敬拜你 <br/>
-
-
 		何等奇妙 何等榮耀 <br/>
-
-
 		超乎萬民之上 配得尊崇 <br/>
-
 		何等奇妙 何等榮耀 <br/>
-
 		耶穌我主 超乎萬名之上 耶穌 <br/><br/>
-
 
 		我要永遠敬拜 耶穌我愛你 耶穌我愛你 <br/>
 
@@ -818,33 +832,25 @@
 	</div>
 	<div id="t10_tab_3" class="tab_content" style="display:none">
 		Yēsū, róng měi de jiù zhǔ, <br/>
-
-		Fùhuó quánnéng zhēnshén, róngyào jūnwáng, <br/>
+		Fùhuó quánnéng zhēnshén, róngyào jūnwáng, <br/><br />
 
 		Shén gāoyáng, shèngjié hé gōng yì. <br/>
-
-		Zūn róng de zhěngjiù zhě, míngliàng chénxīng, <br/>
+		Zūn róng de zhěngjiù zhě, míngliàng chénxīng, <br/><br />
 
 		Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ, <br/>
 		Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ, <br/>
-
-		Héděng qímiào, héděng róngyào, <br/>
+		Héděng qímiào, héděng róngyào, <br/><br />
 
 		Chāo hu wànmín zhī shàng, pèi de zūnchóng, <br/>
-
 		Héděng qímiào, héděng róngyào, <br/>
-
-		Yēsū wǒ zhǔ, chāo hu wàn míng zhī shàng, yēsū. <br/>
+		Yēsū wǒ zhǔ, chāo hu wàn míng zhī shàng, yēsū. <br/><br />
 
 		Wǒ yào yǒngyuǎn jìng bài, yēsū wǒ ài nǐ, yēsū wǒ ài nǐ. <br/>
-
-		Yēsū, róng měi de jiù zhǔ.
 	</div>
 	<div id="t10_tab_4" class="tab_content" style="display:none">
 		[ Verse ] <br/>
 		예 쑤 롱 메이 띠 지우 주 <br/>
 		푸 후어 취앤 넝 전 션 롱 야오 준 왕 <br/><br/>
-
 
 		션 까오 양 셩 지에 허 꽁 이 <br/>
 		준 롱 띠 정 지우 저 밍 량 천 싱 <br/><br/>
