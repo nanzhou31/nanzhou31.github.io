@@ -832,7 +832,7 @@ comments:true
 		成为了我们极大的快乐 <br />
 		你是为接受爱而来到这世界 <br />
 		现在也正接受这样的爱 <br />
-		你是为接受爱而来到这世界 <br />
+		你是为接受爱而来到这世界 <br />     
 		现在也正接受这样的爱 <br />
 	</div>
 	<div id="t10_tab_3" class="tab_content" style="display:none">
