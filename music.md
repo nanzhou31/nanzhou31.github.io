@@ -137,7 +137,7 @@ comments:true
 		<img src="../images/t_1_2.jpg"/>
 	</div>
 	<div id="tab_6" class="tab_content" style="display:none">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/-ZmbiOkXb9Y?playsinline=1" frameborder="0"></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/AuhQP0JysfY?playsinline=1" frameborder="0"></iframe>
 	</div>
 </div>
 
@@ -237,6 +237,7 @@ comments:true
 		<li><a href="#t3_tab_3">병음</a></li>
 		<li><a href="#t3_tab_4">독음</a></li>
 		<li><a href="#t3_tab_5">악보</a></li>
+		<li><a href="#t3_tab_6">악보</a></li>
 	</ul>
 
 
@@ -293,6 +294,9 @@ comments:true
 		주 미 스 워 용 위앤 띠 량 꾸앙 　 짠 메이 미 <br />
 			</div>
 	<div id="t3_tab_5" class="tab_content" style="display:none">
+	</div>
+	<div id="t3_tab_6" class="tab_content" style="display:none">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/84UdHl4dxn4?playsinline=1" frameborder="0"></iframe>
 	</div>
 </div>
 
@@ -380,7 +384,6 @@ comments:true
 		<li><a href="#t5_tab_3">병음</a></li>
 		<li><a href="#t5_tab_4">독음</a></li>
 		<li><a href="#t5_tab_5">악보</a></li>
-		<li><a href="#t5_tab_6">율동</a></li>
 	</ul>
 
 
