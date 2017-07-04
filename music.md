@@ -137,7 +137,9 @@ comments:true
 		<img src="../images/t_1_2.jpg"/>
 	</div>
 	<div id="tab_6" class="tab_content" style="display:none">
-		<iframe width="544" height="306" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=7FB87539D7044A9F3320D3B32D2F617EC61B&outKey=V1246f40eb7f161b79c765d241b37b14007b52125218739e2a31f5d241b37b14007b5" frameborder="no" scrolling="no"></iframe>
+	<div id="t2_tab_6" class="tab_content" style="display:none">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/-ZmbiOkXb9Y?playsinline=1" frameborder="0"></iframe>
+	</div>
 	</div>
 </div>
 
@@ -801,6 +803,9 @@ comments:true
 		<li><a href="#t10_tab_4">독음</a></li>
 		<li><a href="#t10_tab_5">악보</a></li>
 	</ul>
+	<div id="t4_tab_6" class="tab_content" style="display:none">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/gs2m9AYLDU4?playsinline=1" frameborder="0"></iframe>
+	</div>
 
 
 	<div id="t10_tab_1" class="tab_content" style="display:block">
@@ -832,7 +837,7 @@ comments:true
 		成为了我们极大的快乐 <br />
 		你是为接受爱而来到这世界 <br />
 		现在也正接受这样的爱 <br />
-		你是为接受爱而来到这世界 <br />     
+		你是为接受爱而来到这世界 <br />
 		现在也正接受这样的爱 <br />
 	</div>
 	<div id="t10_tab_3" class="tab_content" style="display:none">
