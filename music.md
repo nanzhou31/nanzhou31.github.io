@@ -125,7 +125,7 @@
 		예 쑤 이 셩 리 까오 양 치우 청 빠오 쉬에 。<br/>
 		인 웨이 빠오 쉬에 띠 넝 리 워 먼 치 라이 <br/>
 		예 쑤 이 셩 리 까오 양 치우 청 빠오 쉬에 。<br/>
-		주 예 쑤 지 뚜 께이 워 셩 리 
+		주 예 쑤 지 뚜 께이 워 셩 리
 	</div>
 	<div id="tab_5" class="tab_content" style="display:none">
 		<img src="../images/t_1_1.jpg"/>
@@ -310,92 +310,50 @@
 
 
 	<div id="t4_tab_1" class="tab_content" style="display:block">
-		새 아침에 희망되신 주 부르네 주를 보네 <br/>
-		우리 마음 주께 맞춰 늘 함께 걸으리 <br/>
-		내 눈의 등불 내 삶 비춰 주의 사랑 타 오르네 <br/>
-		거리마다 빛 비추네 주의 영광 나타나 <br/><br/>
+		하늘 위에 주님 밖에 <br/>
+		내가 사모할 자 이 세상에 없네 <br/>
+		내 맘과 힘은 믿을 수 없네 <br/>
+		오직 한가지 그 진리를 믿네 <br/><br/>
 
-		당신의 그 사랑은 영원히 머무네 <br/>
-		내 곁에 내 삶에 환하게 날 비추네 <br/>
-		당신의 그 사랑은 영원히 머무네 <br/>
-		내 곁에 내 삶에 환하게 날 비추네 <br/><br/>
-
-		You wake within me Wake within me <br/>
-		You're in my heart FOREVER <br/>
-		You wake within me Wake within me <br/>
-		You're in my heart FOREVER <br/><br/>
-
-		내 눈의 등불 내 삶 비춰 <br/>
-		주의 사랑 타 오르네 <br/>
-		거리마다 빛 비추네 <br/>
-		주의 영광 나타나 <br/>
+		주는 나의 힘이요 <br/>
+		주는 나의 힘이요 <br/>
+		주는 나의 힘이요 <br/>
+		영원히 주를 의지하리 <br/>
+		영원히 <br/>
 	</div>
 
 	<div id="t4_tab_2" class="tab_content" style="display:none">
-		黎明之際 盼望興起 <br/>
-		我仰望你 宣告你名 <br/>
-		讓我與你 心跳合一 <br/>
-		就在這裡 與你同行 <br/><br/>
-
-		在我眼中有火 被你點燃 <br/>
-		不羈的愛 燃燒起來 <br/>
-		永恆的光 街頭綻放 <br/>
-		你突破黑夜衝出來 <br/><br/>
-
-		你的愛一直都在 <br/>
-		永遠不會離開 <br/>
-		為了我 而存在 <br/>
-		要點燃這個世代 <br/><br/>
-
-		你讓我甦醒 讓我甦醒 <br/>
-		你的愛充滿我心 <br/>
-		你的愛 你的愛 你的愛 <br/>
-		到永遠 (我知道) <br/>
+		除了你在天上有谁 <br/>
+		除了你在地上, 我也没有所爱 <br/>
+		虽然有时候, 我身心软弱 <br/>
+		但有一件事 永远不会改变 <br/><br/>
+		神真是我的力量 神真是我的力量 <br/>
+		神真是我的力量 <br/>
+		我的福分到永远, 到永远 <br/>
 	</div>
 	<div id="t4_tab_3" class="tab_content" style="display:none">
-		lí míng zhī jì pàn wàng xīng qǐ <br/>
-		wǒ yǎng wàng nǐ xuān gào nǐ míng <br/>
-		ràng wǒ yǔ nǐ xīn tiào hé yī <br/>
-		jiù zài zhè lǐ yǔ nǐ tóng xíng <br/><br/>
-
-		zài wǒ yǎn zhōng yǒu huǒ bèi nǐ diǎn rán <br/>
-		bù jī dí ài rán shāo qǐ lái <br/>
-		yǒng héng dí guāng jiē tóu zhàn fàng <br/>
-		nǐ tū pò hēi yè chōng chū lái <br/><br/>
-
-		nǐ dí ài yī zhí dū zài <br/>
-		yǒng yuǎn bù huì lí kāi <br/>
-		wéi liǎo wǒ ér cún zài <br/>
-		yào diǎn rán zhè gè shì dài <br/><br/>
-
-		nǐ ràng wǒ sū xǐng ràng wǒ sū xǐng <br/>
-		nǐ dí ài chōng mǎn wǒ xīn <br/>
-		nǐ dí ài nǐ dí ài nǐ dí ài <br/>
-		dào yǒng yuǎn ( wǒ zhī dào ) <br/>
+		chú liǎo nǐ zài tiān shàng yǒu shuí <br/>
+		chú liǎo nǐ zài dì shàng , wǒ yě méi yǒu suǒ ài <br/>
+		suī rán yǒu shí hòu , wǒ shēn xīn ruǎn ruò <br/>
+		dàn yǒu yī jiàn shì yǒng yuǎn bù huì gǎi biàn <br/><br/>
+		shén zhēn shì wǒ dí lì liáng shén zhēn shì wǒ dí lì liáng <br/>
+		shén zhēn shì wǒ dí lì liáng <br/>
+		wǒ dí fú fēn dào yǒng yuǎn , dào yǒng yuǎn <br/>
 	</div>
 	<div id="t4_tab_4" class="tab_content" style="display:none">
-		리 밍 즈 지 판 왕 싱 치 <br/>
-		워 양 왕 니 쉬앤 까오 니 밍 <br/>
-		랑 워 위 니 신 탸오 허 이 <br/>
-		지우 짜이 저 리 위 니 통 싱 <br/><br/>
-
-		짜이 워 얜 종 요우 후어 뻬이 니 띠앤 란 <br/>
-		뿌 지 띠 아이 란 사오 치 라이 <br/>
-		용 헝 띠 꾸앙 지에 터우 잔 팡 <br/>
-		니 투 포 헤이 예 총 추 라이 <br/><br/>
-
-		니 띠 아이 이 즈 뚜 짜이 <br/>
-		용 위앤 뿌 훼이 리 카이 <br/>
-		웨이 랴오 워 얼 춘 짜이 <br/>
-		야오 띠앤 란 저 꺼 스 따이 <br/><br/>
-
-		니 랑 워 쑤 싱 랑 워 쑤 싱 <br/>
-		니 띠 아이 총 만 워 신 <br/>
-		니 띠 아이 니 띠 아이 니 띠 아이 <br/>
-		따오 용 위앤 ( 워 즈 따오 ) <br/>
+		추 랴오 니 짜이 티앤 상 요우 쉐이 <br/>
+		추 랴오 니 짜이 띠 상 , 워 예 메이 요우 쑤어 아이 <br/>
+		쒜이 란 요우 스 허우 , 워 션 신 루안 루어 <br/>
+		딴 요우 이 지앤 스 용 위앤 뿌 훼이 까이 삐앤 <br/><br/>
+		션 전 스 워 띠 리 량 션 전 스 워 띠 리 량 <br/>
+		션 전 스 워 띠 리 량 <br/>
+		워 띠 푸 펀 따오 용 위앤 , 따오 용 위앤 <br/>
 	</div>
 	<div id="t4_tab_5" class="tab_content" style="display:none">
-		<img src="../images/track_4.jpg"/>
+		<img src="http://mblogthumb3.phinf.naver.net/20160218_226/worship6890_1455761986542WAVXs_JPEG/%C7%CF%B4%C3_%C0%A7%BF%A1_%C1%D6%B4%D4_%B9%DB%BF%A1.jpg?type=w800"/>
+	</div>
+	<div id="t4_tab_6" class="tab_content" style="display:none">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/pwtn6FPBVpY?playsinline=1" frameborder="0"></iframe>
 	</div>
 </div>
 
