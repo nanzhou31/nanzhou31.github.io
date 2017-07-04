@@ -137,9 +137,7 @@ comments:true
 		<img src="../images/t_1_2.jpg"/>
 	</div>
 	<div id="tab_6" class="tab_content" style="display:none">
-	<div id="t2_tab_6" class="tab_content" style="display:none">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/-ZmbiOkXb9Y?playsinline=1" frameborder="0"></iframe>
-	</div>
 	</div>
 </div>
 
@@ -803,7 +801,7 @@ comments:true
 		<li><a href="#t10_tab_4">독음</a></li>
 		<li><a href="#t10_tab_5">악보</a></li>
 	</ul>
-	<div id="t4_tab_6" class="tab_content" style="display:none">
+	<div>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/gs2m9AYLDU4?playsinline=1" frameborder="0"></iframe>
 	</div>
 
