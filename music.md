@@ -237,7 +237,7 @@ comments:true
 		<li><a href="#t3_tab_3">병음</a></li>
 		<li><a href="#t3_tab_4">독음</a></li>
 		<li><a href="#t3_tab_5">악보</a></li>
-		<li><a href="#t3_tab_6">악보</a></li>
+		<li><a href="#t3_tab_6">율동</a></li>
 	</ul>
 
 
