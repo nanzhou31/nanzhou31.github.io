@@ -21,7 +21,7 @@ comments:true
 
 <div class="track" id="track_1">
 
-	<h4>내 모든 삶의 행동 + 승리하였네 <br/><strong>一切都在于你 + 耶蘇已胜利</strong></h4>
+	<h4>1.내 모든 삶의 행동 + 승리하였네 <br/><strong>一切都在于你 + 耶蘇已胜利</strong></h4>
 
 	<ul class="tab_tit" id="t1">
 		<li><a href="#tab_1">한국어</a></li>
@@ -144,7 +144,7 @@ comments:true
 
 <div class="track" id="track_2">
 
-	<h4>기뻐하며 왕께 노래부르리 <strong>揚聲歡呼讚美</strong></h4>
+	<h4>2.기뻐하며 왕께 노래부르리 <strong>揚聲歡呼讚美</strong></h4>
 
 	<ul class="tab_tit" id="t2">
 		<li><a href="#t2_tab_1">한국어</a></li>
@@ -229,7 +229,7 @@ comments:true
 
 <div class="track" id="track_3">
 
-	<h4>나의 왕 나의 주 <strong>我的主 我的王</strong></h4>
+	<h4>3.나의 왕 나의 주 <strong>我的主 我的王</strong></h4>
 
 	<ul class="tab_tit" id="t3">
 		<li><a href="#t3_tab_1">한국어</a></li>
@@ -302,7 +302,7 @@ comments:true
 
 <div class="track" id="track_4">
 
-	<h4>하늘 위에 주님 밖에 <strong>使我得生命</strong></h4>
+	<h4>4.하늘 위에 주님 밖에 <strong>使我得生命</strong></h4>
 
 
 	<ul class="tab_tit" id="t4">
@@ -371,7 +371,7 @@ comments:true
 
 
 <div class="track" id="track_5">
-	<h4>예수 아름다우신 <strong>榮美的救主</strong></h4>
+	<h4>5.예수 아름다우신 <strong>榮美的救主</strong></h4>
 
 	<audio controls loop preload="none" style="width:100%;">
 		<source src="../music/track_10.aac" type="audio/mp4">
@@ -464,7 +464,7 @@ comments:true
 
 <div class="track" id="track_6">
 
-	<h4>위대하신 주 <strong>我神真偉大</strong></h4>
+	<h4>6.위대하신 주 <strong>我神真偉大</strong></h4>
 
 	<audio controls loop preload="none" style="width:100%;">
 		<source src="../music/track_11.aac" type="audio/mp4">
@@ -596,7 +596,7 @@ comments:true
 
 <div class="track" id="track_7">
 
-	<h4>born again(주 안에서 내 영혼) <strong>重生</strong></h4>
+	<h4>7.born again(주 안에서 내 영혼) <strong>重生</strong></h4>
 
 	<audio controls loop preload="none" style="width:100%;">
 		<source src="../music/track_7.mp3" type="audio/mpeg">
@@ -684,7 +684,7 @@ comments:true
 
 <div class="track" id="track_8">
 
-	<h4>부르신 곳에서 <strong>在祢呼召之地</strong></h4>
+	<h4>8.부르신 곳에서 <strong>在祢呼召之地</strong></h4>
 
 	<audio controls loop preload="none" style="width:100%;">
 		<source src="../music/track_8.aac" type="audio/mp4">
@@ -795,7 +795,7 @@ comments:true
 
 <div class="track" id="track_9">
 
-	<h4>당신은 사랑 받기 위해 태어난 사람 <strong>你是为了接受主的爱而被拣选的人</strong></h4>
+	<h4>9.당신은 사랑 받기 위해 태어난 사람 <strong>你是为了接受主的爱而被拣选的人</strong></h4>
 
 	<ul class="tab_tit" id="t10">
 		<li><a href="#t10_tab_1">한국어</a></li>
