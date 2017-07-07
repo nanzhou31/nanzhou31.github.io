@@ -289,6 +289,7 @@ comments:true
 		주 미 스 워 용 위앤 띠 량 꾸앙 　 짠 메이 미 <br />
 			</div>
 	<div id="t3_tab_5" class="tab_content" style="display:none">
+		<img src="../images/akbo2.png" alt=""/>
 	</div>
 	<div id="t3_tab_6" class="tab_content" style="display:none">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/0ucRN6_gyW8?playsinline=1" frameborder="0"></iframe>
