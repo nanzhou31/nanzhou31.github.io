@@ -384,12 +384,13 @@ comments:true
 		<li><a href="#t5_tab_5">악보</a></li>
 	</ul>
 
-
 	<div id="t5_tab_1" class="tab_content" style="display:block">
 		예수 아름다우신 <br/>
 		위대하신 주님 부활의 주 <br/><br/>
+
 		어린양 거룩과 공의 <br/>
-		새벽 별 같은 나의 구주 <br/>
+		새벽 별 같은 나의 구주 <br/><br />
+
 		모든 하늘 찬양해 <br/>
 		모든 만물이 주 경배해 <br/><br/>
 
@@ -406,7 +407,9 @@ comments:true
 		神羔羊 聖潔和公義 <br/>
 		尊榮的拯救者 明亮晨星 <br/><br/>
 
-		​天使高聲齊頌揚 萬物都屈膝來敬拜你 <br/>
+		​天使高聲齊頌揚<br />
+		萬物都屈膝來敬拜你 <br/>
+
 		何等奇妙 何等榮耀 <br/>
 		超乎萬民之上 配得尊崇 <br/>
 		何等奇妙 何等榮耀 <br/>
@@ -421,10 +424,10 @@ comments:true
 		Shén gāoyáng, shèngjié hé gōng yì. <br/>
 		Zūn róng de zhěngjiù zhě, míngliàng chénxīng, <br/><br />
 
-		Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ, <br/>
-		Tiānshǐ gāo shēng qí sòngyáng, wànwù dōu qūxī lái jìng bài nǐ, <br/>
-		Héděng qímiào, héděng róngyào, <br/><br />
+		Tiānshǐ gāo shēng qí sòngyáng, <br />
+		wànwù dōu qūxī lái jìng bài nǐ, <br/>
 
+		Héděng qímiào, héděng róngyào, <br/>
 		Chāo hu wànmín zhī shàng, pèi de zūnchóng, <br/>
 		Héděng qímiào, héděng róngyào, <br/>
 		Yēsū wǒ zhǔ, chāo hu wàn míng zhī shàng, yēsū. <br/><br />
@@ -439,10 +442,11 @@ comments:true
 		션 까오 양 셩 지에 허 꽁 이 <br/>
 		준 롱 띠 정 지우 저 밍 량 천 싱 <br/><br/>
 		​
-		[ Chorus ] <br/>
-		티앤 스 까오 셩 치 쏭 양 완 우 뚜 취 시 라이 징 빠이 니 <br/>
-		허 떵 치 먀오 허 떵 롱 야오 <br/><br/>
+		티앤 스 까오 셩 치 쏭 양  <br />
+		완 우 뚜 취 시 라이 징 빠이 니 <br/>
 
+		[ Chorus ] <br/>
+		허 떵 치 먀오 허 떵 롱 야오 <br/>
 		차오 후 완 민 즈 상 페이 더 준 총 <br/>
 		허 떵 치 먀오 허 떵 롱 야오 <br/>
 		예 쑤 워 주 차오 후 완 밍 즈 상 예 쑤 <br/><br/>
@@ -451,7 +455,7 @@ comments:true
 		워 야오 용 위앤 징 빠이 예 쑤 워 아이 니 예 쑤 워 아이 니 <br/>
 	</div>
 	<div id="t5_tab_5" class="tab_content" style="display:none">
-		<img src="../images/track_10.jpg"/>
+		<img src="../images/akbo4.png"/>
 	</div>
 
 </div>
