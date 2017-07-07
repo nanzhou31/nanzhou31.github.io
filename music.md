@@ -36,7 +36,6 @@ comments:true
 		<audio controls loop preload="none" style="width:100%;">
 			<source src="../music/track_1.mp3" type="audio/mpeg">
 		</audio>
-
 		내 모든 삶의 행동 주 안에 <br/>
 		주님 안에 있네 <br/>
 		나의 숨쉬는 순간들도 <br/><br/>
@@ -207,12 +206,12 @@ comments:true
 		</audio>
 		양 셩 후안 후 짠 메이 청 쏭 워 띠 왕 ， <br/>
 		까오 셩 쏭 양 후안 창 하 리 루 야 ，<br/>
-		라이 따오 주 빠오 쭤 치앤 zun 총 짠 메이 祂 ，<br/>
+		라이 따오 주 빠오 쭤 치앤 준 총 짠 메이 타 ，<br/>
 		워 먼 후안 후 시 러 진 루 션 띠 미앤 치앤 <br/><br/>
 
 		미 스 추앙 쨔오 주 ， 미 스 싱 정 지우 ， <br/>
 		미 이 지우 슈 워 ， 미 스 주 ，<br/>
-		zui 따 띠 이 셩 ， 미 스 펑 셩 즈 주 。<br/>
+		쭈이 따 띠 이 셩 ， 미 스 펑 셩 즈 주 。<br/>
 		미 스 워 띠 무 저 인 링 워 ，<br/>
 		예 쑤 워 君 왕 ， 워 짠 메이 미 。<br/>
 	</div>
@@ -562,7 +561,7 @@ comments:true
 	</div>
 	<div id="t6_tab_4" class="tab_content" style="display:none">
 		1 .
-		zun 꿰이 롱 야오 君 왕 짜이 취앤 띠 즈 상 <br/>
+		준 꿰이 롱 야오 君 왕 짜이 취앤 띠 즈 상 <br/>
 		위앤 완 민 뚜 시 러 취앤 띠 뚜 시 러 <br/><br/>
 		주 니 만 요우 롱 꾸앙 헤이 안 뚜 뚜어 창 <br/>
 		완 민 까오 셩 창 치 라이 까오 셩 창 <br/><br/>
@@ -584,7 +583,7 @@ comments:true
 		취앤 띠 뚜 칸 지앤 워 션 전 웨이 따 <br/><br/>
 
 		Bridge : <br/>
-		니 즈 셩 zun 밍 페이 셔우 따 짠 메이 <br/>
+		니 즈 셩 준 밍 페이 셔우 따 짠 메이 <br/>
 		취앤 신 꺼 쏭 워 션 전 웨이 따 <br/>
 	</div>
 	<div id="t6_tab_5" class="tab_content" style="display:none">
@@ -663,7 +662,7 @@ comments:true
 		짜이 주 리 미앤   워 링 훈   짜이 추 셩 랴오 <br />
 		이 치앤 띠   이 꾸어 취   삐앤 청 신 띠 랴오 <br /><br />
 
-		란 상 zui 꾸어   워 양 쯔   허 예 쑤 쓰 <br />
+		란 상 쭈이 꾸어   워 양 쯔   허 예 쑤 쓰 <br />
 		푸 후어 셩 밍   짜이 워 리   신 띠 런 셩 카이 랴오 <br /><br />
 
 		뿌 스 니 먼 지앤 쉬앤 랴오 워 <br />
@@ -717,7 +716,6 @@ comments:true
 	</div>
 
 	<div id="t9_tab_2" class="tab_content" style="display:none">
-
 		温柔的主圣灵 我的心注视你 <br/>
 		主赐下的平安 拥抱我的全人 <br/>
 		使我心感到满足 <br/><br/>
@@ -828,43 +826,43 @@ comments:true
 	</div>
 	<div id="t10_tab_2" class="tab_content" style="display:none">
 		你是为接受爱而来到这世界 <br />
-		你的生命之中正接受这样的爱 <br />
+		你的生命之中正接受这样的爱 <br /><br />
 		你是为接受爱而来到这世界 <br />
-		你的生命之中正接受这样的爱 <br />
+		你的生命之中正接受这样的爱 <br /><br />
 		太初时分,开始的上帝的慈爱 <br />
-		通过我们的相遇结出果实 <br />
+		通过我们的相遇结出果实 <br /><br />
 		正因为有你在世上存在 <br />
-		成为了我们极大的快乐 <br />
+		成为了我们极大的快乐 <br /><br />
 		你是为接受爱而来到这世界 <br />
-		现在也正接受这样的爱 <br />
+		现在也正接受这样的爱 <br /><br />
 		你是为接受爱而来到这世界 <br />
 		现在也正接受这样的爱 <br />
 	</div>
 	<div id="t10_tab_3" class="tab_content" style="display:none">
 		nǐ shì wèi jiē shòu ài ér lái dào zhè shì jiè <br />
-		nǐ de shēng mìng zhī zhōng zhèng jiē shòu zhè yàng de ài <br />
+		nǐ de shēng mìng zhī zhōng zhèng jiē shòu zhè yàng de ài <br /><br />
 		nǐ shì wèi jiē shòu ài ér lái dào zhè shì jiè <br />
-		nǐ de shēng mìng zhī zhōng zhèng jiē shòu zhè yàng de ài <br />
+		nǐ de shēng mìng zhī zhōng zhèng jiē shòu zhè yàng de ài <br /><br />
 		tāi chū shí fēn, kāi shǐ de shàng dì de cí ài <br />
-		tōng guò wǒ men de xiāng yù jié chū guǒ shí <br />
+		tōng guò wǒ men de xiāng yù jié chū guǒ shí <br /><br />
 		zhèng yīn wèi yǒu nǐ zài shì shàng cún zài <br />
-		chéng wèi le wǒ men jí dà de kuài lè <br />
+		chéng wèi le wǒ men jí dà de kuài lè <br /><br />
 		nǐ shì wèi jiē shòu ài ér lái dào zhè shì jiè <br />
-		xiàn zài yě zhèng jiē shòu zhè yàng de ài <br />
+		xiàn zài yě zhèng jiē shòu zhè yàng de ài <br /><br />
 		nǐ shì wèi jiē shòu ài ér lái dào zhè shì jiè <br />
 		xiàn zài yě zhèng jiē shòu zhè yàng de ài <br />
 	</div>
 	<div id="t10_tab_4" class="tab_content" style="display:none">
 		니스 웨이 지에 셔우 아이 얼 라이 따오 저 스지에 <br />
-		니더 성밍 즈 중 쩡 지에 셔우 저양디 아이 <br />
+		니더 성밍 즈 중 쩡 지에 셔우 저양디 아이 <br /><br />
 		니스 웨이 지에 셔우 아이 얼 라이 따오 저 스지에 <br />
-		니더 성밍 즈 중 쩡 지에 셔우 저양디 아이 <br />
+		니더 성밍 즈 중 쩡 지에 셔우 저양디 아이 <br /><br />
 		타이 추 스펀, 카이스더 상띠더 츠 아이 <br />
-		통꾸어 워먼더 씨앙 위 지에 추 구오 스 <br />
+		통꾸어 워먼더 씨앙 위 지에 추 구오 스 <br /><br />
 		쩡 인웨이 요우 니 짜이 스씨앙 춘 짜이 <br />
-		지위러 워먼 지따 더 콰이러 <br />
+		지위러 워먼 지따 더 콰이러 <br /><br />
 		니 스 웨이 찌에 셔우 얼 라이 따오 쩌 스찌에 <br />
-		씨엔 짜이 예 쩡 지에 셔우 쩌양디 아이 <br />
+		씨엔 짜이 예 쩡 지에 셔우 쩌양디 아이 <br /><br />
 		니 스 웨이 찌에 셔우 얼 라이 따오 쩌 스찌에 <br />
 		씨엔 짜이 예 쩡 지에 셔우 쩌양디 아이
 	</div>
