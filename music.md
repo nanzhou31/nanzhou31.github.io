@@ -590,7 +590,7 @@ comments:true
 		취앤 신 꺼 쏭 워 션 전 웨이 따 <br/>
 	</div>
 	<div id="t6_tab_5" class="tab_content" style="display:none">
-		<img src="../images/track_6.gif"/>
+		<img src="../images/akbo5.png"/>
 	</div>
 </div>
 
