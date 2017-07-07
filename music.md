@@ -212,7 +212,7 @@ comments:true
 		예 쑤 워 준 왕 ， 워 짠 메이 미 。<br/>
 	</div>
 	<div id="t2_tab_5" class="tab_content" style="display:none">
-		<img src="https://file.zanmeishi.com/store/2013/05/08/518a162300769ea0030000fe.gif"/>
+		<img src="../images/akbo1.png"/>
 	</div>
 	<div id="t2_tab_6" class="tab_content" style="display:none">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/nRdxC0cPcGg?playsinline=1" frameborder="0"></iframe>
