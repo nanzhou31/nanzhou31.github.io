@@ -133,8 +133,7 @@ comments:true
 		주 예 쑤 지 뚜 께이 워 셩 리
 	</div>
 	<div id="tab_5" class="tab_content" style="display:none">
-		<img src="../images/t_1_1.jpg"/>
-		<img src="../images/t_1_2.jpg"/>
+		<img src="../images/track_1.png"/>
 	</div>
 	<div id="tab_6" class="tab_content" style="display:none">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/AuhQP0JysfY?playsinline=1" frameborder="0"></iframe>
