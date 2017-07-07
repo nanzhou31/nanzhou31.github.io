@@ -360,7 +360,7 @@ comments:true
 		워 띠 푸 펀 따오 용 위앤 , 따오 용 위앤 <br/>
 	</div>
 	<div id="t4_tab_5" class="tab_content" style="display:none">
-		<img src="http://mblogthumb3.phinf.naver.net/20160218_226/worship6890_1455761986542WAVXs_JPEG/%C7%CF%B4%C3_%C0%A7%BF%A1_%C1%D6%B4%D4_%B9%DB%BF%A1.jpg?type=w800"/>
+		<img src="../images/akbo3.png"/>
 	</div>
 	<div id="t4_tab_6" class="tab_content" style="display:none">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/pwtn6FPBVpY?playsinline=1" frameborder="0"></iframe>
