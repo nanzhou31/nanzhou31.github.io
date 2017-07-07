@@ -127,7 +127,7 @@ comments:true
 		오 워 션 니 아이 쩐 넝 루 츠 。<br/><br/>
 
 		예 쑤 이 셩 리 까오 양 치우 청 빠오 쉬에 。<br/>
-		인 웨이 빠오 쉬에 띠 넝 리 워 먼 치 라이 <br/>
+		인 웨이 빠오 쉬에 띠 넝 리 워 먼 치 라이 <br/><br />
 		예 쑤 이 셩 리 까오 양 치우 청 빠오 쉬에 。<br/>
 		주 예 쑤 지 뚜 께이 워 셩 리
 	</div>
@@ -159,7 +159,7 @@ comments:true
 			<source src="../music/track_2.mp3" type="audio/mpeg">
 		</audio>
 		기뻐하며 왕께 노래 부르리 <br/>
-		소리 높여 할렐루야 부르리 <br/>
+		소리 높여 할렐루야 부르리 <br/><br />
 		주님 앞에 나와 찬양 드리며 <br/>
 		우리 주님과 함께 기뻐하리라 <br/><br/>
 
@@ -179,9 +179,8 @@ comments:true
 		我们欢呼喜乐进入神的面前 <br/><br/>
 
 		祢是创造主，祢施行拯救， <br/>
-		祢已救赎我，祢是主， <br/>
-		最大的医生，祢是丰盛之主。 <br/>
-		祢是我的牧者引领我，<br/>
+		祢已救赎我，祢是主，最大的医生， <br/>
+		祢是丰盛之主。祢是我的牧者引领我， <br/>
 		耶稣我君王，我赞美祢。 <br/>
 	</div>
 	<div id="t2_tab_3" class="tab_content" style="display:none">
@@ -193,11 +192,9 @@ comments:true
 		lái dào zhǔ bǎo zuò qián zūn chóng zàn měi 祂 ，<br/>
 		wǒ mén huān hū xǐ lè jìn rù shén dí miàn qián <br/><br/>
 
-
 		mí shì chuàng zào zhǔ ， mí shī xíng zhěng jiù ， <br/>
-		mí yǐ jiù shú wǒ ， mí shì zhǔ ，<br/>
-		zuì dà dí yī shēng ， mí shì fēng shèng zhī zhǔ 。<br/>
-		mí shì wǒ dí mù zhě yǐn lǐng wǒ ，<br/>
+		mí yǐ jiù shú wǒ ， mí shì zhǔ ，zuì dà dí yī shēng ，<br/>
+		mí shì fēng shèng zhī zhǔ 。mí shì wǒ dí mù zhě yǐn lǐng wǒ ，<br/>
 		yé sū wǒ jūn wáng ， wǒ zàn měi mí 。<br/>
 	</div>
 	<div id="t2_tab_4" class="tab_content" style="display:none">
@@ -205,15 +202,14 @@ comments:true
 			<source src="../music/ch_track_2.mp3" type="audio/mpeg">
 		</audio>
 		양 셩 후안 후 짠 메이 청 쏭 워 띠 왕 ， <br/>
-		까오 셩 쏭 양 후안 창 하 리 루 야 ，<br/>
+		까오 셩 쏭 양 후안 창 하 리 루 야 ，<br/><br />
 		라이 따오 주 빠오 쭤 치앤 준 총 짠 메이 타 ，<br/>
 		워 먼 후안 후 시 러 진 루 션 띠 미앤 치앤 <br/><br/>
 
 		미 스 추앙 쨔오 주 ， 미 스 싱 정 지우 ， <br/>
-		미 이 지우 슈 워 ， 미 스 주 ，<br/>
-		쭈이 따 띠 이 셩 ， 미 스 펑 셩 즈 주 。<br/>
-		미 스 워 띠 무 저 인 링 워 ，<br/>
-		예 쑤 워 君 왕 ， 워 짠 메이 미 。<br/>
+		미 이 지우 슈 워 ， 미 스 주 ，쭈이 따 띠 이 셩 ， <br/>
+		미 스 펑 셩 즈 주 。미 스 워 띠 무 저 인 링 워 ，<br/>
+		예 쑤 워 준 왕 ， 워 짠 메이 미 。<br/>
 	</div>
 	<div id="t2_tab_5" class="tab_content" style="display:none">
 		<img src="https://file.zanmeishi.com/store/2013/05/08/518a162300769ea0030000fe.gif"/>
@@ -244,12 +240,13 @@ comments:true
 			<source src="../music/track_3.mp3" type="audio/mpeg">
 		</audio>
 		나의 왕 나의 주 내 삶은 주 안에 있네 <br/>
-		나의 왕 나의 주 내 삶은 주를 높이네 <br />
+		나의 왕 나의 주 내 삶은 주를 높이네 <br /><br />
+
 		주 찬양합니다 주 경배합니다 <br/>
 		내 마음 다하여 주께 <br/><br/>
 
 		주 나의 친구되시며 <br/>
-		내 영원한 기쁨 되시네 찬양해 <br/>
+		내 영원한 기쁨 되시네 찬양해 <br/><br />
 		주 나의 소망되시며 <br/>
 		내 영원한 빛이 되시네 찬양해
 	</div>
@@ -263,7 +260,7 @@ comments:true
 		我全心全意跟隨祢 <br /><br />
 
 		主祢是我永遠朋友 <br />
-		主祢是我永遠的喜樂　讚美祢 <br />
+		主祢是我永遠的喜樂　讚美祢 <br /><br />
 		主祢是我永遠盼望 <br />
 		主祢是我永遠的亮光　讚美祢
 	</div>
@@ -275,19 +272,19 @@ comments:true
 		wǒ quán xīn quán yì gēn suí mí <br /><br />
 
 		zhǔ mí shì wǒ yǒng yuǎn péng yǒu <br />
-		zhǔ mí shì wǒ yǒng yuǎn dí xǐ lè 　 zàn měi mí <br />
+		zhǔ mí shì wǒ yǒng yuǎn dí xǐ lè zàn měi mí <br /><br />
 		zhǔ mí shì wǒ yǒng yuǎn pàn wàng <br />
 		zhǔ mí shì wǒ yǒng yuǎn dí liàng guāng 　 zàn měi mí
 	</div>
 	<div id="t3_tab_4" class="tab_content" style="display:none">
-		워 띠 왕   워 띠 주 　 워 셩 밍 짜이 주 띠 리 미앤    <br />
-		워 띠 왕   워 띠 주 　 워 셩 밍 까오 쥐 주 띠 밍  <br />
+		워 띠 왕  워 띠 주  워 셩 밍 짜이 주 띠 리 미앤    <br />
+		워 띠 왕  워 띠 주  워 셩 밍 까오 쥐 주 띠 밍 <br />
 
-		주 워 야오 짠 메이 미 　 주 워 야오 징 빠이 미  <br />
+		주 워 야오 짠 메이 미, 주 워 야오 징 빠이 미  <br />
 		워 취앤 신 취앤 이 껀 쒜이 미 <br /><br />
 
 		주 미 스 워 용 위앤 펑 요우 <br />
-		주 미 스 워 용 위앤 띠 시 러 　 짠 메이 미 <br />
+		주 미 스 워 용 위앤 띠 시 러 짠 메이 미 <br /><br />
 		주 미 스 워 용 위앤 판 왕 <br />
 		주 미 스 워 용 위앤 띠 량 꾸앙 　 짠 메이 미 <br />
 			</div>
@@ -352,9 +349,11 @@ comments:true
 	</div>
 	<div id="t4_tab_4" class="tab_content" style="display:none">
 		추 랴오 니 짜이 티앤 상 요우 쉐이 <br/>
-		추 랴오 니 짜이 띠 상 , 워 예 메이 요우 쑤어 아이 <br/>
+		추 랴오 니 짜이 띠 상 , 워 예 메이 요우 쑤어 아이 <br/><br />
+
 		쒜이 란 요우 스 허우 , 워 션 신 루안 루어 <br/>
 		딴 요우 이 지앤 스 용 위앤 뿌 훼이 까이 삐앤 <br/><br/>
+
 		션 전 스 워 띠 리 량 션 전 스 워 띠 리 량 <br/>
 		션 전 스 워 띠 리 량 <br/>
 		워 띠 푸 펀 따오 용 위앤 , 따오 용 위앤 <br/>
@@ -438,19 +437,16 @@ comments:true
 
 		션 까오 양 셩 지에 허 꽁 이 <br/>
 		준 롱 띠 정 지우 저 밍 량 천 싱 <br/><br/>
-
 		​
 		[ Chorus ] <br/>
 		티앤 스 까오 셩 치 쏭 양 완 우 뚜 취 시 라이 징 빠이 니 <br/>
 		허 떵 치 먀오 허 떵 롱 야오 <br/><br/>
 
-
 		차오 후 완 민 즈 상 페이 더 준 총 <br/>
 		허 떵 치 먀오 허 떵 롱 야오 <br/>
 		예 쑤 워 주 차오 후 완 밍 즈 상 예 쑤 <br/><br/>
 
-
-		[ ​ Bridge ] <br/>
+		[ ​Bridge ] <br/>
 		워 야오 용 위앤 징 빠이 예 쑤 워 아이 니 예 쑤 워 아이 니 <br/>
 	</div>
 	<div id="t5_tab_5" class="tab_content" style="display:none">
@@ -535,7 +531,8 @@ comments:true
 	<div id="t6_tab_3" class="tab_content" style="display:none">
 		1 .
 		zūn guì róng yào jūn wáng zài quán dì zhī shàng <br/>
-		yuàn wàn mín dū xǐ lè quán dì dū xǐ lè <br/>
+		yuàn wàn mín dū xǐ lè quán dì dū xǐ lè <br/><br />
+
 		zhǔ nǐ mǎn yǒu róng guāng hēi àn dū duǒ cáng <br/>
 		wàn mín gāo shēng chàng qí lái gāo shēng chàng <br/><br/>
 
@@ -546,7 +543,7 @@ comments:true
 
 		2 .
 		xī zài yǒng zài jūn wáng cóng jīn zhí dào yǒng yuǎn <br/>
-		nǐ cóng bù zēng gǎi biàn yǒng cún zài tiān dì jiān <br/>
+		nǐ cóng bù zēng gǎi biàn yǒng cún zài tiān dì jiān <br/><br />
 		nǐ shì sān yī zhēn shén fù zǐ yǔ shèng líng <br/>
 		zhēn shén dí gāo yáng quán néng shén gāo yáng <br/>
 
@@ -563,6 +560,7 @@ comments:true
 		1 .
 		준 꿰이 롱 야오 君 왕 짜이 취앤 띠 즈 상 <br/>
 		위앤 완 민 뚜 시 러 취앤 띠 뚜 시 러 <br/><br/>
+
 		주 니 만 요우 롱 꾸앙 헤이 안 뚜 뚜어 창 <br/>
 		완 민 까오 셩 창 치 라이 까오 셩 창 <br/><br/>
 
@@ -659,20 +657,20 @@ comments:true
 		wǒ de rén shēng jué bú néng yǐ qián yī yàng
 	</div>
 	<div id="t7_tab_4" class="tab_content" style="display:none">
-		짜이 주 리 미앤   워 링 훈   짜이 추 셩 랴오 <br />
-		이 치앤 띠   이 꾸어 취   삐앤 청 신 띠 랴오 <br /><br />
+		짜이 주 리 미앤 워 링 훈 짜이 추 셩 랴오 <br />
+		이 치앤 띠 이 꾸어 취 삐앤 청 신 띠 랴오 <br /><br />
 
-		란 상 쭈이 꾸어   워 양 쯔   허 예 쑤 쓰 <br />
-		푸 후어 셩 밍   짜이 워 리   신 띠 런 셩 카이 랴오 <br /><br />
+		란 상 쭈이 꾸어 워 양 쯔 허 예 쑤 쓰 <br />
+		푸 후어 셩 밍 짜이 워 리 신 띠 런 셩 카이 랴오 <br /><br />
 
 		뿌 스 니 먼 지앤 쉬앤 랴오 워 <br />
 		스 워 지앤 쉬앤 랴오 니 먼 <br /><br />
 
-		즈 짜이 워 리 미앤   즈 짜이 워 신 종   예 쑤 지 뚜 후어 쭈어 <br />
-		즈 짜이 워 런 셩   즈 짜이 워 시옹 종   예 쑤 타 땅 주 런 랴오 <br /><br />
+		즈 짜이 워 리 미앤  즈 짜이 워 신 종  예 쑤 지 뚜 후어 쭈어 <br />
+		즈 짜이 워 런 셩 즈 짜이 워 시옹 종  예 쑤 타 땅 주 런 랴오 <br /><br />
 
-		워 셩 밍   짜이 타 리   타 띠 셩 밍   짜이 워 리 <br />
-		워 띠 런 셩   쥐에 뿌 넝   이 치앤 이 양
+		워 셩 밍  짜이타 리 타 띠 셩 밍 짜이 워 리 <br />
+		워 띠 런 셩 쥐에 뿌 넝 이 치앤 이 양
 	</div>
 	<div id="t7_tab_5" class="tab_content" style="display:none">
 		<img src="https://s-media-cache-ak0.pinimg.com/originals/4b/9a/62/4b9a623ecd87962c7925906722178336.jpg"/>
@@ -870,5 +868,3 @@ comments:true
 		<img src="http://cfile29.uf.tistory.com/image/1207A33A4E853FDA1533C2"/>
 	</div>
 </div>
-
-
