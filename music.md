@@ -678,7 +678,7 @@ comments:true
 		워 띠 런 셩 쥐에 뿌 넝 이 치앤 이 양
 	</div>
 	<div id="t7_tab_5" class="tab_content" style="display:none">
-		<img src="https://s-media-cache-ak0.pinimg.com/originals/4b/9a/62/4b9a623ecd87962c7925906722178336.jpg"/>
+		<img src="../images/akbo6.png"/>
 	</div>
 </div>
 
@@ -788,7 +788,7 @@ comments:true
 		짜이 나 띠 워 야오 징 빠이 ( * 2 )
 	</div>
 	<div id="t9_tab_5" class="tab_content" style="display:none">
-		<img src="../images/track_9.jpg"/>
+		<img src="../images/akbo7.jpg"/>
 	</div>
 </div>
 
@@ -870,6 +870,6 @@ comments:true
 		씨엔 짜이 예 쩡 지에 셔우 쩌양디 아이
 	</div>
 	<div id="t10_tab_5" class="tab_content" style="display:none">
-		<img src="http://cfile29.uf.tistory.com/image/1207A33A4E853FDA1533C2"/>
+		<img src="../images/akbo8.png"/>
 	</div>
 </div>
